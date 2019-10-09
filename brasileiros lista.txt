@@ -1,0 +1,554 @@
+#EXTINF:-1,A&E
+http://plus.cicloplay.com:8880/0708/0708/2346
+#EXTINF:-1,A&E FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22278
+#EXTINF:-1,A&E HD
+http://plus.cicloplay.com:8880/0708/0708/7088
+#EXTINF:-1,AMC
+http://plus.cicloplay.com:8880/0708/0708/2345
+#EXTINF:-1,Animal  Planet FHD
+http://plus.cicloplay.com:8880/0708/0708/7151
+#EXTINF:-1,Animal Planet
+http://plus.cicloplay.com:8880/0708/0708/2343
+#EXTINF:-1,Animal Planet FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22276
+#EXTINF:-1,Animal Planet HD
+http://plus.cicloplay.com:8880/0708/0708/2342
+#EXTINF:-1,Aparecida
+http://plus.cicloplay.com:8880/0708/0708/2341
+#EXTINF:-1,Arte 1
+http://plus.cicloplay.com:8880/0708/0708/2339
+#EXTINF:-1,Arte 1 HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7488
+#EXTINF:-1,AXN
+http://plus.cicloplay.com:8880/0708/0708/2338
+#EXTINF:-1,AXN FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22275
+#EXTINF:-1,AXN HD
+http://plus.cicloplay.com:8880/0708/0708/2337
+#EXTINF:-1,Baby TV
+http://plus.cicloplay.com:8880/0708/0708/2336
+#EXTINF:-1,Band
+http://plus.cicloplay.com:8880/0708/0708/2335
+#EXTINF:-1,Band FHD
+http://plus.cicloplay.com:8880/0708/0708/7188
+#EXTINF:-1,Band FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22274
+#EXTINF:-1,Band HD
+http://plus.cicloplay.com:8880/0708/0708/2334
+#EXTINF:-1,Band News
+http://plus.cicloplay.com:8880/0708/0708/2333
+#EXTINF:-1,Band News FHD
+http://plus.cicloplay.com:8880/0708/0708/7150
+#EXTINF:-1,Band News FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22273
+#EXTINF:-1,Band Sports
+http://plus.cicloplay.com:8880/0708/0708/2332
+#EXTINF:-1,Band Sports FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22272
+#EXTINF:-1,Band Sports HD
+http://plus.cicloplay.com:8880/0708/0708/2331
+#EXTINF:-1,BIS
+http://plus.cicloplay.com:8880/0708/0708/2330
+#EXTINF:-1,BIS FHD
+http://plus.cicloplay.com:8880/0708/0708/7162
+#EXTINF:-1,BIS FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22271
+#EXTINF:-1,BIS HD
+http://plus.cicloplay.com:8880/0708/0708/2329
+#EXTINF:-1,Boa Vontade
+http://plus.cicloplay.com:8880/0708/0708/7476
+#EXTINF:-1,Boomerang
+http://plus.cicloplay.com:8880/0708/0708/2328
+#EXTINF:-1,Boomerang  FHD
+http://plus.cicloplay.com:8880/0708/0708/7149
+#EXTINF:-1,Boomerang FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22270
+#EXTINF:-1,Brasileirão Série C HD
+http://plus.cicloplay.com:8880/0708/0708/21776
+#EXTINF:-1,Canal Brasil [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7473
+#EXTINF:-1,Canal Brasil HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7472
+#EXTINF:-1,Canal do Boi
+http://plus.cicloplay.com:8880/0708/0708/11574
+#EXTINF:-1,Canal Sony
+http://plus.cicloplay.com:8880/0708/0708/2325
+#EXTINF:-1,Canal Sony HD
+http://plus.cicloplay.com:8880/0708/0708/2324
+#EXTINF:-1,Canção Nova
+http://plus.cicloplay.com:8880/0708/0708/22152
+#EXTINF:-1,Cartoon FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22269
+#EXTINF:-1,Cartoon Network
+http://plus.cicloplay.com:8880/0708/0708/2322
+#EXTINF:-1,Cartoon Network HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7467
+#EXTINF:-1,Cinemax
+http://plus.cicloplay.com:8880/0708/0708/2320
+#EXTINF:-1,Cinemax [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7466
+#EXTINF:-1,Cinemax FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22268
+#EXTINF:-1,Cinemax HD
+http://plus.cicloplay.com:8880/0708/0708/7089
+#EXTINF:-1,Combat FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22267
+#EXTINF:-1,Combate
+http://plus.cicloplay.com:8880/0708/0708/2319
+#EXTINF:-1,Combate 4K
+http://plus.cicloplay.com:8880/0708/0708/22155
+#EXTINF:-1,Combate FHD
+http://plus.cicloplay.com:8880/0708/0708/7187
+#EXTINF:-1,Combate HD
+http://plus.cicloplay.com:8880/0708/0708/2318
+#EXTINF:-1,Comedy Central
+http://plus.cicloplay.com:8880/0708/0708/2317
+#EXTINF:-1,Comedy Central FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22266
+#EXTINF:-1,Comedy Central HD
+http://plus.cicloplay.com:8880/0708/0708/7098
+#EXTINF:-1,Comedy Central HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7461
+#EXTINF:-1,Copa Libertadores HD
+http://plus.cicloplay.com:8880/0708/0708/21761
+#EXTINF:-1,Copa Sul Americana HD
+http://plus.cicloplay.com:8880/0708/0708/21760
+#EXTINF:-1,Curta
+http://plus.cicloplay.com:8880/0708/0708/7110
+#EXTINF:-1,Curta [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7460
+#EXTINF:-1,Curta HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7459
+#EXTINF:-1,Discovery Channel
+http://plus.cicloplay.com:8880/0708/0708/2316
+#EXTINF:-1,Discovery Channel FHD
+http://plus.cicloplay.com:8880/0708/0708/7163
+#EXTINF:-1,Discovery Channel FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22265
+#EXTINF:-1,Discovery Channel HD
+http://plus.cicloplay.com:8880/0708/0708/2315
+#EXTINF:-1,Discovery Channel HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13704
+#EXTINF:-1,Discovery Channel HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7457
+#EXTINF:-1,Discovery Civilization [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13705
+#EXTINF:-1,Discovery Civilization [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7456
+#EXTINF:-1,Discovery Civilization FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22264
+#EXTINF:-1,Discovery Home Health HD
+http://plus.cicloplay.com:8880/0708/0708/2313
+#EXTINF:-1,Discovery Kids
+http://plus.cicloplay.com:8880/0708/0708/2312
+#EXTINF:-1,Discovery Kids FHD
+http://plus.cicloplay.com:8880/0708/0708/7147
+#EXTINF:-1,Discovery Kids FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22262
+#EXTINF:-1,Discovery Science HD
+http://plus.cicloplay.com:8880/0708/0708/2129
+#EXTINF:-1,Discovery Science HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13712
+#EXTINF:-1,Discovery Science HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7449
+#EXTINF:-1,Discovery Theater [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7448
+#EXTINF:-1,Discovery Theater HD
+http://plus.cicloplay.com:8880/0708/0708/2311
+#EXTINF:-1,Discovery Turbo
+http://plus.cicloplay.com:8880/0708/0708/2310
+#EXTINF:-1,Discovery Turbo FHD
+http://plus.cicloplay.com:8880/0708/0708/7146
+#EXTINF:-1,Discovery Turbo FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22212
+#EXTINF:-1,Discovery Turbo HD
+http://plus.cicloplay.com:8880/0708/0708/2309
+#EXTINF:-1,Discovery Turbo HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13716
+#EXTINF:-1,Discovery World FHD
+http://plus.cicloplay.com:8880/0708/0708/7145
+#EXTINF:-1,Discovery World FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22259
+#EXTINF:-1,Discovery World HD
+http://plus.cicloplay.com:8880/0708/0708/2308
+#EXTINF:-1,Disney Channel
+http://plus.cicloplay.com:8880/0708/0708/2307
+#EXTINF:-1,Disney Channel [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7442
+#EXTINF:-1,Disney Channel FHD
+http://plus.cicloplay.com:8880/0708/0708/7161
+#EXTINF:-1,Disney XD
+http://plus.cicloplay.com:8880/0708/0708/2305
+#EXTINF:-1,ESPN + HD
+http://plus.cicloplay.com:8880/0708/0708/7099
+#EXTINF:-1,ESPN 2 FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22197
+#EXTINF:-1,ESPN Brasil
+http://plus.cicloplay.com:8880/0708/0708/2301
+#EXTINF:-1,ESPN Brasil FHD
+http://plus.cicloplay.com:8880/0708/0708/7172
+#EXTINF:-1,ESPN Brasil FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22256
+#EXTINF:-1,ESPN Brasil HD
+http://plus.cicloplay.com:8880/0708/0708/2300
+#EXTINF:-1,ESPN Extra
+http://plus.cicloplay.com:8880/0708/0708/7429
+#EXTINF:-1,ESPN Extra FHD
+http://plus.cicloplay.com:8880/0708/0708/7136
+#EXTINF:-1,ESPN Extra HD
+http://plus.cicloplay.com:8880/0708/0708/7428
+#EXTINF:-1,ESPN FHD
+http://plus.cicloplay.com:8880/0708/0708/7160
+#EXTINF:-1,Fish TV
+http://plus.cicloplay.com:8880/0708/0708/2294
+#EXTINF:-1,Fish TV [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7420
+#EXTINF:-1,Food Network
+http://plus.cicloplay.com:8880/0708/0708/2293
+#EXTINF:-1,Food Network FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22254
+#EXTINF:-1,Food Network HD
+http://plus.cicloplay.com:8880/0708/0708/2144
+#EXTINF:-1,Food Network HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7417
+#EXTINF:-1,FOX
+http://plus.cicloplay.com:8880/0708/0708/2292
+#EXTINF:-1,FOX FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22253
+#EXTINF:-1,FOX HD
+http://plus.cicloplay.com:8880/0708/0708/2291
+#EXTINF:-1,FOX HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7415
+#EXTINF:-1,Fox Life
+http://plus.cicloplay.com:8880/0708/0708/2290
+#EXTINF:-1,FOX Life FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22252
+#EXTINF:-1,Fox Life HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7413
+#EXTINF:-1,Fox Premium 1 HD
+http://plus.cicloplay.com:8880/0708/0708/2288
+#EXTINF:-1,Fox Premium 2 HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7409
+#EXTINF:-1,Fox Sport HD
+http://plus.cicloplay.com:8880/0708/0708/2286
+#EXTINF:-1,Fox Sports
+http://plus.cicloplay.com:8880/0708/0708/2285
+#EXTINF:-1,Fox Sports [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7408
+#EXTINF:-1,Fox Sports 2
+http://plus.cicloplay.com:8880/0708/0708/2284
+#EXTINF:-1,FOX Sports 2 FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22251
+#EXTINF:-1,FOX Sports 2 HD
+http://plus.cicloplay.com:8880/0708/0708/2283
+#EXTINF:-1,FOX Sportv 2 FHD
+http://plus.cicloplay.com:8880/0708/0708/7157
+#EXTINF:-1,Futura
+http://plus.cicloplay.com:8880/0708/0708/2282
+#EXTINF:-1,Futura [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7404
+#EXTINF:-1,FX
+http://plus.cicloplay.com:8880/0708/0708/2281
+#EXTINF:-1,FX FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22249
+#EXTINF:-1,FX HD
+http://plus.cicloplay.com:8880/0708/0708/2280
+#EXTINF:-1,Globo Bahia [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13751
+#EXTINF:-1,Globo Minas FHD
+http://plus.cicloplay.com:8880/0708/0708/7185
+#EXTINF:-1,Globo News
+http://plus.cicloplay.com:8880/0708/0708/2274
+#EXTINF:-1,Globo RJ
+http://plus.cicloplay.com:8880/0708/0708/2278
+#EXTINF:-1,Globo RJ HD
+http://plus.cicloplay.com:8880/0708/0708/2277
+#EXTINF:-1,Globo RJ HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7383
+#EXTINF:-1,Globo SP
+http://plus.cicloplay.com:8880/0708/0708/2276
+#EXTINF:-1,Globo SP FHD
+http://plus.cicloplay.com:8880/0708/0708/7183
+#EXTINF:-1,H2 HD
+http://plus.cicloplay.com:8880/0708/0708/2268
+#EXTINF:-1,H2 HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7363
+#EXTINF:-1,HBO [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7362
+#EXTINF:-1,HBO 2 HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7360
+#EXTINF:-1,HBO Family
+http://plus.cicloplay.com:8880/0708/0708/2264
+#EXTINF:-1,HBO Family [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7359
+#EXTINF:-1,HBO Family FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22243
+#EXTINF:-1,HBO Family HD
+http://plus.cicloplay.com:8880/0708/0708/2263
+#EXTINF:-1,HBO Family HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7358
+#EXTINF:-1,HBO FHD
+http://plus.cicloplay.com:8880/0708/0708/7181
+#EXTINF:-1,HBO FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22242
+#EXTINF:-1,HBO HD
+http://plus.cicloplay.com:8880/0708/0708/2262
+#EXTINF:-1,HBO Plus
+http://plus.cicloplay.com:8880/0708/0708/2261
+#EXTINF:-1,HBO Plus FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22241
+#EXTINF:-1,HBO Plus HD
+http://plus.cicloplay.com:8880/0708/0708/2259
+#EXTINF:-1,HBO Signature FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22240
+#EXTINF:-1,HBO Signature HD
+http://plus.cicloplay.com:8880/0708/0708/2257
+#EXTINF:-1,I-SAT
+http://plus.cicloplay.com:8880/0708/0708/2255
+#EXTINF:-1,ID - Investigacao Discovery
+http://plus.cicloplay.com:8880/0708/0708/2254
+#EXTINF:-1,ID - Investigação Discovery HD
+http://plus.cicloplay.com:8880/0708/0708/2253
+#EXTINF:-1,Ideal TV
+http://plus.cicloplay.com:8880/0708/0708/7108
+#EXTINF:-1,Lifetime FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22238
+#EXTINF:-1,Lifetime HD
+http://plus.cicloplay.com:8880/0708/0708/2141
+#EXTINF:-1,Mais Globosat HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7344
+#EXTINF:-1,MAX
+http://plus.cicloplay.com:8880/0708/0708/2250
+#EXTINF:-1,MAX FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22237
+#EXTINF:-1,Max HD
+http://plus.cicloplay.com:8880/0708/0708/7091
+#EXTINF:-1,Max Prime HD
+http://plus.cicloplay.com:8880/0708/0708/7092
+#EXTINF:-1,Max UP HD
+http://plus.cicloplay.com:8880/0708/0708/7093
+#EXTINF:-1,Megapix
+http://plus.cicloplay.com:8880/0708/0708/2246
+#EXTINF:-1,Megapix FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22234
+#EXTINF:-1,Megapix HD
+http://plus.cicloplay.com:8880/0708/0708/2245
+#EXTINF:-1,MTV
+http://plus.cicloplay.com:8880/0708/0708/2244
+#EXTINF:-1,MTV FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22233
+#EXTINF:-1,MTV HD
+http://plus.cicloplay.com:8880/0708/0708/2140
+#EXTINF:-1,Multishow FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22232
+#EXTINF:-1,Multishow HD
+http://plus.cicloplay.com:8880/0708/0708/2242
+#EXTINF:-1,Music Box Brasil [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7330
+#EXTINF:-1,Music Box Brazil
+http://plus.cicloplay.com:8880/0708/0708/2241
+#EXTINF:-1,Nat Geo Wild FHD
+http://plus.cicloplay.com:8880/0708/0708/7143
+#EXTINF:-1,NatGeo Kids HD
+http://plus.cicloplay.com:8880/0708/0708/2126
+#EXTINF:-1,NatGeo Kids HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7325
+#EXTINF:-1,NatGeo Wild
+http://plus.cicloplay.com:8880/0708/0708/2239
+#EXTINF:-1,Natgeo Wild FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22229
+#EXTINF:-1,NatGeoWild HD
+http://plus.cicloplay.com:8880/0708/0708/2238
+#EXTINF:-1,National Geographic
+http://plus.cicloplay.com:8880/0708/0708/2237
+#EXTINF:-1,NBR
+http://plus.cicloplay.com:8880/0708/0708/2235
+#EXTINF:-1,NHK
+http://plus.cicloplay.com:8880/0708/0708/2234
+#EXTINF:-1,Nick FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22228
+#EXTINF:-1,Nick Jr
+http://plus.cicloplay.com:8880/0708/0708/2233
+#EXTINF:-1,NICK JR FHD
+http://plus.cicloplay.com:8880/0708/0708/7142
+#EXTINF:-1,NICKELODEON FHD
+http://plus.cicloplay.com:8880/0708/0708/7141
+#EXTINF:-1,OFF
+http://plus.cicloplay.com:8880/0708/0708/2230
+#EXTINF:-1,OFF [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7317
+#EXTINF:-1,OFF HD
+http://plus.cicloplay.com:8880/0708/0708/2229
+#EXTINF:-1,OFF HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7316
+#EXTINF:-1,Paramount [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7315
+#EXTINF:-1,Paramount Channel FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22226
+#EXTINF:-1,Paramount HD
+http://plus.cicloplay.com:8880/0708/0708/2227
+#EXTINF:-1,Play TV
+http://plus.cicloplay.com:8880/0708/0708/2226
+#EXTINF:-1,Playboy [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7224
+#EXTINF:-1,Playboy HD
+http://plus.cicloplay.com:8880/0708/0708/8436
+#EXTINF:-1,Premiere 3 FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22203
+#EXTINF:-1,Premiere 3 HD
+http://plus.cicloplay.com:8880/0708/0708/2219
+#EXTINF:-1,Premiere 3 HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7310
+#EXTINF:-1,Premiere 4 HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13727
+#EXTINF:-1,Premiere 5
+http://plus.cicloplay.com:8880/0708/0708/2216
+#EXTINF:-1,Premiere 7 FHD
+http://plus.cicloplay.com:8880/0708/0708/7164
+#EXTINF:-1,Premiere 7 FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22199
+#EXTINF:-1,Premiere 7 HD
+http://plus.cicloplay.com:8880/0708/0708/7095
+#EXTINF:-1,Premiere 8
+http://plus.cicloplay.com:8880/0708/0708/2212
+#EXTINF:-1,Premiere Clubes
+http://plus.cicloplay.com:8880/0708/0708/2224
+#EXTINF:-1,Record [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7297
+#EXTINF:-1,Record BA - HD
+http://plus.cicloplay.com:8880/0708/0708/18415
+#EXTINF:-1,Record FHD
+http://plus.cicloplay.com:8880/0708/0708/7180
+#EXTINF:-1,Record FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22225
+#EXTINF:-1,Record HD
+http://plus.cicloplay.com:8880/0708/0708/2206
+#EXTINF:-1,Record RJ HD
+http://plus.cicloplay.com:8880/0708/0708/16350
+#EXTINF:-1,Record SP FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22195
+#EXTINF:-1,Rede Brasil
+http://plus.cicloplay.com:8880/0708/0708/2204
+#EXTINF:-1,Rede Super
+http://plus.cicloplay.com:8880/0708/0708/8677
+#EXTINF:-1,Rede TV
+http://plus.cicloplay.com:8880/0708/0708/2203
+#EXTINF:-1,Rede TV HD
+http://plus.cicloplay.com:8880/0708/0708/2202
+#EXTINF:-1,Rede Vida
+http://plus.cicloplay.com:8880/0708/0708/2201
+#EXTINF:-1,RIT
+http://plus.cicloplay.com:8880/0708/0708/2199
+#EXTINF:-1,SBT
+http://plus.cicloplay.com:8880/0708/0708/2198
+#EXTINF:-1,SBT HD
+http://plus.cicloplay.com:8880/0708/0708/2197
+#EXTINF:-1,SBT HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13797
+#EXTINF:-1,SBT HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7286
+#EXTINF:-1,SBT SP Interior [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7285
+#EXTINF:-1,SIC Internacional
+http://plus.cicloplay.com:8880/0708/0708/2194
+#EXTINF:-1,Sony FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22224
+#EXTINF:-1,Space HD
+http://plus.cicloplay.com:8880/0708/0708/2192
+#EXTINF:-1,Sport TV 2 HD
+http://plus.cicloplay.com:8880/0708/0708/2191
+#EXTINF:-1,Sport TV 3 HD
+http://plus.cicloplay.com:8880/0708/0708/2190
+#EXTINF:-1,Sport TV HD
+http://plus.cicloplay.com:8880/0708/0708/2189
+#EXTINF:-1,SporTV 2
+http://plus.cicloplay.com:8880/0708/0708/2187
+#EXTINF:-1,Sportv FHD
+http://plus.cicloplay.com:8880/0708/0708/7178
+#EXTINF:-1,Sportv FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22220
+#EXTINF:-1,SporTV HD [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13422
+#EXTINF:-1,SporTV HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7275
+#EXTINF:-1,Studio Universal
+http://plus.cicloplay.com:8880/0708/0708/2185
+#EXTINF:-1,Studio Universal [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7274
+#EXTINF:-1,Studio Universal FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22219
+#EXTINF:-1,Studio Universal HD
+http://plus.cicloplay.com:8880/0708/0708/7096
+#EXTINF:-1,Studio Universal HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7273
+#EXTINF:-1,Syfy HD
+http://plus.cicloplay.com:8880/0708/0708/2124
+#EXTINF:-1,TBS
+http://plus.cicloplay.com:8880/0708/0708/2183
+#EXTINF:-1,TBS HD
+http://plus.cicloplay.com:8880/0708/0708/2182
+#EXTINF:-1,TCM
+http://plus.cicloplay.com:8880/0708/0708/2181
+#EXTINF:-1,Telecine Action
+http://plus.cicloplay.com:8880/0708/0708/2180
+#EXTINF:-1,Telecine Action FHD
+http://plus.cicloplay.com:8880/0708/0708/7177
+#EXTINF:-1,Telecine Cult
+http://plus.cicloplay.com:8880/0708/0708/2178
+#EXTINF:-1,Telecine Fun
+http://plus.cicloplay.com:8880/0708/0708/2177
+#EXTINF:-1,Telecine Pipoca
+http://plus.cicloplay.com:8880/0708/0708/2175
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7258
+#EXTINF:-1,Telecine Touch
+http://plus.cicloplay.com:8880/0708/0708/2171
+#EXTINF:-1,Telecine Touch [Alter 2]
+http://plus.cicloplay.com:8880/0708/0708/13668
+#EXTINF:-1,Telecine Touch FHD
+http://plus.cicloplay.com:8880/0708/0708/7173
+#EXTINF:-1,The History Channel FHD
+http://plus.cicloplay.com:8880/0708/0708/7139
+#EXTINF:-1,The History FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22215
+#EXTINF:-1,TLC
+http://plus.cicloplay.com:8880/0708/0708/2167
+#EXTINF:-1,TNT
+http://plus.cicloplay.com:8880/0708/0708/2166
+#EXTINF:-1,TNT Series FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22205
+#EXTINF:-1,Trans 2
+http://plus.cicloplay.com:8880/0708/0708/18413
+#EXTINF:-1,TruTV
+http://plus.cicloplay.com:8880/0708/0708/2161
+#EXTINF:-1,TV Escola
+http://plus.cicloplay.com:8880/0708/0708/7242
+#EXTINF:-1,TV Gloobinho HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7368
+#EXTINF:-1,TV Justiça
+http://plus.cicloplay.com:8880/0708/0708/7246
+#EXTINF:-1,TV Ra tim bum
+http://plus.cicloplay.com:8880/0708/0708/2157
+#EXTINF:-1,TV Ra tim bum HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7239
+#EXTINF:-1,Tv Seculo 21
+http://plus.cicloplay.com:8880/0708/0708/11610
+#EXTINF:-1,TVE
+http://plus.cicloplay.com:8880/0708/0708/2156
+#EXTINF:-1,Universal Channels HD
+http://plus.cicloplay.com:8880/0708/0708/2154
+#EXTINF:-1,Venus
+http://plus.cicloplay.com:8880/0708/0708/2147
+#EXTINF:-1,Viva HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7230
+#EXTINF:-1,Warner Channel
+http://plus.cicloplay.com:8880/0708/0708/2150
+#EXTINF:-1,Warner Channel FHD H.265
+http://plus.cicloplay.com:8880/0708/0708/22213
+#EXTINF:-1,Warner Channel HD
+http://plus.cicloplay.com:8880/0708/0708/2149
+#EXTINF:-1,Warner FHD
+http://plus.cicloplay.com:8880/0708/0708/7140
+#EXTINF:-1,Woohoo HD [Alter]
+http://plus.cicloplay.com:8880/0708/0708/7226
