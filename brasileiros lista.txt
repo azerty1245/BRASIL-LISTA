@@ -1,554 +1,1044 @@
-#EXTINF:-1,A&E
-http://plus.cicloplay.com:8880/0708/0708/2346
-#EXTINF:-1,A&E FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22278
+#EXTINF:-1,A FAZENDA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33564
+#EXTINF:-1,A FAZENDA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33563
+#EXTINF:-1,EI PLUS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24835
+#EXTINF:-1,EI PLUS 3 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/32163
+#EXTINF:-1,SPORT X ATLETICO/MG BR S17
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30242
+#EXTINF:-1,COPA DO NORDESTE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20070
+#EXTINF:-1,COPA DO NORDESTE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20069
+#EXTINF:-1,A&E FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9344
 #EXTINF:-1,A&E HD
-http://plus.cicloplay.com:8880/0708/0708/7088
-#EXTINF:-1,AMC
-http://plus.cicloplay.com:8880/0708/0708/2345
-#EXTINF:-1,Animal  Planet FHD
-http://plus.cicloplay.com:8880/0708/0708/7151
-#EXTINF:-1,Animal Planet
-http://plus.cicloplay.com:8880/0708/0708/2343
-#EXTINF:-1,Animal Planet FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22276
-#EXTINF:-1,Animal Planet HD
-http://plus.cicloplay.com:8880/0708/0708/2342
-#EXTINF:-1,Aparecida
-http://plus.cicloplay.com:8880/0708/0708/2341
-#EXTINF:-1,Arte 1
-http://plus.cicloplay.com:8880/0708/0708/2339
-#EXTINF:-1,Arte 1 HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7488
-#EXTINF:-1,AXN
-http://plus.cicloplay.com:8880/0708/0708/2338
-#EXTINF:-1,AXN FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22275
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8139
+#EXTINF:-1,A&E HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20892
+#EXTINF:-1,A&E SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4404
+#EXTINF:-1,A&E SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20893
+#EXTINF:-1,AMC FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9343
+#EXTINF:-1,AMC HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7691
+#EXTINF:-1,AMC HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20890
+#EXTINF:-1,AMC SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7448
+#EXTINF:-1,AMC SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20891
+#EXTINF:-1,ANIMAL PLANET FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13205
+#EXTINF:-1,ANIMAL PLANET HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6142
+#EXTINF:-1,ANIMAL PLANET HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24628
+#EXTINF:-1,ANIMAL PLANET SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4403
+#EXTINF:-1,ANIMAL PLANET SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20887
+#EXTINF:-1,ARIRANG TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4407
+#EXTINF:-1,ARTE 1 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7904
+#EXTINF:-1,ARTE 1 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20880
+#EXTINF:-1,AXN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13212
 #EXTINF:-1,AXN HD
-http://plus.cicloplay.com:8880/0708/0708/2337
-#EXTINF:-1,Baby TV
-http://plus.cicloplay.com:8880/0708/0708/2336
-#EXTINF:-1,Band
-http://plus.cicloplay.com:8880/0708/0708/2335
-#EXTINF:-1,Band FHD
-http://plus.cicloplay.com:8880/0708/0708/7188
-#EXTINF:-1,Band FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22274
-#EXTINF:-1,Band HD
-http://plus.cicloplay.com:8880/0708/0708/2334
-#EXTINF:-1,Band News
-http://plus.cicloplay.com:8880/0708/0708/2333
-#EXTINF:-1,Band News FHD
-http://plus.cicloplay.com:8880/0708/0708/7150
-#EXTINF:-1,Band News FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22273
-#EXTINF:-1,Band Sports
-http://plus.cicloplay.com:8880/0708/0708/2332
-#EXTINF:-1,Band Sports FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22272
-#EXTINF:-1,Band Sports HD
-http://plus.cicloplay.com:8880/0708/0708/2331
-#EXTINF:-1,BIS
-http://plus.cicloplay.com:8880/0708/0708/2330
-#EXTINF:-1,BIS FHD
-http://plus.cicloplay.com:8880/0708/0708/7162
-#EXTINF:-1,BIS FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22271
-#EXTINF:-1,BIS HD
-http://plus.cicloplay.com:8880/0708/0708/2329
-#EXTINF:-1,Boa Vontade
-http://plus.cicloplay.com:8880/0708/0708/7476
-#EXTINF:-1,Boomerang
-http://plus.cicloplay.com:8880/0708/0708/2328
-#EXTINF:-1,Boomerang  FHD
-http://plus.cicloplay.com:8880/0708/0708/7149
-#EXTINF:-1,Boomerang FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22270
-#EXTINF:-1,Brasileirão Série C HD
-http://plus.cicloplay.com:8880/0708/0708/21776
-#EXTINF:-1,Canal Brasil [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7473
-#EXTINF:-1,Canal Brasil HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7472
-#EXTINF:-1,Canal do Boi
-http://plus.cicloplay.com:8880/0708/0708/11574
-#EXTINF:-1,Canal Sony
-http://plus.cicloplay.com:8880/0708/0708/2325
-#EXTINF:-1,Canal Sony HD
-http://plus.cicloplay.com:8880/0708/0708/2324
-#EXTINF:-1,Canção Nova
-http://plus.cicloplay.com:8880/0708/0708/22152
-#EXTINF:-1,Cartoon FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22269
-#EXTINF:-1,Cartoon Network
-http://plus.cicloplay.com:8880/0708/0708/2322
-#EXTINF:-1,Cartoon Network HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7467
-#EXTINF:-1,Cinemax
-http://plus.cicloplay.com:8880/0708/0708/2320
-#EXTINF:-1,Cinemax [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7466
-#EXTINF:-1,Cinemax FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22268
-#EXTINF:-1,Cinemax HD
-http://plus.cicloplay.com:8880/0708/0708/7089
-#EXTINF:-1,Combat FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22267
-#EXTINF:-1,Combate
-http://plus.cicloplay.com:8880/0708/0708/2319
-#EXTINF:-1,Combate 4K
-http://plus.cicloplay.com:8880/0708/0708/22155
-#EXTINF:-1,Combate FHD
-http://plus.cicloplay.com:8880/0708/0708/7187
-#EXTINF:-1,Combate HD
-http://plus.cicloplay.com:8880/0708/0708/2318
-#EXTINF:-1,Comedy Central
-http://plus.cicloplay.com:8880/0708/0708/2317
-#EXTINF:-1,Comedy Central FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22266
-#EXTINF:-1,Comedy Central HD
-http://plus.cicloplay.com:8880/0708/0708/7098
-#EXTINF:-1,Comedy Central HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7461
-#EXTINF:-1,Copa Libertadores HD
-http://plus.cicloplay.com:8880/0708/0708/21761
-#EXTINF:-1,Copa Sul Americana HD
-http://plus.cicloplay.com:8880/0708/0708/21760
-#EXTINF:-1,Curta
-http://plus.cicloplay.com:8880/0708/0708/7110
-#EXTINF:-1,Curta [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7460
-#EXTINF:-1,Curta HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7459
-#EXTINF:-1,Discovery Channel
-http://plus.cicloplay.com:8880/0708/0708/2316
-#EXTINF:-1,Discovery Channel FHD
-http://plus.cicloplay.com:8880/0708/0708/7163
-#EXTINF:-1,Discovery Channel FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22265
-#EXTINF:-1,Discovery Channel HD
-http://plus.cicloplay.com:8880/0708/0708/2315
-#EXTINF:-1,Discovery Channel HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13704
-#EXTINF:-1,Discovery Channel HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7457
-#EXTINF:-1,Discovery Civilization [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13705
-#EXTINF:-1,Discovery Civilization [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7456
-#EXTINF:-1,Discovery Civilization FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22264
-#EXTINF:-1,Discovery Home Health HD
-http://plus.cicloplay.com:8880/0708/0708/2313
-#EXTINF:-1,Discovery Kids
-http://plus.cicloplay.com:8880/0708/0708/2312
-#EXTINF:-1,Discovery Kids FHD
-http://plus.cicloplay.com:8880/0708/0708/7147
-#EXTINF:-1,Discovery Kids FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22262
-#EXTINF:-1,Discovery Science HD
-http://plus.cicloplay.com:8880/0708/0708/2129
-#EXTINF:-1,Discovery Science HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13712
-#EXTINF:-1,Discovery Science HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7449
-#EXTINF:-1,Discovery Theater [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7448
-#EXTINF:-1,Discovery Theater HD
-http://plus.cicloplay.com:8880/0708/0708/2311
-#EXTINF:-1,Discovery Turbo
-http://plus.cicloplay.com:8880/0708/0708/2310
-#EXTINF:-1,Discovery Turbo FHD
-http://plus.cicloplay.com:8880/0708/0708/7146
-#EXTINF:-1,Discovery Turbo FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22212
-#EXTINF:-1,Discovery Turbo HD
-http://plus.cicloplay.com:8880/0708/0708/2309
-#EXTINF:-1,Discovery Turbo HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13716
-#EXTINF:-1,Discovery World FHD
-http://plus.cicloplay.com:8880/0708/0708/7145
-#EXTINF:-1,Discovery World FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22259
-#EXTINF:-1,Discovery World HD
-http://plus.cicloplay.com:8880/0708/0708/2308
-#EXTINF:-1,Disney Channel
-http://plus.cicloplay.com:8880/0708/0708/2307
-#EXTINF:-1,Disney Channel [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7442
-#EXTINF:-1,Disney Channel FHD
-http://plus.cicloplay.com:8880/0708/0708/7161
-#EXTINF:-1,Disney XD
-http://plus.cicloplay.com:8880/0708/0708/2305
-#EXTINF:-1,ESPN + HD
-http://plus.cicloplay.com:8880/0708/0708/7099
-#EXTINF:-1,ESPN 2 FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22197
-#EXTINF:-1,ESPN Brasil
-http://plus.cicloplay.com:8880/0708/0708/2301
-#EXTINF:-1,ESPN Brasil FHD
-http://plus.cicloplay.com:8880/0708/0708/7172
-#EXTINF:-1,ESPN Brasil FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22256
-#EXTINF:-1,ESPN Brasil HD
-http://plus.cicloplay.com:8880/0708/0708/2300
-#EXTINF:-1,ESPN Extra
-http://plus.cicloplay.com:8880/0708/0708/7429
-#EXTINF:-1,ESPN Extra FHD
-http://plus.cicloplay.com:8880/0708/0708/7136
-#EXTINF:-1,ESPN Extra HD
-http://plus.cicloplay.com:8880/0708/0708/7428
-#EXTINF:-1,ESPN FHD
-http://plus.cicloplay.com:8880/0708/0708/7160
-#EXTINF:-1,Fish TV
-http://plus.cicloplay.com:8880/0708/0708/2294
-#EXTINF:-1,Fish TV [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7420
-#EXTINF:-1,Food Network
-http://plus.cicloplay.com:8880/0708/0708/2293
-#EXTINF:-1,Food Network FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22254
-#EXTINF:-1,Food Network HD
-http://plus.cicloplay.com:8880/0708/0708/2144
-#EXTINF:-1,Food Network HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7417
-#EXTINF:-1,FOX
-http://plus.cicloplay.com:8880/0708/0708/2292
-#EXTINF:-1,FOX FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22253
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6140
+#EXTINF:-1,AXN SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4402
+#EXTINF:-1,AXN SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20884
+#EXTINF:-1,ALJAZEERA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7550
+#EXTINF:-1,ALL SPORT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6812
+#EXTINF:-1,BABY TV HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20870
+#EXTINF:-1,BABY TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4401
+#EXTINF:-1,BABY TV SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20871
+#EXTINF:-1,BAND NEWS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11536
+#EXTINF:-1,BAND NEWS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4399
+#EXTINF:-1,BAND NEWS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20869
+#EXTINF:-1,SBT GOIANIA FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30438
+#EXTINF:-1,BAND BRASILIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33274
+#EXTINF:-1,BAND CAMPINAS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33280
+#EXTINF:-1,BAND FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25008
+#EXTINF:-1,BAND HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6882
+#EXTINF:-1,BAND HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20874
+#EXTINF:-1,BAND SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4400
+#EXTINF:-1,BAND SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20875
+#EXTINF:-1,BAND RJ HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25542
+#EXTINF:-1,BAND TV TAROBA PARANA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24924
+#EXTINF:-1,BAND ARACAJU HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24752
+#EXTINF:-1,BAND SPORTS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4398
+#EXTINF:-1,BAND SPORTS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20864
+#EXTINF:-1,BIS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11547
+#EXTINF:-1,BLOOMBERG TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7424
+#EXTINF:-1,BOOMERANG FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11534
+#EXTINF:-1,BOOMERANG SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4396
+#EXTINF:-1,CANAL BRASIL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10293
+#EXTINF:-1,CANAL BRASIL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6963
+#EXTINF:-1,CANAL SONY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13202
+#EXTINF:-1,CANAL SONY HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6961
+#EXTINF:-1,CANCAO NOVA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6173
+#EXTINF:-1,CARTOON NETWORK FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13210
+#EXTINF:-1,CARTOON NETWORK HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7817
+#EXTINF:-1,CARTOON NETWORK HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20844
+#EXTINF:-1,CARTOON NETWORK SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4394
+#EXTINF:-1,CARTOON NETWORK SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20845
+#EXTINF:-1,CINEMAX HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7802
+#EXTINF:-1,CINEMAX SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24630
+#EXTINF:-1,CNT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20841
+#EXTINF:-1,COMBATE FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8152
+#EXTINF:-1,COMBATE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6172
+#EXTINF:-1,COMBATE HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20831
+#EXTINF:-1,COMBATE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4392
+#EXTINF:-1,COMBATE SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20832
+#EXTINF:-1,COMEDY CENTRAL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24920
+#EXTINF:-1,COMEDY CENTRAL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10292
+#EXTINF:-1,COMEDY CENTRAL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20827
+#EXTINF:-1,COMEDY CENTRAL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20828
+#EXTINF:-1,CURTA! SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10291
+#EXTINF:-1,CNN ESPANHOL
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10290
+#EXTINF:-1,DISCOVERY CHANNEL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11548
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6132
+#EXTINF:-1,DISCOVERY CHANNEL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20824
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4390
+#EXTINF:-1,DISCOVERY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20825
+#EXTINF:-1,DISCOVERY CIVILIZATION FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13208
+#EXTINF:-1,DISCOVERY CIVILIZATION SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10236
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11533
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20813
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4389
+#EXTINF:-1,DISCOVERY HOME & HELTH SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20814
+#EXTINF:-1,DISCOVERY KIDS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11532
+#EXTINF:-1,DISCOVERY KIDS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7538
+#EXTINF:-1,DISCOVERY KIDS HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20816
+#EXTINF:-1,DISCOVERY KIDS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4388
+#EXTINF:-1,DISCOVERY KIDS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20818
+#EXTINF:-1,DISCOVERY SCIENCE FHD (DUAL ADUIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13206
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7861
+#EXTINF:-1,DISCOVERY TURBO FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11531
+#EXTINF:-1,DISCOVERY TURBO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4386
+#EXTINF:-1,DISCOVERY TURBO SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20809
+#EXTINF:-1,DISCOVERY WORLD HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6128
+#EXTINF:-1,DISCOVERY WORLD HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20801
+#EXTINF:-1,DISCOVERY WORLD SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10288
+#EXTINF:-1,DISNEY CHANNEL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7902
+#EXTINF:-1,DISNEY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20799
+#EXTINF:-1,DISNEY JUNIOR FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13207
+#EXTINF:-1,DISNEY JUNIOR HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10286
+#EXTINF:-1,DISNEY JUNIOR HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20794
+#EXTINF:-1,DISNEY JUNIOR SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4384
+#EXTINF:-1,DISNEY JUNIOR SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20795
+#EXTINF:-1,DISNEY XD SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4383
+#EXTINF:-1,DW SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4425
+#EXTINF:-1,DAZN HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30422
+#EXTINF:-1,DAZN HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/31005
+#EXTINF:-1,E! HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10285
+#EXTINF:-1,E! HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20788
+#EXTINF:-1,E! SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4382
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30762
+#EXTINF:-1,ELEVEN SPORTS 2 HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30757
+#EXTINF:-1,ELEVEN SPORTS 3 HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30755
+#EXTINF:-1,ELEVEN SPORTS 4 HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30753
+#EXTINF:-1,ELEVEN SPORTS 5 HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30752
+#EXTINF:-1,ELEVEN SPORTS 6 HD (Liga dos Campeões)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30751
+#EXTINF:-1,ESPN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11545
+#EXTINF:-1,ESPN HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6127
+#EXTINF:-1,ESPN HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20779
+#EXTINF:-1,ESPN SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4381
+#EXTINF:-1,ESPN SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20780
+#EXTINF:-1,ESPN 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11521
+#EXTINF:-1,ESPN 2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7988
+#EXTINF:-1,ESPN 2  HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20787
+#EXTINF:-1,ESPN 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6143
+#EXTINF:-1,ESPN BRASIL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11557
+#EXTINF:-1,ESPN BRASIL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6124
+#EXTINF:-1,ESPN BRASIL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20783
+#EXTINF:-1,ESPN BRASIL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4380
+#EXTINF:-1,ESPN BRASIL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20784
+#EXTINF:-1,ESPN EXTRA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24788
+#EXTINF:-1,ESPN EXTRA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24789
+#EXTINF:-1,FISH TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4377
+#EXTINF:-1,FISH TV SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20773
+#EXTINF:-1,FOOD NETWORK FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13196
+#EXTINF:-1,FOOD NETWORK HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7534
+#EXTINF:-1,FOOD NETWORK HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20756
+#EXTINF:-1,FOOD NETWORK SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6959
+#EXTINF:-1,FOOD NETWORK SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20757
+#EXTINF:-1,FOX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9141
 #EXTINF:-1,FOX HD
-http://plus.cicloplay.com:8880/0708/0708/2291
-#EXTINF:-1,FOX HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7415
-#EXTINF:-1,Fox Life
-http://plus.cicloplay.com:8880/0708/0708/2290
-#EXTINF:-1,FOX Life FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22252
-#EXTINF:-1,Fox Life HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7413
-#EXTINF:-1,Fox Premium 1 HD
-http://plus.cicloplay.com:8880/0708/0708/2288
-#EXTINF:-1,Fox Premium 2 HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7409
-#EXTINF:-1,Fox Sport HD
-http://plus.cicloplay.com:8880/0708/0708/2286
-#EXTINF:-1,Fox Sports
-http://plus.cicloplay.com:8880/0708/0708/2285
-#EXTINF:-1,Fox Sports [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7408
-#EXTINF:-1,Fox Sports 2
-http://plus.cicloplay.com:8880/0708/0708/2284
-#EXTINF:-1,FOX Sports 2 FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22251
-#EXTINF:-1,FOX Sports 2 HD
-http://plus.cicloplay.com:8880/0708/0708/2283
-#EXTINF:-1,FOX Sportv 2 FHD
-http://plus.cicloplay.com:8880/0708/0708/7157
-#EXTINF:-1,Futura
-http://plus.cicloplay.com:8880/0708/0708/2282
-#EXTINF:-1,Futura [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7404
-#EXTINF:-1,FX
-http://plus.cicloplay.com:8880/0708/0708/2281
-#EXTINF:-1,FX FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22249
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6122
+#EXTINF:-1,FOX HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20759
+#EXTINF:-1,FOX SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4375
+#EXTINF:-1,FOX SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20760
+#EXTINF:-1,FX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13199
+#EXTINF:-1,FOX LIFE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6876
+#EXTINF:-1,FOX LIFE HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20761
+#EXTINF:-1,FOX LIFE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4374
+#EXTINF:-1,FOX LIFE SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20762
+#EXTINF:-1,FOX NEWS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6835
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10279
+#EXTINF:-1,FOX PREMIUM 1 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20763
+#EXTINF:-1,FOX PREMIUM 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11529
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10278
+#EXTINF:-1,FOX PREMIUM 2 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20764
+#EXTINF:-1,FOX SPORTS 2 FHD (DUAL ALDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8151
+#EXTINF:-1,FOX SPORTS 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6117
+#EXTINF:-1,FOX SPORTS 2 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20767
+#EXTINF:-1,FOX SPORTS 2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4372
+#EXTINF:-1,FOX SPORTS 2 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20768
+#EXTINF:-1,FOX SPORTS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11556
+#EXTINF:-1,FOX SPORTS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6118
+#EXTINF:-1,FOX SPORTS HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20771
+#EXTINF:-1,FOX SPORTS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4373
+#EXTINF:-1,FOX SPORTS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20772
+#EXTINF:-1,FUTURA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10277
 #EXTINF:-1,FX HD
-http://plus.cicloplay.com:8880/0708/0708/2280
-#EXTINF:-1,Globo Bahia [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13751
-#EXTINF:-1,Globo Minas FHD
-http://plus.cicloplay.com:8880/0708/0708/7185
-#EXTINF:-1,Globo News
-http://plus.cicloplay.com:8880/0708/0708/2274
-#EXTINF:-1,Globo RJ
-http://plus.cicloplay.com:8880/0708/0708/2278
-#EXTINF:-1,Globo RJ HD
-http://plus.cicloplay.com:8880/0708/0708/2277
-#EXTINF:-1,Globo RJ HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7383
-#EXTINF:-1,Globo SP
-http://plus.cicloplay.com:8880/0708/0708/2276
-#EXTINF:-1,Globo SP FHD
-http://plus.cicloplay.com:8880/0708/0708/7183
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6116
+#EXTINF:-1,FX HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20775
+#EXTINF:-1,FX SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4371
+#EXTINF:-1,FX SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20777
+#EXTINF:-1,GLOBO TV RIO SUL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24757
+#EXTINF:-1,GLOBO TV TEM ITAPETININGA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24631
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24750
+#EXTINF:-1,GLOBO TV SERGIPE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24629
+#EXTINF:-1,GLOBO GAZETA SUL ES FHD H264
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33611
+#EXTINF:-1,GLOBO GAZETA SUL ES HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33612
+#EXTINF:-1,Globo Gazeta Alagoas HD H264
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/32807
+#EXTINF:-1,Globo TV Gazeta Alagoas SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/32806
+#EXTINF:-1,GLOBO TV ASA BRANCA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24308
+#EXTINF:-1,GLOBO BRASILIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10239
+#EXTINF:-1,GLOBO BRASILIA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22769
+#EXTINF:-1,GLOBO EPTV RIBERAO PRETO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33271
+#EXTINF:-1,GLOBO INTER TV CABUGI SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33269
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33258
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33286
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33261
+#EXTINF:-1,TV LIBERAL BELEM SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33256
+#EXTINF:-1,TV TEM BAURU SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33255
+#EXTINF:-1,TV TEM SOROCABA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33254
+#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30431
+#EXTINF:-1,TV SUBAE GLOBO BAHIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30430
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10234
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7932
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22767
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9471
+#EXTINF:-1,GLOBO EPTV SUL MINAS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22762
+#EXTINF:-1,GLOBO MINAS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7528
+#EXTINF:-1,GLOBO MINAS HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22760
+#EXTINF:-1,GLOBO INTERTV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22748
+#EXTINF:-1,GLOBO INTERTV CABUGI SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22763
+#EXTINF:-1,GLOBO RBS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25011
+#EXTINF:-1,GLOBO RBS TV POA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25007
+#EXTINF:-1,GLOBO RBS TV POA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9469
+#EXTINF:-1,GLOBO RIO PRETO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9468
+#EXTINF:-1,GLOBO RJ HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6113
+#EXTINF:-1,GLOBO RJ HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22756
+#EXTINF:-1,GLOBO RJ SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7547
+#EXTINF:-1,GLOBO RPC CURITIBA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7866
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22750
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22017
+#EXTINF:-1,GLOBO TV INTEGRACAO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22745
+#EXTINF:-1,GLOBO TV SUDOESTE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22741
+#EXTINF:-1,GLOBO TV GAZETA ES SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24958
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22737
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22732
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22735
+#EXTINF:-1,GLOBO TV VERDES MARES SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22733
+#EXTINF:-1,GLOBO TV FRONTEIRA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22749
+#EXTINF:-1,GLOBO SOROCABA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7684
+#EXTINF:-1,GLOBO SP HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7529
+#EXTINF:-1,GLOBO SP HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22755
+#EXTINF:-1,GLOBO SP SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4431
+#EXTINF:-1,GLOBO SP SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/22757
+#EXTINF:-1,GLOBO TV ANHANGUERA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10272
+#EXTINF:-1,GLOBO AMAZONICA  HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/21985
+#EXTINF:-1,NSC TV  JOINVILE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10232
+#EXTINF:-1,NSC TV BLUMENAU SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/5973
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10238
+#EXTINF:-1,GLOBO NEWS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25010
+#EXTINF:-1,GLOBO NEWS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7442
+#EXTINF:-1,GLOBO NEWS HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11043
+#EXTINF:-1,GLOBO NEWS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4432
+#EXTINF:-1,GLOBO NEWS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11243
+#EXTINF:-1,GLOBO INTERNACIONAL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24928
+#EXTINF:-1,GLOOB HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20749
+#EXTINF:-1,GLOOBINHO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10270
+#EXTINF:-1,GNT HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6956
+#EXTINF:-1,GNT HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20752
+#EXTINF:-1,GNT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4368
+#EXTINF:-1,GNT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20751
+#EXTINF:-1,H2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13187
 #EXTINF:-1,H2 HD
-http://plus.cicloplay.com:8880/0708/0708/2268
-#EXTINF:-1,H2 HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7363
-#EXTINF:-1,HBO [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7362
-#EXTINF:-1,HBO 2 HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7360
-#EXTINF:-1,HBO Family
-http://plus.cicloplay.com:8880/0708/0708/2264
-#EXTINF:-1,HBO Family [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7359
-#EXTINF:-1,HBO Family FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22243
-#EXTINF:-1,HBO Family HD
-http://plus.cicloplay.com:8880/0708/0708/2263
-#EXTINF:-1,HBO Family HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7358
-#EXTINF:-1,HBO FHD
-http://plus.cicloplay.com:8880/0708/0708/7181
-#EXTINF:-1,HBO FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22242
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6111
+#EXTINF:-1,H2 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20698
+#EXTINF:-1,H2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4367
+#EXTINF:-1,H2 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20700
+#EXTINF:-1,HBO 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11567
+#EXTINF:-1,HBO 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6110
+#EXTINF:-1,HBO 2 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20690
+#EXTINF:-1,HBO 2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4365
+#EXTINF:-1,HBO 2 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20692
+#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11568
+#EXTINF:-1,HBO FAMILY SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4364
+#EXTINF:-1,HBO FAMILY SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20688
+#EXTINF:-1,HBO FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11566
 #EXTINF:-1,HBO HD
-http://plus.cicloplay.com:8880/0708/0708/2262
-#EXTINF:-1,HBO Plus
-http://plus.cicloplay.com:8880/0708/0708/2261
-#EXTINF:-1,HBO Plus FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22241
-#EXTINF:-1,HBO Plus HD
-http://plus.cicloplay.com:8880/0708/0708/2259
-#EXTINF:-1,HBO Signature FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22240
-#EXTINF:-1,HBO Signature HD
-http://plus.cicloplay.com:8880/0708/0708/2257
-#EXTINF:-1,I-SAT
-http://plus.cicloplay.com:8880/0708/0708/2255
-#EXTINF:-1,ID - Investigacao Discovery
-http://plus.cicloplay.com:8880/0708/0708/2254
-#EXTINF:-1,ID - Investigação Discovery HD
-http://plus.cicloplay.com:8880/0708/0708/2253
-#EXTINF:-1,Ideal TV
-http://plus.cicloplay.com:8880/0708/0708/7108
-#EXTINF:-1,Lifetime FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22238
-#EXTINF:-1,Lifetime HD
-http://plus.cicloplay.com:8880/0708/0708/2141
-#EXTINF:-1,Mais Globosat HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7344
-#EXTINF:-1,MAX
-http://plus.cicloplay.com:8880/0708/0708/2250
-#EXTINF:-1,MAX FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22237
-#EXTINF:-1,Max HD
-http://plus.cicloplay.com:8880/0708/0708/7091
-#EXTINF:-1,Max Prime HD
-http://plus.cicloplay.com:8880/0708/0708/7092
-#EXTINF:-1,Max UP HD
-http://plus.cicloplay.com:8880/0708/0708/7093
-#EXTINF:-1,Megapix
-http://plus.cicloplay.com:8880/0708/0708/2246
-#EXTINF:-1,Megapix FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22234
-#EXTINF:-1,Megapix HD
-http://plus.cicloplay.com:8880/0708/0708/2245
-#EXTINF:-1,MTV
-http://plus.cicloplay.com:8880/0708/0708/2244
-#EXTINF:-1,MTV FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22233
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6108
+#EXTINF:-1,HBO HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20694
+#EXTINF:-1,HBO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4366
+#EXTINF:-1,HBO SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20696
+#EXTINF:-1,HBO PLUS FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13190
+#EXTINF:-1,HBO PLUS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6106
+#EXTINF:-1,HBO PLUS HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20920
+#EXTINF:-1,HBO PLUS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4363
+#EXTINF:-1,HBO PLUS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20684
+#EXTINF:-1,HBO SIGNATURE HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20678
+#EXTINF:-1,HBO SIGNATURE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4361
+#EXTINF:-1,HBO SIGNATURE SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20679
+#EXTINF:-1,HISTORY CHANNEL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13211
+#EXTINF:-1,HISTORY CHANNEL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6104
+#EXTINF:-1,HISTORY CHANNEL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20468
+#EXTINF:-1,HISTORY CHANNEL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4314
+#EXTINF:-1,HISTORY CHANNEL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20469
+#EXTINF:-1,IMPD TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25915
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9143
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6869
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4360
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20673
+#EXTINF:-1,IDEAL TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20674
+#EXTINF:-1,LIFETIME FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11540
+#EXTINF:-1,LIFETIME HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7525
+#EXTINF:-1,LIFETIME HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20668
+#EXTINF:-1,LIFETIME SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7876
+#EXTINF:-1,LIFETIME SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20670
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9262
+#EXTINF:-1,MAIS GLOBOSAT HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20665
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6953
+#EXTINF:-1,MAIS GLOBOSAT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20666
+#EXTINF:-1,MAX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13189
+#EXTINF:-1,MAX HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10266
+#EXTINF:-1,MAX HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20662
+#EXTINF:-1,MAX SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4358
+#EXTINF:-1,MAX SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20664
+#EXTINF:-1,MAX PRIME FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25014
+#EXTINF:-1,MAX PRIME HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7850
+#EXTINF:-1,MAX PRIME HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20657
+#EXTINF:-1,MAX PRIME SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4357
+#EXTINF:-1,MAX PRIME SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20658
+#EXTINF:-1,MAX UP FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25015
+#EXTINF:-1,MAX UP HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10265
+#EXTINF:-1,MAX UP HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20659
+#EXTINF:-1,MAX UP SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4355
+#EXTINF:-1,MAX UP SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20660
+#EXTINF:-1,MEGAPIX FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8146
+#EXTINF:-1,MEGAPIX HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6101
+#EXTINF:-1,MEGAPIX HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20653
+#EXTINF:-1,MEGAPIX SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4354
+#EXTINF:-1,MEGAPIX SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20654
+#EXTINF:-1,MTV FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11573
 #EXTINF:-1,MTV HD
-http://plus.cicloplay.com:8880/0708/0708/2140
-#EXTINF:-1,Multishow FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22232
-#EXTINF:-1,Multishow HD
-http://plus.cicloplay.com:8880/0708/0708/2242
-#EXTINF:-1,Music Box Brasil [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7330
-#EXTINF:-1,Music Box Brazil
-http://plus.cicloplay.com:8880/0708/0708/2241
-#EXTINF:-1,Nat Geo Wild FHD
-http://plus.cicloplay.com:8880/0708/0708/7143
-#EXTINF:-1,NatGeo Kids HD
-http://plus.cicloplay.com:8880/0708/0708/2126
-#EXTINF:-1,NatGeo Kids HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7325
-#EXTINF:-1,NatGeo Wild
-http://plus.cicloplay.com:8880/0708/0708/2239
-#EXTINF:-1,Natgeo Wild FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22229
-#EXTINF:-1,NatGeoWild HD
-http://plus.cicloplay.com:8880/0708/0708/2238
-#EXTINF:-1,National Geographic
-http://plus.cicloplay.com:8880/0708/0708/2237
-#EXTINF:-1,NBR
-http://plus.cicloplay.com:8880/0708/0708/2235
-#EXTINF:-1,NHK
-http://plus.cicloplay.com:8880/0708/0708/2234
-#EXTINF:-1,Nick FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22228
-#EXTINF:-1,Nick Jr
-http://plus.cicloplay.com:8880/0708/0708/2233
-#EXTINF:-1,NICK JR FHD
-http://plus.cicloplay.com:8880/0708/0708/7142
-#EXTINF:-1,NICKELODEON FHD
-http://plus.cicloplay.com:8880/0708/0708/7141
-#EXTINF:-1,OFF
-http://plus.cicloplay.com:8880/0708/0708/2230
-#EXTINF:-1,OFF [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7317
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7524
+#EXTINF:-1,MTV HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20644
+#EXTINF:-1,MTV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4353
+#EXTINF:-1,MTV SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20646
+#EXTINF:-1,MULTISHOW FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13201
+#EXTINF:-1,MULTISHOW HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6867
+#EXTINF:-1,MULTISHOW HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20648
+#EXTINF:-1,MULTISHOW SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4352
+#EXTINF:-1,MULTISHOW SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20650
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7848
+#EXTINF:-1,NATGEO KIDS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10261
+#EXTINF:-1,NATGEO KIDS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4350
+#EXTINF:-1,NATGEO KIDS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20642
+#EXTINF:-1,NATGEO WILD HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20640
+#EXTINF:-1,NATGEO WILD SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4349
+#EXTINF:-1,NATGEO WILD SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20641
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6098
+#EXTINF:-1,NATIONAL GEOGRAPHY HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20629
+#EXTINF:-1,NICK JR HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10260
+#EXTINF:-1,NICK JR SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20637
+#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11526
+#EXTINF:-1,NICKELODEON HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20635
+#EXTINF:-1,NICKELODEON SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4345
+#EXTINF:-1,NICKELODEON SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20636
+#EXTINF:-1,NOVO TEMPO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6948
 #EXTINF:-1,OFF HD
-http://plus.cicloplay.com:8880/0708/0708/2229
-#EXTINF:-1,OFF HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7316
-#EXTINF:-1,Paramount [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7315
-#EXTINF:-1,Paramount Channel FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22226
-#EXTINF:-1,Paramount HD
-http://plus.cicloplay.com:8880/0708/0708/2227
-#EXTINF:-1,Play TV
-http://plus.cicloplay.com:8880/0708/0708/2226
-#EXTINF:-1,Playboy [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7224
-#EXTINF:-1,Playboy HD
-http://plus.cicloplay.com:8880/0708/0708/8436
-#EXTINF:-1,Premiere 3 FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22203
-#EXTINF:-1,Premiere 3 HD
-http://plus.cicloplay.com:8880/0708/0708/2219
-#EXTINF:-1,Premiere 3 HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7310
-#EXTINF:-1,Premiere 4 HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13727
-#EXTINF:-1,Premiere 5
-http://plus.cicloplay.com:8880/0708/0708/2216
-#EXTINF:-1,Premiere 7 FHD
-http://plus.cicloplay.com:8880/0708/0708/7164
-#EXTINF:-1,Premiere 7 FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22199
-#EXTINF:-1,Premiere 7 HD
-http://plus.cicloplay.com:8880/0708/0708/7095
-#EXTINF:-1,Premiere 8
-http://plus.cicloplay.com:8880/0708/0708/2212
-#EXTINF:-1,Premiere Clubes
-http://plus.cicloplay.com:8880/0708/0708/2224
-#EXTINF:-1,Record [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7297
-#EXTINF:-1,Record BA - HD
-http://plus.cicloplay.com:8880/0708/0708/18415
-#EXTINF:-1,Record FHD
-http://plus.cicloplay.com:8880/0708/0708/7180
-#EXTINF:-1,Record FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22225
-#EXTINF:-1,Record HD
-http://plus.cicloplay.com:8880/0708/0708/2206
-#EXTINF:-1,Record RJ HD
-http://plus.cicloplay.com:8880/0708/0708/16350
-#EXTINF:-1,Record SP FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22195
-#EXTINF:-1,Rede Brasil
-http://plus.cicloplay.com:8880/0708/0708/2204
-#EXTINF:-1,Rede Super
-http://plus.cicloplay.com:8880/0708/0708/8677
-#EXTINF:-1,Rede TV
-http://plus.cicloplay.com:8880/0708/0708/2203
-#EXTINF:-1,Rede TV HD
-http://plus.cicloplay.com:8880/0708/0708/2202
-#EXTINF:-1,Rede Vida
-http://plus.cicloplay.com:8880/0708/0708/2201
-#EXTINF:-1,RIT
-http://plus.cicloplay.com:8880/0708/0708/2199
-#EXTINF:-1,SBT
-http://plus.cicloplay.com:8880/0708/0708/2198
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6947
+#EXTINF:-1,OFF HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20622
+#EXTINF:-1,OFF SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4344
+#EXTINF:-1,PARAMOUNT FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13185
+#EXTINF:-1,PARAMOUNT HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6945
+#EXTINF:-1,PARAMOUNT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6946
+#EXTINF:-1,PARAMOUNT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20621
+#EXTINF:-1,PLAY TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20617
+#EXTINF:-1,PPV 1
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20586
+#EXTINF:-1,PPV 2
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20585
+#EXTINF:-1,PPV 3
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20584
+#EXTINF:-1,PREMIERE CLUBES HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6089
+#EXTINF:-1,PREMIERE CLUBES HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20599
+#EXTINF:-1,PREMIERE CLUBES SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4333
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20596
+#EXTINF:-1,PREMIERE 2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4341
+#EXTINF:-1,PREMIERE 2 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20595
+#EXTINF:-1,PREMIERE 3 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20612
+#EXTINF:-1,PREMIERE 3 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4340
+#EXTINF:-1,PREMIERE 4 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20609
+#EXTINF:-1,PREMIERE 4 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4339
+#EXTINF:-1,PREMIERE 4 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20593
+#EXTINF:-1,PREMIERE 5 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9231
+#EXTINF:-1,PREMIERE 5 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6090
+#EXTINF:-1,PREMIERE 5 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20606
+#EXTINF:-1,PREMIERE 5 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20592
+#EXTINF:-1,PREMIERE 6 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11550
+#EXTINF:-1,PREMIERE 6 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10259
+#EXTINF:-1,PREMIERE 6 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4337
+#EXTINF:-1,PREMIERE 6 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20591
+#EXTINF:-1,PREMIERE 7 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10258
+#EXTINF:-1,PREMIERE 7 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20601
+#EXTINF:-1,PREMIERE 7 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20590
+#EXTINF:-1,RAI MOVIE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7665
+#EXTINF:-1,RAI ITALIA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20581
+#EXTINF:-1,RBS TV PORTO ALEGRE SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6942
+#EXTINF:-1,RECORD TV ATALAIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24751
+#EXTINF:-1,RECORD ES SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6817
+#EXTINF:-1,TV VITORIA ES FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33604
+#EXTINF:-1,TV VITORIA ES HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33603
+#EXTINF:-1,RECORD BRASILIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33275
+#EXTINF:-1,RECORD FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13183
+#EXTINF:-1,RECORD HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7836
+#EXTINF:-1,RECORD HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20571
+#EXTINF:-1,RECORD NEWS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10255
+#EXTINF:-1,RECORD RJ HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25543
+#EXTINF:-1,RECORD PARANA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/18148
+#EXTINF:-1,RECORD GOIANIA FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30437
+#EXTINF:-1,TV ANHANGUERA GOIANIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30439
+#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30432
+#EXTINF:-1,RECORD TV BELEM HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30426
+#EXTINF:-1,RECORD TV LITORAL SANTOS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30423
+#EXTINF:-1,REDE RECORD MINAS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30435
+#EXTINF:-1,TV CABRALIA RECORD BAHIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30429
+#EXTINF:-1,RECORD SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4423
+#EXTINF:-1,RECORD SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20572
+#EXTINF:-1,RECORD SP HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/18168
+#EXTINF:-1,RECORD RS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25017
+#EXTINF:-1,REDE BRASIL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4421
+#EXTINF:-1,REDE BRASIL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20573
+#EXTINF:-1,REDE TV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4420
+#EXTINF:-1,REDE TV RS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25304
+#EXTINF:-1,REDE TV SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20575
+#EXTINF:-1,TV PAMPA - REDE TV RS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30436
+#EXTINF:-1,REDE VIDA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6939
+#EXTINF:-1,REDE VIDA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20576
 #EXTINF:-1,SBT HD
-http://plus.cicloplay.com:8880/0708/0708/2197
-#EXTINF:-1,SBT HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13797
-#EXTINF:-1,SBT HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7286
-#EXTINF:-1,SBT SP Interior [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7285
-#EXTINF:-1,SIC Internacional
-http://plus.cicloplay.com:8880/0708/0708/2194
-#EXTINF:-1,Sony FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22224
-#EXTINF:-1,Space HD
-http://plus.cicloplay.com:8880/0708/0708/2192
-#EXTINF:-1,Sport TV 2 HD
-http://plus.cicloplay.com:8880/0708/0708/2191
-#EXTINF:-1,Sport TV 3 HD
-http://plus.cicloplay.com:8880/0708/0708/2190
-#EXTINF:-1,Sport TV HD
-http://plus.cicloplay.com:8880/0708/0708/2189
-#EXTINF:-1,SporTV 2
-http://plus.cicloplay.com:8880/0708/0708/2187
-#EXTINF:-1,Sportv FHD
-http://plus.cicloplay.com:8880/0708/0708/7178
-#EXTINF:-1,Sportv FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22220
-#EXTINF:-1,SporTV HD [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13422
-#EXTINF:-1,SporTV HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7275
-#EXTINF:-1,Studio Universal
-http://plus.cicloplay.com:8880/0708/0708/2185
-#EXTINF:-1,Studio Universal [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7274
-#EXTINF:-1,Studio Universal FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22219
-#EXTINF:-1,Studio Universal HD
-http://plus.cicloplay.com:8880/0708/0708/7096
-#EXTINF:-1,Studio Universal HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7273
-#EXTINF:-1,Syfy HD
-http://plus.cicloplay.com:8880/0708/0708/2124
-#EXTINF:-1,TBS
-http://plus.cicloplay.com:8880/0708/0708/2183
-#EXTINF:-1,TBS HD
-http://plus.cicloplay.com:8880/0708/0708/2182
-#EXTINF:-1,TCM
-http://plus.cicloplay.com:8880/0708/0708/2181
-#EXTINF:-1,Telecine Action
-http://plus.cicloplay.com:8880/0708/0708/2180
-#EXTINF:-1,Telecine Action FHD
-http://plus.cicloplay.com:8880/0708/0708/7177
-#EXTINF:-1,Telecine Cult
-http://plus.cicloplay.com:8880/0708/0708/2178
-#EXTINF:-1,Telecine Fun
-http://plus.cicloplay.com:8880/0708/0708/2177
-#EXTINF:-1,Telecine Pipoca
-http://plus.cicloplay.com:8880/0708/0708/2175
-#EXTINF:-1,Telecine Premium HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7258
-#EXTINF:-1,Telecine Touch
-http://plus.cicloplay.com:8880/0708/0708/2171
-#EXTINF:-1,Telecine Touch [Alter 2]
-http://plus.cicloplay.com:8880/0708/0708/13668
-#EXTINF:-1,Telecine Touch FHD
-http://plus.cicloplay.com:8880/0708/0708/7173
-#EXTINF:-1,The History Channel FHD
-http://plus.cicloplay.com:8880/0708/0708/7139
-#EXTINF:-1,The History FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22215
-#EXTINF:-1,TLC
-http://plus.cicloplay.com:8880/0708/0708/2167
-#EXTINF:-1,TNT
-http://plus.cicloplay.com:8880/0708/0708/2166
-#EXTINF:-1,TNT Series FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22205
-#EXTINF:-1,Trans 2
-http://plus.cicloplay.com:8880/0708/0708/18413
-#EXTINF:-1,TruTV
-http://plus.cicloplay.com:8880/0708/0708/2161
-#EXTINF:-1,TV Escola
-http://plus.cicloplay.com:8880/0708/0708/7242
-#EXTINF:-1,TV Gloobinho HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7368
-#EXTINF:-1,TV Justiça
-http://plus.cicloplay.com:8880/0708/0708/7246
-#EXTINF:-1,TV Ra tim bum
-http://plus.cicloplay.com:8880/0708/0708/2157
-#EXTINF:-1,TV Ra tim bum HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7239
-#EXTINF:-1,Tv Seculo 21
-http://plus.cicloplay.com:8880/0708/0708/11610
-#EXTINF:-1,TVE
-http://plus.cicloplay.com:8880/0708/0708/2156
-#EXTINF:-1,Universal Channels HD
-http://plus.cicloplay.com:8880/0708/0708/2154
-#EXTINF:-1,Venus
-http://plus.cicloplay.com:8880/0708/0708/2147
-#EXTINF:-1,Viva HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7230
-#EXTINF:-1,Warner Channel
-http://plus.cicloplay.com:8880/0708/0708/2150
-#EXTINF:-1,Warner Channel FHD H.265
-http://plus.cicloplay.com:8880/0708/0708/22213
-#EXTINF:-1,Warner Channel HD
-http://plus.cicloplay.com:8880/0708/0708/2149
-#EXTINF:-1,Warner FHD
-http://plus.cicloplay.com:8880/0708/0708/7140
-#EXTINF:-1,Woohoo HD [Alter]
-http://plus.cicloplay.com:8880/0708/0708/7226
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6889
+#EXTINF:-1,SBT HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20554
+#EXTINF:-1,SBT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4331
+#EXTINF:-1,TV TRIBUNA ES FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33610
+#EXTINF:-1,TV TRIBUNA ES HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33609
+#EXTINF:-1,TV TRIBUNA ES SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33608
+#EXTINF:-1,SBT BRASILIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33276
+#EXTINF:-1,SBT SERRA DOURADA FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/33284
+#EXTINF:-1,SBT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20555
+#EXTINF:-1,SBT PE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20552
+#EXTINF:-1,SBT PI FHD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13182
+#EXTINF:-1,SBT GO HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6931
+#EXTINF:-1,SBT RJ HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/25544
+#EXTINF:-1,SBT ARACAJU HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24753
+#EXTINF:-1,SBT JORNAL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24956
+#EXTINF:-1,SPORT TV  HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30733
+#EXTINF:-1,SPORT TV 1
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30750
+#EXTINF:-1,SPORT TV 1 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30749
+#EXTINF:-1,SPORT TV 2
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30747
+#EXTINF:-1,SPORT TV 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30746
+#EXTINF:-1,SPORT TV 2 LOW
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30638
+#EXTINF:-1,SPORT TV 3
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30744
+#EXTINF:-1,SPORT TV 3 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30743
+#EXTINF:-1,SPORT TV 3 LOW
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30637
+#EXTINF:-1,SPORT TV 4
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30741
+#EXTINF:-1,SPORT TV 4 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30740
+#EXTINF:-1,TV ARATU SBT BAHIA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30428
+#EXTINF:-1,TV GAZETA SP HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/30425
+#EXTINF:-1,SPACE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6085
+#EXTINF:-1,SPACE HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20532
+#EXTINF:-1,SPORTV 2 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11539
+#EXTINF:-1,SPORTV 2 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6084
+#EXTINF:-1,SPORTV 2 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20540
+#EXTINF:-1,SPORTV 2 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4326
+#EXTINF:-1,SPORTV 2 SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20541
+#EXTINF:-1,SPORTV 3 FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11538
+#EXTINF:-1,SPORTV 3 HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6083
+#EXTINF:-1,SPORTV 3 HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20536
+#EXTINF:-1,SPORTV 3 SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4325
+#EXTINF:-1,SPORTV HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20544
+#EXTINF:-1,STUDIO UNIVERSAL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20546
+#EXTINF:-1,STUDIO UNIVERSAL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20547
+#EXTINF:-1,SUNDANCE TV HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20524
+#EXTINF:-1,SYFY FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13195
+#EXTINF:-1,SYFY HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/7795
+#EXTINF:-1,SYFY HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20550
+#EXTINF:-1,SYFY SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4323
+#EXTINF:-1,SYFY SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20551
+#EXTINF:-1,TBS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4322
+#EXTINF:-1,TBS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20522
+#EXTINF:-1,TCM SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4321
+#EXTINF:-1,TCM SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20496
+#EXTINF:-1,TELECINE ACTION FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8141
+#EXTINF:-1,TELECINE ACTION SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4320
+#EXTINF:-1,TELECINE CULT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20514
+#EXTINF:-1,TELECINE FUN FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11561
+#EXTINF:-1,TELECINE FUN HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6079
+#EXTINF:-1,TELECINE FUN HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20509
+#EXTINF:-1,TELECINE FUN SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4318
+#EXTINF:-1,TELECINE FUN SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20510
+#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/8144
+#EXTINF:-1,TELECINE PIPOCA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6078
+#EXTINF:-1,TELECINE PIPOCA HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20505
+#EXTINF:-1,TELECINE PIPOCA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4317
+#EXTINF:-1,TELECINE PREMIUM HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20501
+#EXTINF:-1,TELECINE PREMIUM SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4316
+#EXTINF:-1,TELECINE PREMIUM SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20502
+#EXTINF:-1,TELECINE TOUCH HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20497
+#EXTINF:-1,TELECINE TOUCH SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4315
+#EXTINF:-1,TELECINE TOUCH SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20498
+#EXTINF:-1,TERRA VIVA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6936
+#EXTINF:-1,TERRA VIVA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20471
+#EXTINF:-1,OFF FHD (DUAL AULDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/9152
+#EXTINF:-1,TLC SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4313
+#EXTINF:-1,TNT HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6074
+#EXTINF:-1,TNT HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20493
+#EXTINF:-1,TNT SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4312
+#EXTINF:-1,TNT SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20494
+#EXTINF:-1,TNT SERIES FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13186
+#EXTINF:-1,TOONCAST HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20485
+#EXTINF:-1,TOONCAST SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4310
+#EXTINF:-1,TRUTV SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6935
+#EXTINF:-1,TV APARECIDA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4438
+#EXTINF:-1,TV BRASIL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4442
+#EXTINF:-1,TV CAMARA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10245
+#EXTINF:-1,TV CAMARA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20483
+#EXTINF:-1,TV CLIMATEMPO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20478
+#EXTINF:-1,TV CULTURA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20473
+#EXTINF:-1,TV ESCOLA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/5975
+#EXTINF:-1,TV EVANGELIZAR SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6206
+#EXTINF:-1,TV JUSTICA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/5970
+#EXTINF:-1,TV JUSTICA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20475
+#EXTINF:-1,TV RA TIM BUM SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6933
+#EXTINF:-1,TV RA TIM BUM SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20476
+#EXTINF:-1,TV RA TIM BUM HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/24787
+#EXTINF:-1,TV SENADO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10246
+#EXTINF:-1,TVE HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4440
+#EXTINF:-1,UNIVERSAL CHANNEL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/13192
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/5987
+#EXTINF:-1,UNIVERSAL CHANNEL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20464
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4308
+#EXTINF:-1,UNIVERSAL CHANNEL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20465
+#EXTINF:-1,VH1 MEGA HITS HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10361
+#EXTINF:-1,VH1 MEGA HITS SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20459
+#EXTINF:-1,VH1 MEGA HITS SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/10243
+#EXTINF:-1,VIVA HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6848
+#EXTINF:-1,VIVA HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20460
+#EXTINF:-1,VIVA SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6928
+#EXTINF:-1,VIVA SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20461
+#EXTINF:-1,WARNER CHANNEL FHD (DUAL AUDIO)
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/11525
+#EXTINF:-1,WARNER CHANNEL HD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/6072
+#EXTINF:-1,WARNER CHANNEL HD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20456
+#EXTINF:-1,WARNER CHANNEL SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4307
+#EXTINF:-1,WARNER CHANNEL SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20457
+#EXTINF:-1,WOOHOO SD*
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20453
+#EXTINF:-1,WOOHOO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/4306
+#EXTINF:-1,ZOOMOO SD
+http://painel.ebanonet.com.br:25461/stefanicristina/stefanicristina01/20450
