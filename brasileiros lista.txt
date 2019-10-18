@@ -1,3 +1,10 @@
+#EXTINF:-1,-----LISTA BRASIL FABIO-------
+
+
+#EXTINF:-1,A Fazenda 11
+http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/11127.ts
+#EXTINF:-1,A Fazenda 11 HD
+http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/11128.ts
 #EXTINF:-1, ALL SPORTS HD (DF)
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1, SBT (PE)
@@ -10,11 +17,7 @@ http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
 http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 #EXTINF:-1, SBT HD (PI)
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1,-----LISTA BRASIL FABIO-------
-
 #EXTINF:-1, RECORD NEWS (ES)
-#EXTINF:-1,Canal do Cliente
-http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/10636.ts
 #EXTINF:-1,A Fazenda 11
 http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/11127.ts
 #EXTINF:-1,A Fazenda 11 HD
