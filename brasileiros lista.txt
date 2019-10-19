@@ -1,6 +1,4 @@
-
 #EXTINF:-1,-----lista batio brasil-----
-
 http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/10636.ts
 #EXTINF:-1,A Fazenda 11
 http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/11127.ts
@@ -10,8 +8,6 @@ http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/11128.ts
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1, SBT (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1, SBT INTERIOR (SP)
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1, SBT (MA)
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
 #EXTINF:-1, SBT (MG)
@@ -54,8 +50,6 @@ http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
 #EXTINF:-1,TV JOVEM PAN NEWS
 http://evpp.mm.uol.com.br:1935/jovempan/tv-jp.sdp/live.m3u8
-#EXTINF:-1,TVCOM (AL)
-http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
 #EXTINF:-1, PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1, TV J.SID (BA)
@@ -114,8 +108,6 @@ http://caikron.com.br:1935/santuario_aparecida/canal3.stream/chunklist_w18264270
 http://caikron.com.br:1935/santuario_aparecida/canal4.stream/chunklist_w772452767.m3u8
 #EXTINF:-1, TV IMACULADA CONCEIÇÃO (MS)
 http://69.46.0.170:1935/ric_tvimaculada/ric.stream/chunklist_w435044421.m3u8
-#EXTINF:-1, CATHOLIC TV HD (USA)
-http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
 #EXTINF:-1, TV CANÇÃO NOVA HD
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
 #EXTINF:-1, TV APARECIDA HD - PUC TV (GO)
@@ -128,8 +120,6 @@ http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1,TV CI
 http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1,TV GIDEÕES HD
-https://streaming01.zas.media/gideoes/programacao_360p/playlist.m3u8
 #EXTINF:-1,WEB TV LEÃO DE JUDÁ
 http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
 #EXTINF:-1, NOVO TEMPO (RS)
@@ -172,8 +162,6 @@ http://streaming60.sitehosting.com.br:1935/indoor/indoor/live.m3u8
 http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
 #EXTINF:-1,TV CÂMARA JACAREÍ
 http://svideo.nipbr.com.br:1935/tvcamarajacarei/aovivo/live.m3u8
-#EXTINF:-1,TV CÂMARA RIO GRANDE
-http://stream.camarariogrande.rs.gov.br:80/hls/cmrg_512/index.m3u8
 #EXTINF:-1, TV CAMARA 1 (DF)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1, TV CAMARA 2 (DF)
@@ -306,8 +294,6 @@ http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
 http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
 #EXTINF:-1,TV FUNTELPA
 http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1,TV GIDEÕES
-http://streaming02.zas.media:1935/gideoes/programacao/live.m3u8
 #EXTINF:-1,TVI
 http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
 #EXTINF:-1,TVI 24
@@ -470,14 +456,10 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1, TELEVALENCIA
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1, CANAL ONCE
-http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w498860999_b850000_slesp.m3u8
 #EXTINF:-1, CANALE 10
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
 #EXTINF:-1, CARINA TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1, RADIO IGLESIAS
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1, RADIO ITALIA TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1, RADIO MONTE CARLO
@@ -756,8 +738,6 @@ http://video-auth1.iol.pt:1935/beachcam/lagide/playlist.m3u8
 http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/playlist.m3u8
 #EXTINF:-1, Praia Grande webcam
 http://video-auth1.iol.pt:1935/beachcam/praiagrande/playlist.m3u8
-#EXTINF:-1, Praia do Guincho - Norte webcam
-http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/playlist.m3u8
 #EXTINF:-1, Praia do Guincho - Sul webcam
 http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/playlist.m3u8
 #EXTINF:-1, Praia de São Pedro do Estoril webcam
