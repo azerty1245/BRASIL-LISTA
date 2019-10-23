@@ -1,5 +1,4 @@
 #EXTINF:-1,-----lista fabio brasil-----
-http://svrplus.xyz:9090/live/TKMV2Z2J/8QXZMM6T/10636.ts
 #EXTINF:-1,A fazenda 11HD
 https://live.multicanais.com/mylive/fazendahd/chunks.m3u8?md5=PKvhGgHcfDhHtlChEjKZhw&expires=1571863735
 #EXTINF:-1,A fazenda 11 FHD
