@@ -1,6 +1,8 @@
-#EXTINF:-1,-----lista fabio brasil-----
-#EXTINF:-1,A fazenda 11HD
+#EXTM3U
+#EXTINF:-1,-----lista FABIO brasil-----
+#EXTINF:-1,A FAZENDA HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e87886649def0304347870e5fb00e34cbe6e54b2/playlist.m3u8
+#EXTINF:-1, ALL SPORTS HD (DF)
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1, SBT (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
@@ -44,8 +46,6 @@ http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
 #EXTINF:-1, REDE BRASIL DE COMUNICAÇÃO (PE)
 http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
-#EXTINF:-1,TV JOVEM PAN NEWS
-http://evpp.mm.uol.com.br:1935/jovempan/tv-jp.sdp/live.m3u8
 #EXTINF:-1, PARAMOUNT CHANNEL
 http://paramount.live.flumotion.com/live/playlist.m3u8
 #EXTINF:-1, TV J.SID (BA)
@@ -78,14 +78,10 @@ http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 http://stmv2.srvstm.com/16692/16692/playlist.m3u8
 #EXTINF:-1,#EXTSIZE: Small
 http://media2.str.ak.abweb.com/abori/Zm69Qrk8.smil/chunklist_b2100000.m3u8
-#EXTINF:-1, ANIMAIS ÁFRICA DO SUL
-http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8
 #EXTINF:-1, HISTORY LAB (ITÁLIA)
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1, DWTV HD (INGLÊS)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
-#EXTINF:-1, DWTV HD (ESPANHOL)
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
 #EXTINF:-1,TV FÁTIMA PARATIBE
 http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
 #EXTINF:-1,TV IMACULADA CONCEIÇÃO
@@ -130,12 +126,8 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
 #EXTINF:-1, TV TERCEIRO ANJO HD
 http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1, TV AD-BELÉM HD
-http://streaming60.sitehosting.com.br:1935/tvadbras/_definst_/tvadbras/chunklist_w407751649.m3u8
 #EXTINF:-1,GOSPEL MUSIC TELEVISION
 http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
-#EXTINF:-1, TV MANA SAT HD (PT)
-http://c3.manasat.com:1935/tvbr/tvbrasil1/chunklist_w215130643.m3u8
 #EXTINF:-1, TV MANA 1 - BOAS NOVAS HD (PT)
 http://csvl04.manasat.com:1935/tvmana/tvmana2/chunklist_w51468928.m3u8
 #EXTINF:-1, MANA SAT - IGREJA ONLINE LISBOA HD (PT)
@@ -242,8 +234,6 @@ http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
 http://live.tcm10.com.br/tcm10.m3u8
 #EXTINF:-1,TV A CARA DA BAHIA
 http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
-#EXTINF:-1,TV AD BELÉM
-http://streaming60.sitehosting.com.br:1935/tvadbras/tvadbras/live.m3u8
 #EXTINF:-1,TV AMBIENTAL
 http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
 #EXTINF:-1,TV APARECIDA
@@ -300,12 +290,8 @@ http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
 http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
 #EXTINF:-1,TV ITAPETININGA
 http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
-#EXTINF:-1,TV JORNAL CARUARU
-http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
 #EXTINF:-1,TV JORNAL RECIFE
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1,TV JP
-http://ev.mm.uol.com.br:1935/jovempan/tv-jp.sdp/live.m3u8
 #EXTINF:-1,TV J.SID
 http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
 #EXTINF:-1,TV LITORAL PANORAMA
@@ -674,8 +660,6 @@ http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 http://audio.cabobranco.tv.br:8000/cbncg
 #EXTINF:-1, CORREIO 98 FM - CAMPINA GRANDE
 http://ice11.crossradio.com.br:8026/;*.mp3
-#EXTINF:-1, RADIO 101 FM - CAMPINA GRANDE
-http://radioapp.agenciaellis.com.br/Cariri1160
 #EXTINF:-1, ARAPUAN - JOÂO PESSOA
 http://centova6.ciclanohost.com.br:9104/;stream.nsv
 #EXTINF:-1, CORREIO 98 FM - JOÃO PESSOA
