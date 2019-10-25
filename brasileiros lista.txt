@@ -1,11 +1,6 @@
 #EXTINF:-1,-----lista fabio brasil-----
 #EXTINF:-1,A fazenda 11HD
-https://live.multicanais.com/mylive/fazendahd/chunks.m3u8?md5=PKvhGgHcfDhHtlChEjKZhw&expires=1571863735
-#EXTINF:-1,A fazenda 11 FHD
-https://live.multicanais.com/mylive/fazendahd/chunks.m3u8?md5=Kx-JZ4Rzbqp40l85qGwJwQ&expires=1571864104
-#EXTINF:-1,A fazenda 11 SD
-https://live.multicanais.com/mylive/fazendasd/chunks.m3u8?md5=ILEzGgv1fofbtswILdS4kg&expires=1571864183
-#EXTINF:-1, ALL SPORTS HD (DF)
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e87886649def0304347870e5fb00e34cbe6e54b2/playlist.m3u8
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1, SBT (PE)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
