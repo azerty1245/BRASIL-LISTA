@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,-----lista FABIO brasil-----
+
 #EXTINF:-1,A FAZENDA HD
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e87886649def0304347870e5fb00e34cbe6e54b2/playlist.m3u8
 #EXTINF:-1, ALL SPORTS HD (DF)
