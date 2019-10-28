@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,A FAZENDA HD
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/afazenda_70ac2ffc_e87886649def0304347870e5fb00e34cbe6e54b2/playlist.m3u8
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/afazenda_70ac2ffc_e56377d51513873d4759b94cdacf01aca7c51b01.m3u8
 #EXTINF:-1, ALL SPORTS HD (DF)
 http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
 #EXTINF:-1, SBT (PE)
