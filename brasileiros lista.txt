@@ -1,5 +1,4 @@
 #EXTINF:-1,alliptvlinks.com ===== BR: GENERAL =====
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42935
 #EXTINF:-1,alliptvlinks.com BR: GLOBO SP HD
 http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42936
 #EXTINF:-1,alliptvlinks.com BR: GLOBO MINAS HD
