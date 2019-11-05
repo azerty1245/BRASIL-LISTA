@@ -1,229 +1,141 @@
-#EXTINF:-1,alliptvlinks.com ===== BR: GENERAL =====
-#EXTINF:-1,alliptvlinks.com BR: GLOBO SP HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42936
-#EXTINF:-1,alliptvlinks.com BR: GLOBO MINAS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42937
-#EXTINF:-1,alliptvlinks.com BR: GLOBO NORDESTE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42938
-#EXTINF:-1,alliptvlinks.com BR: GLOBO RBS PORTO ALEGRE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42939
-#EXTINF:-1,alliptvlinks.com BR: GLOBO BRASILIA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42940
-#EXTINF:-1,alliptvlinks.com BR: GLOBO RJ HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42942
-#EXTINF:-1,alliptvlinks.com BR: GLOBO TV GAZETA ES HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42943
-#EXTINF:-1,alliptvlinks.com BR: RECORD BA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42945
-#EXTINF:-1,alliptvlinks.com BR: RECORD BAHIA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42946
-#EXTINF:-1,alliptvlinks.com BR: RECORD DF HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42947
-#EXTINF:-1,alliptvlinks.com BR: RECORD GO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42948
-#EXTINF:-1,alliptvlinks.com BR: RECORD HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42949
-#EXTINF:-1,alliptvlinks.com BR: RECORD MG HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42950
-#EXTINF:-1,alliptvlinks.com BR: RECORD RJ HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42951
-#EXTINF:-1,alliptvlinks.com BR: RECORD RS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42952
-#EXTINF:-1,alliptvlinks.com BR: RECORD SP HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42953
-#EXTINF:-1,alliptvlinks.com BR: E! HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42954
-#EXTINF:-1,alliptvlinks.com BR: VIVA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42955
-#EXTINF:-1,alliptvlinks.com BR: WOOHOO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42956
-#EXTINF:-1,alliptvlinks.com BR: EI PLUS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42957
-#EXTINF:-1,alliptvlinks.com BR: LIFETIME HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42958
-#EXTINF:-1,alliptvlinks.com BR: GLOOBINHO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42961
-#EXTINF:-1,alliptvlinks.com BR: GNT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42962
-#EXTINF:-1,alliptvlinks.com BR: MAIS GLOBOSAT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42963
-#EXTINF:-1,alliptvlinks.com BR: CANAL BRASIL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42964
-#EXTINF:-1,alliptvlinks.com BR: NOVO TEMPO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42965
-#EXTINF:-1,alliptvlinks.com BR: REDE TV HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42966
-#EXTINF:-1,alliptvlinks.com BR: SBT CIDADE VERDE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42967
-#EXTINF:-1,alliptvlinks.com BR: SBT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42968
-#EXTINF:-1,alliptvlinks.com ===== BR: NEWS =====
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42970
-#EXTINF:-1,alliptvlinks.com BR: GLOBO NEWS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42971
-#EXTINF:-1,alliptvlinks.com BR: RECORD NEWS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42972
-#EXTINF:-1,alliptvlinks.com BR: BAND NEWS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42973
-#EXTINF:-1,alliptvlinks.com BR: CBS NEWS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42974
-#EXTINF:-1,alliptvlinks.com ===== BR: KIDS =====
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42975
-#EXTINF:-1,alliptvlinks.com BR: BABY HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42976
-#EXTINF:-1,alliptvlinks.com BR: BOOMERANG HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42977
-#EXTINF:-1,alliptvlinks.com BR: CARTOON NETWORK HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42978
-#EXTINF:-1,alliptvlinks.com BR: DISNEY JR HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42979
-#EXTINF:-1,alliptvlinks.com BR: DISNEY XD HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42980
-#EXTINF:-1,alliptvlinks.com BR: NICK HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42981
-#EXTINF:-1,alliptvlinks.com BR: NICK JR HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42982
-#EXTINF:-1,alliptvlinks.com BR: NICKELODEON HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42983
-#EXTINF:-1,alliptvlinks.com BR: TOONCAST HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42984
-#EXTINF:-1,alliptvlinks.com BR: DISNEY CHANNEL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42985
-#EXTINF:-1,alliptvlinks.com BR: FOX PREMIUM 2 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42989
-#EXTINF:-1,alliptvlinks.com BR: HBO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42990
-#EXTINF:-1,alliptvlinks.com BR: HBO FAMILY HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42992
-#EXTINF:-1,alliptvlinks.com BR: HBO PLUS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42993
-#EXTINF:-1,alliptvlinks.com BR: HBO SIGNATURE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42994
-#EXTINF:-1,alliptvlinks.com BR: ZOOMOO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42995
-#EXTINF:-1,alliptvlinks.com BR: UNIVERSAL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42996
-#EXTINF:-1,alliptvlinks.com BR: TLC HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42997
-#EXTINF:-1,alliptvlinks.com BR: TCM HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42998
-#EXTINF:-1,alliptvlinks.com BR: TBS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/42999
-#EXTINF:-1,alliptvlinks.com BR: SYFY HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43000
-#EXTINF:-1,alliptvlinks.com BR: STUDIO UNIVERSAL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43001
-#EXTINF:-1,alliptvlinks.com BR: SPACE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43002
-#EXTINF:-1,alliptvlinks.com BR: SONY CHANNEL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43003
-#EXTINF:-1,alliptvlinks.com BR: PARAMOUNT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43004
-#EXTINF:-1,alliptvlinks.com BR: OFF HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43005
-#EXTINF:-1,alliptvlinks.com BR: MULTISHOW HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43006
-#EXTINF:-1,alliptvlinks.com BR: MEGAPIX HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43008
-#EXTINF:-1,alliptvlinks.com BR: MAX UP HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43009
-#EXTINF:-1,alliptvlinks.com BR: MAX HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43010
-#EXTINF:-1,alliptvlinks.com BR: FX HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43011
-#EXTINF:-1,alliptvlinks.com BR: FOX LIFE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43012
-#EXTINF:-1,alliptvlinks.com BR: FOX LIFE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43013
-#EXTINF:-1,alliptvlinks.com BR: FOX HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43014
-#EXTINF:-1,alliptvlinks.com BR: COMEDY CENTRAL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43015
-#EXTINF:-1,alliptvlinks.com BR: CINEMAX HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43016
-#EXTINF:-1,alliptvlinks.com BR: BAND HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43018
-#EXTINF:-1,alliptvlinks.com BR: BAND CAMPINAS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43019
-#EXTINF:-1,alliptvlinks.com BR: TELECINE TOUCH HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43024
-#EXTINF:-1,alliptvlinks.com BR: TELECINE PIPOCA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43025
-#EXTINF:-1,alliptvlinks.com BR: TELECINE CULT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43027
-#EXTINF:-1,alliptvlinks.com BR: TELECINE ACTION HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43028
-#EXTINF:-1,alliptvlinks.com BR: TNT SERIES HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43029
-#EXTINF:-1,alliptvlinks.com BR: TNT HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43030
-#EXTINF:-1,alliptvlinks.com BR: TELECINE PREMIUM HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43031
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 7 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43033
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 6 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43034
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 5 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43035
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 4 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43036
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 3 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43037
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE 2 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43038
-#EXTINF:-1,alliptvlinks.com BR: PREMIERE CLUBES HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43039
-#EXTINF:-1,alliptvlinks.com BR: MAX PRIME HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43040
-#EXTINF:-1,alliptvlinks.com BR: ESPN HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43048
-#EXTINF:-1,alliptvlinks.com BR: ESPN EXTRA HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43049
-#EXTINF:-1,alliptvlinks.com BR: ESPN 2 HD*
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43050
-#EXTINF:-1,alliptvlinks.com BR: ESPN 2 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43051
-#EXTINF:-1,alliptvlinks.com BR: ESPN BRASIL HD*
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43052
-#EXTINF:-1,alliptvlinks.com BR: ESPN BRASIL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43053
-#EXTINF:-1,alliptvlinks.com BR: COMBATE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43054
-#EXTINF:-1,alliptvlinks.com BR: EPTV RIBEIRAO PRETO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43055
-#EXTINF:-1,alliptvlinks.com ===== BR: MUSIC =====
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43056
-#EXTINF:-1,alliptvlinks.com BR: BIS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43057
-#EXTINF:-1,alliptvlinks.com BR: MTV HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43058
-#EXTINF:-1,alliptvlinks.com BR: ANIMAL PLANET HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43060
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY CHANNEL HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43061
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY CIVILIZATION HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43062
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY H&H HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43063
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY KIDS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43064
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY SCIENCE HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43065
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY THEATER HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43066
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY TURBO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43067
-#EXTINF:-1,alliptvlinks.com BR: DISCOVERY WORLD HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43068
-#EXTINF:-1,alliptvlinks.com BR: HISTORY HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43069
-#EXTINF:-1,alliptvlinks.com BR: H2 HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43070
-#EXTINF:-1,alliptvlinks.com BR: ID DISCOVERY HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43071
-#EXTINF:-1,alliptvlinks.com BR: NATGEO HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43072
-#EXTINF:-1,alliptvlinks.com BR: NATGEO KIDS HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43073
-#EXTINF:-1,alliptvlinks.com BR: NATGEO WILD HD
-http://rocksat.ddns.net:25461/oPVqfjJaqUbTpqv/LBV1hr7qAxxNSvx/43074
+#EXTM3U
+#EXTINF:-1 ,alliptvlinks.com |BR| COMBATE
+http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/543.ts
+#EXTINF:-1 ,alliptvlinks.com |BR| SBT
+http://siptv-online.com:8789/19865/19865/24911
+#EXTINF:-1 ,alliptvlinks.com |BR| REDE TV !
+http://siptv-online.com:8789/19865/19865/24925
+#EXTINF:-1 ,alliptvlinks.com |BR| MEGAPIX
+http://siptv-online.com:8789/19865/19865/24914
+#EXTINF:-1 ,alliptvlinks.com BR: FOX Premium 1 HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5522
+#EXTINF:-1 ,alliptvlinks.com BR: FX HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5527
+#EXTINF:-1 ,alliptvlinks.com BR: Telecine Pipoca HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5507
+#EXTINF:-1 ,alliptvlinks.com BR: Universal Channel HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5509
+#EXTINF:-1 ,alliptvlinks.com BR: BIS HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5489
+#EXTINF:-1 ,alliptvlinks.com BR: Canal brazil HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5481
+#EXTINF:-1 ,alliptvlinks.com BR: Cultura HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5482
+#EXTINF:-1 ,alliptvlinks.com BR: ESPN HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5491
+#EXTINF:-1 ,alliptvlinks.com BR: Globo HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5490
+#EXTINF:-1 ,alliptvlinks.com BR: Globo News
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5471
+#EXTINF:-1 ,alliptvlinks.com BR: Globo Pluse HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5494
+#EXTINF:-1 ,alliptvlinks.com BR: Prime Box
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5476
+#EXTINF:-1 ,alliptvlinks.com BR: Record
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5472
+#EXTINF:-1 ,alliptvlinks.com BR: Red TV HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5499
+#EXTINF:-1 ,alliptvlinks.com BR: SBT HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5479
+#EXTINF:-1 ,alliptvlinks.com BR: Viva HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5501
+#EXTINF:-1 ,alliptvlinks.com BR: Cartoon Network HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5525
+#EXTINF:-1 ,alliptvlinks.com BR: E! HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5524
+#EXTINF:-1 ,alliptvlinks.com BR: TNT Series HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5511
+#EXTINF:-1 ,alliptvlinks.com BR: Discovery ID HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5520
+#EXTINF:-1 ,alliptvlinks.com BR: National Geographic HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5518
+#EXTINF:-1 ,alliptvlinks.com BR: HBO Signature Eng HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5519
+#EXTINF:-1 ,alliptvlinks.com BR: Mega Pix
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5517
+#EXTINF:-1 ,alliptvlinks.com BR: SyFy HD
+http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5515
+#EXTINF:-1 ,alliptvlinks.com ES: HBO Signature BR
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/2564
+#EXTINF:-1 ,alliptvlinks.com BR: Premiere HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5516
+#EXTINF:-1 ,alliptvlinks.com BR: Band News HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5495
+#EXTINF:-1 ,alliptvlinks.com BR: Band HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5486
+#EXTINF:-1 ,alliptvlinks.com BR: HBO 1 HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5477
+#EXTINF:-1 ,alliptvlinks.com BR: HBO 2 HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5497
+#EXTINF:-1 ,alliptvlinks.com BR: HBO Family HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5478
+#EXTINF:-1 ,alliptvlinks.com BR: HBO Plus HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5483
+#EXTINF:-1 ,alliptvlinks.com BR: HBO Signature HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5485
+#EXTINF:-1 ,alliptvlinks.com BR: TeleCine Action HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5493
+#EXTINF:-1 ,alliptvlinks.com BR: TeleCine Cult HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5500
+#EXTINF:-1 ,alliptvlinks.com BR: TeleCine Fun HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5492
+#EXTINF:-1 ,alliptvlinks.com BR: TeleCine Premium HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5488
+#EXTINF:-1 ,alliptvlinks.com BR: TeleCine Touch HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5487
+#EXTINF:-1 ,alliptvlinks.com BR: Cinemax HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5526
+#EXTINF:-1 ,alliptvlinks.com BR: Fox HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5528
+#EXTINF:-1 ,alliptvlinks.com BR: FOX Premium 1 HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5522
+#EXTINF:-1 ,alliptvlinks.com BR: FX HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5527
+#EXTINF:-1 ,alliptvlinks.com BR: Telecine Pipoca HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5507
+#EXTINF:-1 ,alliptvlinks.com BR: Universal Channel HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5509
+#EXTINF:-1 ,alliptvlinks.com BR: BIS HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5489
+#EXTINF:-1 ,alliptvlinks.com BR: Canal brazil HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5481
+#EXTINF:-1 ,alliptvlinks.com BR: Cultura HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5482
+#EXTINF:-1 ,alliptvlinks.com BR: ESPN HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5491
+#EXTINF:-1 ,alliptvlinks.com BR: Globo HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5490
+#EXTINF:-1 ,alliptvlinks.com BR: Globo News
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5471
+#EXTINF:-1 ,alliptvlinks.com BR: Globo Pluse HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5494
+#EXTINF:-1 ,alliptvlinks.com BR: Prime Box
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5476
+#EXTINF:-1 ,alliptvlinks.com BR: Record
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5472
+#EXTINF:-1 ,alliptvlinks.com BR: Red TV HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5499
+#EXTINF:-1 ,alliptvlinks.com BR: SBT HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5479
+#EXTINF:-1 ,alliptvlinks.com BR: Viva HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5501
+#EXTINF:-1 ,alliptvlinks.com BR: Cartoon Network HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5525
+#EXTINF:-1 ,alliptvlinks.com BR: E! HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5524
+#EXTINF:-1 ,alliptvlinks.com BR: TNT Series HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5511
+#EXTINF:-1 ,alliptvlinks.com BR: Discovery ID HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5520
+#EXTINF:-1 ,alliptvlinks.com BR: National Geographic HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5518
+#EXTINF:-1 ,alliptvlinks.com BR: HBO Signature Eng HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5519
+#EXTINF:-1 ,alliptvlinks.com BR: Mega Pix
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5517
+#EXTINF:-1 ,alliptvlinks.com BR: SyFy HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5515
+#EXTINF:-1 ,alliptvlinks.com BR: TCM HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5514
+#EXTINF:-1 ,alliptvlinks.com BR: Tooncast HD
+http://ipsat.pro:8080/LXXSjdwdR7/nULkVVot9A/5508
