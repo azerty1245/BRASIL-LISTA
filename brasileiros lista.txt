@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 ,.com |BR| COMBATE
+#EXTINF:-1 , BR: COMBATE
 http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/543.ts
-#EXTINF:-1 , |BR| SBT
+#EXTINF:-1 , BR: SBT
 http://siptv-online.com:8789/19865/19865/24911
-#EXTINF:-1 ,|BR| REDE TV !
+#EXTINF:-1 ,BR: REDE TV !
 http://siptv-online.com:8789/19865/19865/24925
-#EXTINF:-1 , |BR| MEGAPIX
+#EXTINF:-1 , BR: MEGAPIX
 http://siptv-online.com:8789/19865/19865/24914
 #EXTINF:-1 , BR: FOX Premium 1 HD
 http://ipsat.pro:8080/3h1dWUjKD6/wysGA63mEw/5522
