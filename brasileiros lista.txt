@@ -1,71 +1,299 @@
 #EXTM3U
-#EXTINF:-1 , BR: A&E HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21989
-#EXTINF:-1 , BR: Band Campinas HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21941
-#EXTINF:-1 , BR: Bis HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22127
-#EXTINF:-1 , BR: Combate HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21930
-#EXTINF:-1 ,BR: Comedy CEntral HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22143
-#EXTINF:-1 , BR: Disney Xd HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22139
-#EXTINF:-1 , BR: Espn 2 HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21928
-#EXTINF:-1 , BR: Espn HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21925
-#EXTINF:-1 , BR: Food Network HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22126
-#EXTINF:-1 , BR: Fox Premium 2 HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22183
-#EXTINF:-1 , BR: Gnt SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21966
-#EXTINF:-1 , BR: Hbo 2 SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22015
-#EXTINF:-1 , BR: Hbo Plus HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22178
-#EXTINF:-1 ,BR: History SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21949
-#EXTINF:-1 , BR: Mais Globosat HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22122
-#EXTINF:-1 , BR: Max SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22011
-#EXTINF:-1 ,BR: Natgeo Kids SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21981
-#EXTINF:-1 , BR: Nick Jr HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22134
-#EXTINF:-1 , BR: Nickelodeon SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21979
-#EXTINF:-1 , BR: Paramount HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22172
-#EXTINF:-1 ,BR: Paramount SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22007
-#EXTINF:-1 , BR: Premiere 4 HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21920
-#EXTINF:-1 ,BR: Record Ba HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21935
-#EXTINF:-1 , BR: Record Mg SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22041
-#EXTINF:-1 , BR: Record RS SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22039
-#EXTINF:-1 ,BR: Sony SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22006
-#EXTINF:-1 , BR: Studio Universal HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22169
-#EXTINF:-1 , BR: Syfy SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22003
-#EXTINF:-1 , BR: Tcm SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22001
-#EXTINF:-1 , BR: Telecine Cult SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21999
-#EXTINF:-1 , BR: Telecine Touch HD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22160
-#EXTINF:-1 , BR: Universal Channel SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21993
-#EXTINF:-1 ,BR: Warner Channel SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21992
-#EXTINF:-1 , BR: Woohoo SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/22025
-#EXTINF:-1 ,BR: Universal Channel SD
-http://mag.iptv.cab:80/M6TZJFX1LI/yZ0DIb6L2n/21993
+#EXTINF:-1 , BR: VH1
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57186.ts
+#EXTINF:-1 , BR: Vem e Ve TV
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57185.ts
+#EXTINF:-1 , BR: Universal Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57184.ts
+#EXTINF:-1 ,: TV Record
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57075.ts
+#EXTINF:-1 ,BR: TV Globo Premium
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57076.ts
+#EXTINF:-1 , BR: TV Globo
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57077.ts
+#EXTINF:-1 , BR: TV GAZETA HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57181.ts
+#EXTINF:-1 , BR: TV Diario Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57078.ts
+#EXTINF:-1 , BR: TV Diario
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57180.ts
+#EXTINF:-1 , BR: TV BRASIL CENTRAL
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57179.ts
+#EXTINF:-1 , BR: Tooncast
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57178.ts
+#EXTINF:-1 , BR: TNT Series
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57150.ts
+#EXTINF:-1 , BR: TLC
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57100.ts
+#EXTINF:-1 , BR: Telecine Premium HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57263.ts
+#EXTINF:-1 , BR: TELECINE PREMIUM FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57262.ts
+#EXTINF:-1 ,BR: Telecine Pipoca HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57261.ts
+#EXTINF:-1 , BR: TELECINE PIPOCA  FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57260.ts
+#EXTINF:-1 , BR: Telecine Fun HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57259.ts
+#EXTINF:-1 ,BR: TELECINE FUN FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57258.ts
+#EXTINF:-1 ,BR: Telecine Action HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57257.ts
+#EXTINF:-1 ,BR: TELECINE ACTION FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57256.ts
+#EXTINF:-1 ,alliptvlinks.com BR: TC Touch
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57147.ts
+#EXTINF:-1 ,alliptvlinks.com BR: TC Premium
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57146.ts
+#EXTINF:-1 ,alliptvlinks.com BR: TC Pipoca
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57145.ts
+#EXTINF:-1 ,BR: TC Fun
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57144.ts
+#EXTINF:-1 , BR: TC Cult
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57143.ts
+#EXTINF:-1 , BR: TC Action
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57142.ts
+#EXTINF:-1 , BR: TBS HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57255.ts
+#EXTINF:-1 , BR: TBS Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57177.ts
+#EXTINF:-1 ,BR: Syfy
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57176.ts
+#EXTINF:-1 , BR: Studio Universal
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57159.ts
+#EXTINF:-1 ,BR: SBT Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57158.ts
+#EXTINF:-1 , BR: SBT
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57174.ts
+#EXTINF:-1 , BR: REDE TV
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57081.ts
+#EXTINF:-1 , BR: REDE GOSPEL
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57082.ts
+#EXTINF:-1 , BR: Rede Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57249.ts
+#EXTINF:-1 , BR: Record HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57247.ts
+#EXTINF:-1 , BR: RBS TV Porto Alegre
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57245.ts
+#EXTINF:-1 ,alliptvlinks.com BR: Proyecto 40
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57173.ts
+#EXTINF:-1 , BR: Prime Box Brazil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57244.ts
+#EXTINF:-1 ,BR: Prime Box Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57138.ts
+#EXTINF:-1 ,BR: Premiere Clubes HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57243.ts
+#EXTINF:-1 ,BR: Premiere Clubes
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57137.ts
+#EXTINF:-1 ,BR: Premiere 8
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57242.ts
+#EXTINF:-1 ,BR: Premiere 7
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57241.ts
+#EXTINF:-1 ,BR: Premiere 6
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57240.ts
+#EXTINF:-1 ,BR: Premiere 5 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57239.ts
+#EXTINF:-1 ,BR: Premiere 5
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57135.ts
+#EXTINF:-1 ,BR: Premiere 3
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57133.ts
+#EXTINF:-1 ,BR: Premiere 2 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57236.ts
+#EXTINF:-1 ,BR: Premiere 2
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57132.ts
+#EXTINF:-1 ,BR: PFC
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57131.ts
+#EXTINF:-1 ,BR: OfFHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57234.ts
+#EXTINF:-1 ,BR: OFF HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57233.ts
+#EXTINF:-1 , BR: OFF
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57172.ts
+#EXTINF:-1 ,BR: Nickelodeon
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57231.ts
+#EXTINF:-1 ,BR: Nick Jr
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57170.ts
+#EXTINF:-1 ,BR: Nick
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57129.ts
+#EXTINF:-1 ,BR: National Geographic
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57128.ts
+#EXTINF:-1 ,BR: Megapix HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57230.ts
+#EXTINF:-1 ,BR: MegaPix
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57168.ts
+#EXTINF:-1 ,BR: Max Up
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57126.ts
+#EXTINF:-1 ,BR: Max Prime
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57125.ts
+#EXTINF:-1 ,BR: Mais Globosat sd
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57156.ts
+#EXTINF:-1 ,BR: Investigação Discovery
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57123.ts
+#EXTINF:-1 ,BR: ID - Investigação Discovery HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57228.ts
+#EXTINF:-1 ,BR: HBO Signature
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57122.ts
+#EXTINF:-1 ,BR: HBO Plus HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57224.ts
+#EXTINF:-1 ,BR: HBO Plus e
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57223.ts
+#EXTINF:-1 ,BR: HBO Plus
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57121.ts
+#EXTINF:-1 ,BR: HBO HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57222.ts
+#EXTINF:-1 ,BR: HBO Family HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57221.ts
+#EXTINF:-1 ,BR: HBO Family
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57120.ts
+#EXTINF:-1 ,BR: HBO 2 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57220.ts
+#EXTINF:-1 ,BR: HBO 2
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57098.ts
+#EXTINF:-1 ,BR: HBO
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57097.ts
+#EXTINF:-1 ,BR: H2 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57219.ts
+#EXTINF:-1 , BR: H2
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57119.ts
+#EXTINF:-1 ,BR: GNT HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57218.ts
+#EXTINF:-1 ,BR: GNT
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57118.ts
+#EXTINF:-1 ,BR: Globo SP
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57152.ts
+#EXTINF:-1 ,BR: Globo RJ HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57217.ts
+#EXTINF:-1 ,BR: Globo RJ FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57272.ts
+#EXTINF:-1 ,BR: GLOBO RJ Backup
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57271.ts
+#EXTINF:-1 ,BR: Globo Premium
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57116.ts
+#EXTINF:-1 ,BR: Globo News
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57115.ts
+#EXTINF:-1 ,BR: FX HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57216.ts
+#EXTINF:-1 ,BR: FX
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57155.ts
+#EXTINF:-1 ,BR: FOX Premium 2 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57214.ts
+#EXTINF:-1 ,BR: FOX Premium 1 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57213.ts
+#EXTINF:-1 ,BR: FOX Life HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57212.ts
+#EXTINF:-1 ,BR: Fox Life
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57114.ts
+#EXTINF:-1 ,BR: FOX
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57096.ts
+#EXTINF:-1 ,BR: Food Network
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57209.ts
+#EXTINF:-1 ,BR: ESPN Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57086.ts
+#EXTINF:-1 ,BR: ESPN
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57113.ts
+#EXTINF:-1 ,BR: E!
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57112.ts
+#EXTINF:-1 ,BR: Disney XD Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57166.ts
+#EXTINF:-1 ,BR: Disney XD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57204.ts
+#EXTINF:-1 ,BR: Disney Junior
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57203.ts
+#EXTINF:-1 ,BR: Discovery World HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57201.ts
+#EXTINF:-1 ,BR: Discovery Turbo HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57200.ts
+#EXTINF:-1 ,BR: Discovery Turbo
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57109.ts
+#EXTINF:-1 ,BR: Discovery Theater HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57199.ts
+#EXTINF:-1 ,BR: Discovery Science
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57108.ts
+#EXTINF:-1 ,BR: Discovery Kids
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57198.ts
+#EXTINF:-1 ,BR: Discovery Home Health
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57165.ts
+#EXTINF:-1 ,BR: Discovery Home & Health HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57197.ts
+#EXTINF:-1 ,BR: Discovery H&H
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57196.ts
+#EXTINF:-1 ,BR: Discovery Civilization
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57107.ts
+#EXTINF:-1 ,BR: Discovery Channel HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57195.ts
+#EXTINF:-1 ,BR: DISCOVERY
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57095.ts
+#EXTINF:-1 ,BR: Combate HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57193.ts
+#EXTINF:-1 ,BR: COMBATE FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57192.ts
+#EXTINF:-1 ,BR: Combate
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57106.ts
+#EXTINF:-1 ,BR: CINEMAX
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57094.ts
+#EXTINF:-1 ,BR: Cartoon Network
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57164.ts
+#EXTINF:-1 ,BR: Canal Sony
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57105.ts
+#EXTINF:-1 ,BR: CANAL ESCOLA
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57153.ts
+#EXTINF:-1 ,BR: Canal DO TV
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57163.ts
+#EXTINF:-1 ,BR: Canal Brasil
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57104.ts
+#EXTINF:-1 ,BR: Boomerang
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57103.ts
+#EXTINF:-1 ,BR: BIS
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57162.ts
+#EXTINF:-1 ,BR: BAND NEWS
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57092.ts
+#EXTINF:-1 ,BR: Baby TV
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57191.ts
+#EXTINF:-1 ,BR: AXN HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57190.ts
+#EXTINF:-1 ,BR: AXN
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57090.ts
+#EXTINF:-1 ,BR: Arte 1
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57161.ts
+#EXTINF:-1 ,BR: Animal Planet HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57189.ts
+#EXTINF:-1 ,BR: ANIMAL PLANET
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57089.ts
+#EXTINF:-1 ,BR: AMC FHD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57188.ts
+#EXTINF:-1 ,BR: A&E
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57088.ts
+#EXTINF:-1 ,BR: Warner Channel HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57880.ts
+#EXTINF:-1 ,BR: Warner Channel
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57879.ts
+#EXTINF:-1 ,BR: WARNER
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57582.ts
+#EXTINF:-1 ,BR: Viva
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57617.ts
+#EXTINF:-1 ,BR: TNT Séries HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57876.ts
+#EXTINF:-1 ,BR: TNT HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57875.ts
+#EXTINF:-1 ,BR: TNT
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57581.ts
+#EXTINF:-1 ,BR: TCM
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57615.ts
+#EXTINF:-1 ,BR: SBT HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57873.ts
+#EXTINF:-1 ,BR: Record News
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57760.ts
+#EXTINF:-1 ,BR: Premiere 4
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57613.ts
+#EXTINF:-1 ,BR: Premiere 3 HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57869.ts
+#EXTINF:-1 ,BR: History Channel HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57864.ts
+#EXTINF:-1 ,BR: History Channel
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57616.ts
+#EXTINF:-1 ,BR: HBO Signature HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57863.ts
+#EXTINF:-1 ,BR: Gloob
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57609.ts
+#EXTINF:-1 ,BR: ESPN HD
+http://xtriptv.link:25461/live/17094/66im8o2DpJ/57576.ts
