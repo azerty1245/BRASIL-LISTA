@@ -1,299 +1,245 @@
 #EXTM3U
-#EXTINF:-1 , BR: VH1
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57186.ts
-#EXTINF:-1 , BR: Vem e Ve TV
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57185.ts
-#EXTINF:-1 , BR: Universal Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57184.ts
-#EXTINF:-1 ,: TV Record
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57075.ts
-#EXTINF:-1 ,BR: TV Globo Premium
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57076.ts
-#EXTINF:-1 , BR: TV Globo
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57077.ts
-#EXTINF:-1 , BR: TV GAZETA HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57181.ts
-#EXTINF:-1 , BR: TV Diario Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57078.ts
-#EXTINF:-1 , BR: TV Diario
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57180.ts
-#EXTINF:-1 , BR: TV BRASIL CENTRAL
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57179.ts
-#EXTINF:-1 , BR: Tooncast
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57178.ts
-#EXTINF:-1 , BR: TNT Series
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57150.ts
-#EXTINF:-1 , BR: TLC
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57100.ts
-#EXTINF:-1 , BR: Telecine Premium HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57263.ts
-#EXTINF:-1 , BR: TELECINE PREMIUM FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57262.ts
-#EXTINF:-1 ,BR: Telecine Pipoca HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57261.ts
-#EXTINF:-1 , BR: TELECINE PIPOCA  FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57260.ts
-#EXTINF:-1 , BR: Telecine Fun HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57259.ts
-#EXTINF:-1 ,BR: TELECINE FUN FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57258.ts
-#EXTINF:-1 ,BR: Telecine Action HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57257.ts
-#EXTINF:-1 ,BR: TELECINE ACTION FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57256.ts
-#EXTINF:-1 ,alliptvlinks.com BR: TC Touch
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57147.ts
-#EXTINF:-1 ,alliptvlinks.com BR: TC Premium
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57146.ts
-#EXTINF:-1 ,alliptvlinks.com BR: TC Pipoca
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57145.ts
-#EXTINF:-1 ,BR: TC Fun
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57144.ts
-#EXTINF:-1 , BR: TC Cult
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57143.ts
-#EXTINF:-1 , BR: TC Action
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57142.ts
-#EXTINF:-1 , BR: TBS HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57255.ts
-#EXTINF:-1 , BR: TBS Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57177.ts
-#EXTINF:-1 ,BR: Syfy
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57176.ts
-#EXTINF:-1 , BR: Studio Universal
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57159.ts
-#EXTINF:-1 ,BR: SBT Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57158.ts
-#EXTINF:-1 , BR: SBT
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57174.ts
-#EXTINF:-1 , BR: REDE TV
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57081.ts
-#EXTINF:-1 , BR: REDE GOSPEL
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57082.ts
-#EXTINF:-1 , BR: Rede Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57249.ts
-#EXTINF:-1 , BR: Record HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57247.ts
-#EXTINF:-1 , BR: RBS TV Porto Alegre
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57245.ts
-#EXTINF:-1 ,alliptvlinks.com BR: Proyecto 40
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57173.ts
-#EXTINF:-1 , BR: Prime Box Brazil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57244.ts
-#EXTINF:-1 ,BR: Prime Box Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57138.ts
-#EXTINF:-1 ,BR: Premiere Clubes HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57243.ts
-#EXTINF:-1 ,BR: Premiere Clubes
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57137.ts
-#EXTINF:-1 ,BR: Premiere 8
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57242.ts
-#EXTINF:-1 ,BR: Premiere 7
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57241.ts
-#EXTINF:-1 ,BR: Premiere 6
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57240.ts
-#EXTINF:-1 ,BR: Premiere 5 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57239.ts
-#EXTINF:-1 ,BR: Premiere 5
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57135.ts
-#EXTINF:-1 ,BR: Premiere 3
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57133.ts
-#EXTINF:-1 ,BR: Premiere 2 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57236.ts
-#EXTINF:-1 ,BR: Premiere 2
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57132.ts
-#EXTINF:-1 ,BR: PFC
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57131.ts
-#EXTINF:-1 ,BR: OfFHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57234.ts
-#EXTINF:-1 ,BR: OFF HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57233.ts
-#EXTINF:-1 , BR: OFF
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57172.ts
-#EXTINF:-1 ,BR: Nickelodeon
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57231.ts
-#EXTINF:-1 ,BR: Nick Jr
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57170.ts
-#EXTINF:-1 ,BR: Nick
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57129.ts
-#EXTINF:-1 ,BR: National Geographic
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57128.ts
-#EXTINF:-1 ,BR: Megapix HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57230.ts
-#EXTINF:-1 ,BR: MegaPix
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57168.ts
-#EXTINF:-1 ,BR: Max Up
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57126.ts
-#EXTINF:-1 ,BR: Max Prime
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57125.ts
-#EXTINF:-1 ,BR: Mais Globosat sd
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57156.ts
-#EXTINF:-1 ,BR: Investigação Discovery
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57123.ts
-#EXTINF:-1 ,BR: ID - Investigação Discovery HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57228.ts
-#EXTINF:-1 ,BR: HBO Signature
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57122.ts
-#EXTINF:-1 ,BR: HBO Plus HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57224.ts
-#EXTINF:-1 ,BR: HBO Plus e
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57223.ts
-#EXTINF:-1 ,BR: HBO Plus
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57121.ts
-#EXTINF:-1 ,BR: HBO HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57222.ts
-#EXTINF:-1 ,BR: HBO Family HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57221.ts
-#EXTINF:-1 ,BR: HBO Family
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57120.ts
-#EXTINF:-1 ,BR: HBO 2 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57220.ts
-#EXTINF:-1 ,BR: HBO 2
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57098.ts
-#EXTINF:-1 ,BR: HBO
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57097.ts
-#EXTINF:-1 ,BR: H2 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57219.ts
-#EXTINF:-1 , BR: H2
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57119.ts
-#EXTINF:-1 ,BR: GNT HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57218.ts
-#EXTINF:-1 ,BR: GNT
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57118.ts
-#EXTINF:-1 ,BR: Globo SP
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57152.ts
-#EXTINF:-1 ,BR: Globo RJ HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57217.ts
-#EXTINF:-1 ,BR: Globo RJ FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57272.ts
-#EXTINF:-1 ,BR: GLOBO RJ Backup
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57271.ts
-#EXTINF:-1 ,BR: Globo Premium
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57116.ts
-#EXTINF:-1 ,BR: Globo News
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57115.ts
-#EXTINF:-1 ,BR: FX HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57216.ts
-#EXTINF:-1 ,BR: FX
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57155.ts
-#EXTINF:-1 ,BR: FOX Premium 2 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57214.ts
-#EXTINF:-1 ,BR: FOX Premium 1 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57213.ts
-#EXTINF:-1 ,BR: FOX Life HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57212.ts
-#EXTINF:-1 ,BR: Fox Life
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57114.ts
-#EXTINF:-1 ,BR: FOX
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57096.ts
-#EXTINF:-1 ,BR: Food Network
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57209.ts
-#EXTINF:-1 ,BR: ESPN Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57086.ts
-#EXTINF:-1 ,BR: ESPN
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57113.ts
-#EXTINF:-1 ,BR: E!
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57112.ts
-#EXTINF:-1 ,BR: Disney XD Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57166.ts
-#EXTINF:-1 ,BR: Disney XD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57204.ts
-#EXTINF:-1 ,BR: Disney Junior
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57203.ts
-#EXTINF:-1 ,BR: Discovery World HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57201.ts
-#EXTINF:-1 ,BR: Discovery Turbo HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57200.ts
-#EXTINF:-1 ,BR: Discovery Turbo
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57109.ts
-#EXTINF:-1 ,BR: Discovery Theater HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57199.ts
-#EXTINF:-1 ,BR: Discovery Science
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57108.ts
-#EXTINF:-1 ,BR: Discovery Kids
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57198.ts
-#EXTINF:-1 ,BR: Discovery Home Health
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57165.ts
-#EXTINF:-1 ,BR: Discovery Home & Health HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57197.ts
-#EXTINF:-1 ,BR: Discovery H&H
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57196.ts
-#EXTINF:-1 ,BR: Discovery Civilization
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57107.ts
-#EXTINF:-1 ,BR: Discovery Channel HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57195.ts
-#EXTINF:-1 ,BR: DISCOVERY
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57095.ts
-#EXTINF:-1 ,BR: Combate HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57193.ts
-#EXTINF:-1 ,BR: COMBATE FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57192.ts
-#EXTINF:-1 ,BR: Combate
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57106.ts
-#EXTINF:-1 ,BR: CINEMAX
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57094.ts
-#EXTINF:-1 ,BR: Cartoon Network
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57164.ts
-#EXTINF:-1 ,BR: Canal Sony
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57105.ts
-#EXTINF:-1 ,BR: CANAL ESCOLA
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57153.ts
-#EXTINF:-1 ,BR: Canal DO TV
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57163.ts
-#EXTINF:-1 ,BR: Canal Brasil
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57104.ts
-#EXTINF:-1 ,BR: Boomerang
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57103.ts
-#EXTINF:-1 ,BR: BIS
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57162.ts
-#EXTINF:-1 ,BR: BAND NEWS
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57092.ts
-#EXTINF:-1 ,BR: Baby TV
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57191.ts
-#EXTINF:-1 ,BR: AXN HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57190.ts
-#EXTINF:-1 ,BR: AXN
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57090.ts
-#EXTINF:-1 ,BR: Arte 1
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57161.ts
-#EXTINF:-1 ,BR: Animal Planet HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57189.ts
-#EXTINF:-1 ,BR: ANIMAL PLANET
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57089.ts
-#EXTINF:-1 ,BR: AMC FHD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57188.ts
-#EXTINF:-1 ,BR: A&E
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57088.ts
-#EXTINF:-1 ,BR: Warner Channel HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57880.ts
-#EXTINF:-1 ,BR: Warner Channel
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57879.ts
-#EXTINF:-1 ,BR: WARNER
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57582.ts
-#EXTINF:-1 ,BR: Viva
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57617.ts
-#EXTINF:-1 ,BR: TNT Séries HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57876.ts
-#EXTINF:-1 ,BR: TNT HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57875.ts
-#EXTINF:-1 ,BR: TNT
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57581.ts
-#EXTINF:-1 ,BR: TCM
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57615.ts
-#EXTINF:-1 ,BR: SBT HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57873.ts
-#EXTINF:-1 ,BR: Record News
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57760.ts
-#EXTINF:-1 ,BR: Premiere 4
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57613.ts
-#EXTINF:-1 ,BR: Premiere 3 HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57869.ts
-#EXTINF:-1 ,BR: History Channel HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57864.ts
-#EXTINF:-1 ,BR: History Channel
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57616.ts
-#EXTINF:-1 ,BR: HBO Signature HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57863.ts
-#EXTINF:-1 ,BR: Gloob
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57609.ts
-#EXTINF:-1 ,BR: ESPN HD
-http://xtriptv.link:25461/live/17094/66im8o2DpJ/57576.ts
+#EXTINF:-1,BR: GLOBO HD
+http://sansat.net:25461/olivier3/olivier4/45724
+#EXTINF:-1,BR: GLOBO RJ HD
+http://sansat.net:25461/olivier3/olivier4/45725
+#EXTINF:-1,BR: GLOBO SP HD
+http://sansat.net:25461/olivier3/olivier4/45726
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://sansat.net:25461/olivier3/olivier4/45727
+#EXTINF:-1,BR: GLOBO NORDESTE HD
+http://sansat.net:25461/olivier3/olivier4/45728
+#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE HD
+http://sansat.net:25461/olivier3/olivier4/45729
+#EXTINF:-1,BR: GLOBO MANAUS HD
+http://sansat.net:25461/olivier3/olivier4/45730
+#EXTINF:-1,BR: GLOBO TV GAZETA ES HD
+http://sansat.net:25461/olivier3/olivier4/45731
+#EXTINF:-1,BR: GLOBO TV SERGIPE HD
+http://sansat.net:25461/olivier3/olivier4/45732
+#EXTINF:-1,BR: RECORD HD
+http://sansat.net:25461/olivier3/olivier4/45733
+#EXTINF:-1,BR: RECORD RJ HD
+http://sansat.net:25461/olivier3/olivier4/45734
+#EXTINF:-1,BR: RECORD SP HD
+http://sansat.net:25461/olivier3/olivier4/45735
+#EXTINF:-1,BR: RECORD BA HD
+http://sansat.net:25461/olivier3/olivier4/45736
+#EXTINF:-1,BR: RECORD BAHIA HD
+http://sansat.net:25461/olivier3/olivier4/45737
+#EXTINF:-1,BR: RECORD DF HD
+http://sansat.net:25461/olivier3/olivier4/45738
+#EXTINF:-1,BR: RECORD GO HD
+http://sansat.net:25461/olivier3/olivier4/45739
+#EXTINF:-1,BR: RECORD MG HD
+http://sansat.net:25461/olivier3/olivier4/45740
+#EXTINF:-1,BR: RECORD RS HD
+http://sansat.net:25461/olivier3/olivier4/45741
+#EXTINF:-1,BR: WOOHOO HD
+http://sansat.net:25461/olivier3/olivier4/45742
+#EXTINF:-1,BR: VIVA HD
+http://sansat.net:25461/olivier3/olivier4/45743
+#EXTINF:-1,BR: E! HD
+http://sansat.net:25461/olivier3/olivier4/45744
+#EXTINF:-1,BR: EI PLUS HD
+http://sansat.net:25461/olivier3/olivier4/45745
+#EXTINF:-1,BR: LIFETIME HD
+http://sansat.net:25461/olivier3/olivier4/45746
+#EXTINF:-1,BR: FOOD NETWORK HD
+http://sansat.net:25461/olivier3/olivier4/45747
+#EXTINF:-1,BR: GLOOB HD
+http://sansat.net:25461/olivier3/olivier4/45748
+#EXTINF:-1,BR: GLOOBINHO HD
+http://sansat.net:25461/olivier3/olivier4/45749
+#EXTINF:-1,BR: GNT HD
+http://sansat.net:25461/olivier3/olivier4/45750
+#EXTINF:-1,BR: MAIS GLOBOSAT HD
+http://sansat.net:25461/olivier3/olivier4/45751
+#EXTINF:-1,BR: CANAL BRASIL HD
+http://sansat.net:25461/olivier3/olivier4/45752
+#EXTINF:-1,BR: NOVO TEMPO HD
+http://sansat.net:25461/olivier3/olivier4/45753
+#EXTINF:-1,BR: REDE TV HD
+http://sansat.net:25461/olivier3/olivier4/45754
+#EXTINF:-1,BR: SBT CIDADE VERDE HD
+http://sansat.net:25461/olivier3/olivier4/45755
+#EXTINF:-1,BR: SBT HD
+http://sansat.net:25461/olivier3/olivier4/45756
+#EXTINF:-1,BR: SBT TV JORNAL HD
+http://sansat.net:25461/olivier3/olivier4/45757
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://sansat.net:25461/olivier3/olivier4/45759
+#EXTINF:-1,BR: RECORD NEWS HD
+http://sansat.net:25461/olivier3/olivier4/45760
+#EXTINF:-1,BR: BAND NEWS HD
+http://sansat.net:25461/olivier3/olivier4/45761
+#EXTINF:-1,BR: CBS NEWS HD
+http://sansat.net:25461/olivier3/olivier4/45762
+#EXTINF:-1,BR: BABY HD
+http://sansat.net:25461/olivier3/olivier4/45764
+#EXTINF:-1,BR: BOOMERANG HD
+http://sansat.net:25461/olivier3/olivier4/45765
+#EXTINF:-1,BR: CARTOON NETWORK HD
+http://sansat.net:25461/olivier3/olivier4/45766
+#EXTINF:-1,BR: DISNEY CHANNEL HD
+http://sansat.net:25461/olivier3/olivier4/45767
+#EXTINF:-1,BR: DISNEY JR HD
+http://sansat.net:25461/olivier3/olivier4/45768
+#EXTINF:-1,BR: DISNEY XD HD
+http://sansat.net:25461/olivier3/olivier4/45769
+#EXTINF:-1,BR: NICK HD
+http://sansat.net:25461/olivier3/olivier4/45770
+#EXTINF:-1,BR: NICK JR HD
+http://sansat.net:25461/olivier3/olivier4/45771
+#EXTINF:-1,BR: NICKELODEON HD
+http://sansat.net:25461/olivier3/olivier4/45772
+#EXTINF:-1,BR: TOONCAST HD
+http://sansat.net:25461/olivier3/olivier4/45773
+#EXTINF:-1,BR: RA TIM BUM HD
+http://sansat.net:25461/olivier3/olivier4/45774
+#EXTINF:-1,BR: FOX PREMIUM 1 HD
+http://sansat.net:25461/olivier3/olivier4/45776
+#EXTINF:-1,BR: FOX PREMIUM 2 HD
+http://sansat.net:25461/olivier3/olivier4/45777
+#EXTINF:-1,BR: HBO HD
+http://sansat.net:25461/olivier3/olivier4/45778
+#EXTINF:-1,BR: HBO 2 HD
+http://sansat.net:25461/olivier3/olivier4/45779
+#EXTINF:-1,BR: HBO FAMILY HD
+http://sansat.net:25461/olivier3/olivier4/45780
+#EXTINF:-1,BR: HBO PLUS HD
+http://sansat.net:25461/olivier3/olivier4/45781
+#EXTINF:-1,BR: HBO SIGNATURE HD
+http://sansat.net:25461/olivier3/olivier4/45782
+#EXTINF:-1,BR: MAX PRIME HD
+http://sansat.net:25461/olivier3/olivier4/45783
+#EXTINF:-1,BR: PREMIERE CLUBES HD
+http://sansat.net:25461/olivier3/olivier4/45784
+#EXTINF:-1,BR: PREMIERE 2 HD
+http://sansat.net:25461/olivier3/olivier4/45785
+#EXTINF:-1,BR: PREMIERE 3 HD
+http://sansat.net:25461/olivier3/olivier4/45786
+#EXTINF:-1,BR: PREMIERE 4 HD
+http://sansat.net:25461/olivier3/olivier4/45787
+#EXTINF:-1,BR: PREMIERE 5 HD
+http://sansat.net:25461/olivier3/olivier4/45788
+#EXTINF:-1,BR: PREMIERE 6 HD
+http://sansat.net:25461/olivier3/olivier4/45789
+#EXTINF:-1,BR: PREMIERE 7 HD
+http://sansat.net:25461/olivier3/olivier4/45790
+#EXTINF:-1,BR: TELECINE PREMIUM HD
+http://sansat.net:25461/olivier3/olivier4/45791
+#EXTINF:-1,BR: TNT HD
+http://sansat.net:25461/olivier3/olivier4/45792
+#EXTINF:-1,BR: TNT SERIES HD
+http://sansat.net:25461/olivier3/olivier4/45793
+#EXTINF:-1,BR: TELECINE ACTION HD
+http://sansat.net:25461/olivier3/olivier4/45794
+#EXTINF:-1,BR: TELECINE CULT HD
+http://sansat.net:25461/olivier3/olivier4/45795
+#EXTINF:-1,BR: TELECINE FUN HD
+http://sansat.net:25461/olivier3/olivier4/45796
+#EXTINF:-1,BR: TELECINE PIPOCA HD
+http://sansat.net:25461/olivier3/olivier4/45797
+#EXTINF:-1,BR: TELECINE TOUCH HD
+http://sansat.net:25461/olivier3/olivier4/45798
+#EXTINF:-1,BR: WARNER CHANNEL HD
+http://sansat.net:25461/olivier3/olivier4/45799
+#EXTINF:-1,BR: AMC HD
+http://sansat.net:25461/olivier3/olivier4/45800
+#EXTINF:-1,BR: ARTE 1 HD
+http://sansat.net:25461/olivier3/olivier4/45801
+#EXTINF:-1,BR: AXN HD
+http://sansat.net:25461/olivier3/olivier4/45802
+#EXTINF:-1,BR: BAND CAMPINAS HD
+http://sansat.net:25461/olivier3/olivier4/45803
+#EXTINF:-1,BR: BAND HD
+http://sansat.net:25461/olivier3/olivier4/45804
+#EXTINF:-1,BR: CINEMAX HD
+http://sansat.net:25461/olivier3/olivier4/45806
+#EXTINF:-1,BR: COMEDY CENTRAL HD
+http://sansat.net:25461/olivier3/olivier4/45807
+#EXTINF:-1,BR: FOX HD
+http://sansat.net:25461/olivier3/olivier4/45808
+#EXTINF:-1,BR: FOX LIFE HD
+http://sansat.net:25461/olivier3/olivier4/45809
+#EXTINF:-1,BR: FX HD
+http://sansat.net:25461/olivier3/olivier4/45810
+#EXTINF:-1,BR: MAX HD
+http://sansat.net:25461/olivier3/olivier4/45811
+#EXTINF:-1,BR: MAX UP HD
+http://sansat.net:25461/olivier3/olivier4/45812
+#EXTINF:-1,BR: MEGAPIX HD
+http://sansat.net:25461/olivier3/olivier4/45813
+#EXTINF:-1,BR: MLB HD
+http://sansat.net:25461/olivier3/olivier4/45814
+#EXTINF:-1,BR: MULTISHOW HD
+http://sansat.net:25461/olivier3/olivier4/45815
+#EXTINF:-1,BR: OFF HD
+http://sansat.net:25461/olivier3/olivier4/45816
+#EXTINF:-1,BR: PARAMOUNT HD
+http://sansat.net:25461/olivier3/olivier4/45817
+#EXTINF:-1,BR: SONY CHANNEL HD
+http://sansat.net:25461/olivier3/olivier4/45818
+#EXTINF:-1,BR: SPACE HD
+http://sansat.net:25461/olivier3/olivier4/45819
+#EXTINF:-1,BR: STUDIO UNIVERSAL HD
+http://sansat.net:25461/olivier3/olivier4/45820
+#EXTINF:-1,BR: SYFY HD
+http://sansat.net:25461/olivier3/olivier4/45821
+#EXTINF:-1,BR: TBS HD
+http://sansat.net:25461/olivier3/olivier4/45822
+#EXTINF:-1,BR: TCM HD
+http://sansat.net:25461/olivier3/olivier4/45823
+#EXTINF:-1,BR: TLC HD
+http://sansat.net:25461/olivier3/olivier4/45824
+#EXTINF:-1,BR: UNIVERSAL HD
+http://sansat.net:25461/olivier3/olivier4/45825
+#EXTINF:-1,BR: ZOOMOO HD
+http://sansat.net:25461/olivier3/olivier4/45826
+#EXTINF:-1,BR: ESPN HD
+http://sansat.net:25461/olivier3/olivier4/45833
+#EXTINF:-1,BR: ESPN EXTRA HD
+http://sansat.net:25461/olivier3/olivier4/45834
+#EXTINF:-1,BR: ESPN 2 HD
+http://sansat.net:25461/olivier3/olivier4/45835
+#EXTINF:-1,BR: ESPN BRASIL HD
+http://sansat.net:25461/olivier3/olivier4/45836
+#EXTINF:-1,BR: COMBATE HD
+http://sansat.net:25461/olivier3/olivier4/45837
+#EXTINF:-1,BR: EPTV RIBEIRAO PRETO HD
+http://sansat.net:25461/olivier3/olivier4/45838
+#EXTINF:-1,BR: BIS HD
+http://sansat.net:25461/olivier3/olivier4/45840
+#EXTINF:-1,BR: MTV HD
+http://sansat.net:25461/olivier3/olivier4/45841
+#EXTINF:-1,BR: ANIMAL PLANET HD
+http://sansat.net:25461/olivier3/olivier4/45843
+#EXTINF:-1,BR: DISCOVERY HD
+http://sansat.net:25461/olivier3/olivier4/45844
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
+http://sansat.net:25461/olivier3/olivier4/45845
+#EXTINF:-1,BR: DISCOVERY H&H HD
+http://sansat.net:25461/olivier3/olivier4/45846
+#EXTINF:-1,BR: DISCOVERY KIDS HD
+http://sansat.net:25461/olivier3/olivier4/45847
+#EXTINF:-1,BR: DISCOVERY SCIENCE HD
+http://sansat.net:25461/olivier3/olivier4/45848
+#EXTINF:-1,BR: DISCOVERY THEATER HD
+http://sansat.net:25461/olivier3/olivier4/45849
+#EXTINF:-1,BR: DISCOVERY TURBO HD
+http://sansat.net:25461/olivier3/olivier4/45850
+#EXTINF:-1,BR: DISCOVERY WORLD HD
+http://sansat.net:25461/olivier3/olivier4/45851
+#EXTINF:-1,BR: HISTORY HD
+http://sansat.net:25461/olivier3/olivier4/45852
+#EXTINF:-1,BR: H2 HD
+http://sansat.net:25461/olivier3/olivier4/45853
+#EXTINF:-1,BR: ID DISCOVERY HD
+http://sansat.net:25461/olivier3/olivier4/45854
+#EXTINF:-1,BR: NAT GEO HD
+http://sansat.net:25461/olivier3/olivier4/45855
+#EXTINF:-1,BR: NAT GEO KIDS HD
+http://sansat.net:25461/olivier3/olivier4/45856
+#EXTINF:-1,BR: NAT GEO WILD HD
+http://sansat.net:25461/olivier3/olivier4/45857
