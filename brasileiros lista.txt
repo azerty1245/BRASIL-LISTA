@@ -1,245 +1,223 @@
 #EXTM3U
-#EXTINF:-1,BR: GLOBO HD
-http://sansat.net:25461/olivier3/olivier4/45724
-#EXTINF:-1,BR: GLOBO RJ HD
-http://sansat.net:25461/olivier3/olivier4/45725
-#EXTINF:-1,BR: GLOBO SP HD
-http://sansat.net:25461/olivier3/olivier4/45726
-#EXTINF:-1,BR: GLOBO MINAS HD
-http://sansat.net:25461/olivier3/olivier4/45727
-#EXTINF:-1,BR: GLOBO NORDESTE HD
-http://sansat.net:25461/olivier3/olivier4/45728
-#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE HD
-http://sansat.net:25461/olivier3/olivier4/45729
-#EXTINF:-1,BR: GLOBO MANAUS HD
-http://sansat.net:25461/olivier3/olivier4/45730
-#EXTINF:-1,BR: GLOBO TV GAZETA ES HD
-http://sansat.net:25461/olivier3/olivier4/45731
-#EXTINF:-1,BR: GLOBO TV SERGIPE HD
-http://sansat.net:25461/olivier3/olivier4/45732
-#EXTINF:-1,BR: RECORD HD
-http://sansat.net:25461/olivier3/olivier4/45733
-#EXTINF:-1,BR: RECORD RJ HD
-http://sansat.net:25461/olivier3/olivier4/45734
-#EXTINF:-1,BR: RECORD SP HD
-http://sansat.net:25461/olivier3/olivier4/45735
-#EXTINF:-1,BR: RECORD BA HD
-http://sansat.net:25461/olivier3/olivier4/45736
-#EXTINF:-1,BR: RECORD BAHIA HD
-http://sansat.net:25461/olivier3/olivier4/45737
-#EXTINF:-1,BR: RECORD DF HD
-http://sansat.net:25461/olivier3/olivier4/45738
-#EXTINF:-1,BR: RECORD GO HD
-http://sansat.net:25461/olivier3/olivier4/45739
-#EXTINF:-1,BR: RECORD MG HD
-http://sansat.net:25461/olivier3/olivier4/45740
-#EXTINF:-1,BR: RECORD RS HD
-http://sansat.net:25461/olivier3/olivier4/45741
-#EXTINF:-1,BR: WOOHOO HD
-http://sansat.net:25461/olivier3/olivier4/45742
-#EXTINF:-1,BR: VIVA HD
-http://sansat.net:25461/olivier3/olivier4/45743
-#EXTINF:-1,BR: E! HD
-http://sansat.net:25461/olivier3/olivier4/45744
-#EXTINF:-1,BR: EI PLUS HD
-http://sansat.net:25461/olivier3/olivier4/45745
-#EXTINF:-1,BR: LIFETIME HD
-http://sansat.net:25461/olivier3/olivier4/45746
-#EXTINF:-1,BR: FOOD NETWORK HD
-http://sansat.net:25461/olivier3/olivier4/45747
-#EXTINF:-1,BR: GLOOB HD
-http://sansat.net:25461/olivier3/olivier4/45748
-#EXTINF:-1,BR: GLOOBINHO HD
-http://sansat.net:25461/olivier3/olivier4/45749
-#EXTINF:-1,BR: GNT HD
-http://sansat.net:25461/olivier3/olivier4/45750
-#EXTINF:-1,BR: MAIS GLOBOSAT HD
-http://sansat.net:25461/olivier3/olivier4/45751
-#EXTINF:-1,BR: CANAL BRASIL HD
-http://sansat.net:25461/olivier3/olivier4/45752
-#EXTINF:-1,BR: NOVO TEMPO HD
-http://sansat.net:25461/olivier3/olivier4/45753
-#EXTINF:-1,BR: REDE TV HD
-http://sansat.net:25461/olivier3/olivier4/45754
-#EXTINF:-1,BR: SBT CIDADE VERDE HD
-http://sansat.net:25461/olivier3/olivier4/45755
-#EXTINF:-1,BR: SBT HD
-http://sansat.net:25461/olivier3/olivier4/45756
-#EXTINF:-1,BR: SBT TV JORNAL HD
-http://sansat.net:25461/olivier3/olivier4/45757
-#EXTINF:-1,BR: GLOBO NEWS HD
-http://sansat.net:25461/olivier3/olivier4/45759
-#EXTINF:-1,BR: RECORD NEWS HD
-http://sansat.net:25461/olivier3/olivier4/45760
-#EXTINF:-1,BR: BAND NEWS HD
-http://sansat.net:25461/olivier3/olivier4/45761
-#EXTINF:-1,BR: CBS NEWS HD
-http://sansat.net:25461/olivier3/olivier4/45762
-#EXTINF:-1,BR: BABY HD
-http://sansat.net:25461/olivier3/olivier4/45764
-#EXTINF:-1,BR: BOOMERANG HD
-http://sansat.net:25461/olivier3/olivier4/45765
-#EXTINF:-1,BR: CARTOON NETWORK HD
-http://sansat.net:25461/olivier3/olivier4/45766
-#EXTINF:-1,BR: DISNEY CHANNEL HD
-http://sansat.net:25461/olivier3/olivier4/45767
-#EXTINF:-1,BR: DISNEY JR HD
-http://sansat.net:25461/olivier3/olivier4/45768
-#EXTINF:-1,BR: DISNEY XD HD
-http://sansat.net:25461/olivier3/olivier4/45769
-#EXTINF:-1,BR: NICK HD
-http://sansat.net:25461/olivier3/olivier4/45770
-#EXTINF:-1,BR: NICK JR HD
-http://sansat.net:25461/olivier3/olivier4/45771
-#EXTINF:-1,BR: NICKELODEON HD
-http://sansat.net:25461/olivier3/olivier4/45772
-#EXTINF:-1,BR: TOONCAST HD
-http://sansat.net:25461/olivier3/olivier4/45773
-#EXTINF:-1,BR: RA TIM BUM HD
-http://sansat.net:25461/olivier3/olivier4/45774
-#EXTINF:-1,BR: FOX PREMIUM 1 HD
-http://sansat.net:25461/olivier3/olivier4/45776
-#EXTINF:-1,BR: FOX PREMIUM 2 HD
-http://sansat.net:25461/olivier3/olivier4/45777
-#EXTINF:-1,BR: HBO HD
-http://sansat.net:25461/olivier3/olivier4/45778
-#EXTINF:-1,BR: HBO 2 HD
-http://sansat.net:25461/olivier3/olivier4/45779
-#EXTINF:-1,BR: HBO FAMILY HD
-http://sansat.net:25461/olivier3/olivier4/45780
-#EXTINF:-1,BR: HBO PLUS HD
-http://sansat.net:25461/olivier3/olivier4/45781
-#EXTINF:-1,BR: HBO SIGNATURE HD
-http://sansat.net:25461/olivier3/olivier4/45782
-#EXTINF:-1,BR: MAX PRIME HD
-http://sansat.net:25461/olivier3/olivier4/45783
-#EXTINF:-1,BR: PREMIERE CLUBES HD
-http://sansat.net:25461/olivier3/olivier4/45784
-#EXTINF:-1,BR: PREMIERE 2 HD
-http://sansat.net:25461/olivier3/olivier4/45785
-#EXTINF:-1,BR: PREMIERE 3 HD
-http://sansat.net:25461/olivier3/olivier4/45786
-#EXTINF:-1,BR: PREMIERE 4 HD
-http://sansat.net:25461/olivier3/olivier4/45787
-#EXTINF:-1,BR: PREMIERE 5 HD
-http://sansat.net:25461/olivier3/olivier4/45788
-#EXTINF:-1,BR: PREMIERE 6 HD
-http://sansat.net:25461/olivier3/olivier4/45789
-#EXTINF:-1,BR: PREMIERE 7 HD
-http://sansat.net:25461/olivier3/olivier4/45790
-#EXTINF:-1,BR: TELECINE PREMIUM HD
-http://sansat.net:25461/olivier3/olivier4/45791
-#EXTINF:-1,BR: TNT HD
-http://sansat.net:25461/olivier3/olivier4/45792
-#EXTINF:-1,BR: TNT SERIES HD
-http://sansat.net:25461/olivier3/olivier4/45793
-#EXTINF:-1,BR: TELECINE ACTION HD
-http://sansat.net:25461/olivier3/olivier4/45794
-#EXTINF:-1,BR: TELECINE CULT HD
-http://sansat.net:25461/olivier3/olivier4/45795
-#EXTINF:-1,BR: TELECINE FUN HD
-http://sansat.net:25461/olivier3/olivier4/45796
-#EXTINF:-1,BR: TELECINE PIPOCA HD
-http://sansat.net:25461/olivier3/olivier4/45797
-#EXTINF:-1,BR: TELECINE TOUCH HD
-http://sansat.net:25461/olivier3/olivier4/45798
-#EXTINF:-1,BR: WARNER CHANNEL HD
-http://sansat.net:25461/olivier3/olivier4/45799
-#EXTINF:-1,BR: AMC HD
-http://sansat.net:25461/olivier3/olivier4/45800
-#EXTINF:-1,BR: ARTE 1 HD
-http://sansat.net:25461/olivier3/olivier4/45801
-#EXTINF:-1,BR: AXN HD
-http://sansat.net:25461/olivier3/olivier4/45802
-#EXTINF:-1,BR: BAND CAMPINAS HD
-http://sansat.net:25461/olivier3/olivier4/45803
-#EXTINF:-1,BR: BAND HD
-http://sansat.net:25461/olivier3/olivier4/45804
-#EXTINF:-1,BR: CINEMAX HD
-http://sansat.net:25461/olivier3/olivier4/45806
-#EXTINF:-1,BR: COMEDY CENTRAL HD
-http://sansat.net:25461/olivier3/olivier4/45807
-#EXTINF:-1,BR: FOX HD
-http://sansat.net:25461/olivier3/olivier4/45808
-#EXTINF:-1,BR: FOX LIFE HD
-http://sansat.net:25461/olivier3/olivier4/45809
-#EXTINF:-1,BR: FX HD
-http://sansat.net:25461/olivier3/olivier4/45810
-#EXTINF:-1,BR: MAX HD
-http://sansat.net:25461/olivier3/olivier4/45811
-#EXTINF:-1,BR: MAX UP HD
-http://sansat.net:25461/olivier3/olivier4/45812
-#EXTINF:-1,BR: MEGAPIX HD
-http://sansat.net:25461/olivier3/olivier4/45813
-#EXTINF:-1,BR: MLB HD
-http://sansat.net:25461/olivier3/olivier4/45814
-#EXTINF:-1,BR: MULTISHOW HD
-http://sansat.net:25461/olivier3/olivier4/45815
-#EXTINF:-1,BR: OFF HD
-http://sansat.net:25461/olivier3/olivier4/45816
-#EXTINF:-1,BR: PARAMOUNT HD
-http://sansat.net:25461/olivier3/olivier4/45817
-#EXTINF:-1,BR: SONY CHANNEL HD
-http://sansat.net:25461/olivier3/olivier4/45818
-#EXTINF:-1,BR: SPACE HD
-http://sansat.net:25461/olivier3/olivier4/45819
-#EXTINF:-1,BR: STUDIO UNIVERSAL HD
-http://sansat.net:25461/olivier3/olivier4/45820
-#EXTINF:-1,BR: SYFY HD
-http://sansat.net:25461/olivier3/olivier4/45821
-#EXTINF:-1,BR: TBS HD
-http://sansat.net:25461/olivier3/olivier4/45822
-#EXTINF:-1,BR: TCM HD
-http://sansat.net:25461/olivier3/olivier4/45823
-#EXTINF:-1,BR: TLC HD
-http://sansat.net:25461/olivier3/olivier4/45824
-#EXTINF:-1,BR: UNIVERSAL HD
-http://sansat.net:25461/olivier3/olivier4/45825
-#EXTINF:-1,BR: ZOOMOO HD
-http://sansat.net:25461/olivier3/olivier4/45826
-#EXTINF:-1,BR: ESPN HD
-http://sansat.net:25461/olivier3/olivier4/45833
-#EXTINF:-1,BR: ESPN EXTRA HD
-http://sansat.net:25461/olivier3/olivier4/45834
-#EXTINF:-1,BR: ESPN 2 HD
-http://sansat.net:25461/olivier3/olivier4/45835
-#EXTINF:-1,BR: ESPN BRASIL HD
-http://sansat.net:25461/olivier3/olivier4/45836
-#EXTINF:-1,BR: COMBATE HD
-http://sansat.net:25461/olivier3/olivier4/45837
-#EXTINF:-1,BR: EPTV RIBEIRAO PRETO HD
-http://sansat.net:25461/olivier3/olivier4/45838
-#EXTINF:-1,BR: BIS HD
-http://sansat.net:25461/olivier3/olivier4/45840
-#EXTINF:-1,BR: MTV HD
-http://sansat.net:25461/olivier3/olivier4/45841
-#EXTINF:-1,BR: ANIMAL PLANET HD
-http://sansat.net:25461/olivier3/olivier4/45843
-#EXTINF:-1,BR: DISCOVERY HD
-http://sansat.net:25461/olivier3/olivier4/45844
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
-http://sansat.net:25461/olivier3/olivier4/45845
-#EXTINF:-1,BR: DISCOVERY H&H HD
-http://sansat.net:25461/olivier3/olivier4/45846
-#EXTINF:-1,BR: DISCOVERY KIDS HD
-http://sansat.net:25461/olivier3/olivier4/45847
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD
-http://sansat.net:25461/olivier3/olivier4/45848
-#EXTINF:-1,BR: DISCOVERY THEATER HD
-http://sansat.net:25461/olivier3/olivier4/45849
-#EXTINF:-1,BR: DISCOVERY TURBO HD
-http://sansat.net:25461/olivier3/olivier4/45850
-#EXTINF:-1,BR: DISCOVERY WORLD HD
-http://sansat.net:25461/olivier3/olivier4/45851
-#EXTINF:-1,BR: HISTORY HD
-http://sansat.net:25461/olivier3/olivier4/45852
-#EXTINF:-1,BR: H2 HD
-http://sansat.net:25461/olivier3/olivier4/45853
-#EXTINF:-1,BR: ID DISCOVERY HD
-http://sansat.net:25461/olivier3/olivier4/45854
-#EXTINF:-1,BR: NAT GEO HD
-http://sansat.net:25461/olivier3/olivier4/45855
-#EXTINF:-1,BR: NAT GEO KIDS HD
-http://sansat.net:25461/olivier3/olivier4/45856
-#EXTINF:-1,BR: NAT GEO WILD HD
-http://sansat.net:25461/olivier3/olivier4/45857
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO SP HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69283
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO MINAS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69284
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO NORDESTE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69285
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO RBS PORTO ALEGRE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69286
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO BRASILIA HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69287
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO RJ HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69289
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO TV GAZETA ES HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69290
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO TV SERGIPE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69291
+#EXTINF:-1 ,alliptvlinks.com BR - RECORD HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69296
+#EXTINF:-1 ,alliptvlinks.com BR - RECORD RJ HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69298
+#EXTINF:-1 ,alliptvlinks.com BR - RECORD SP HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69300
+#EXTINF:-1 ,alliptvlinks.com BR - E! HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69303
+#EXTINF:-1 ,alliptvlinks.com BR - VIVA HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69302
+#EXTINF:-1 ,alliptvlinks.com BR - WOOHOO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69301
+#EXTINF:-1 ,alliptvlinks.com BR - LIFETIME HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69305
+#EXTINF:-1 ,alliptvlinks.com BR - FOOD NETWORK HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69306
+#EXTINF:-1 ,alliptvlinks.com BR - GLOOB HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69307
+#EXTINF:-1 ,alliptvlinks.com BR - GNT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69309
+#EXTINF:-1 ,alliptvlinks.com BR - MAIS GLOBOSAT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69310
+#EXTINF:-1 ,alliptvlinks.com BR - CANAL BRASIL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69311
+#EXTINF:-1 ,alliptvlinks.com BR - NOVO TEMPO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69312
+#EXTINF:-1 ,alliptvlinks.com BR - REDE TV HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69313
+#EXTINF:-1 ,alliptvlinks.com BR - SBT CIDADE VERDE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69314
+#EXTINF:-1 ,alliptvlinks.com BR - SBT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69315
+#EXTINF:-1 ,#
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69317
+#EXTINF:-1 ,alliptvlinks.com BR - GLOBO NEWS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69318
+#EXTINF:-1 ,alliptvlinks.com BR - RECORD NEWS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69319
+#EXTINF:-1 ,alliptvlinks.com BR - BAND NEWS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69320
+#EXTINF:-1 ,#
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69322
+#EXTINF:-1 ,alliptvlinks.com BR - BABY HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69323
+#EXTINF:-1 ,alliptvlinks.com BR - BOOMERANG HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69324
+#EXTINF:-1 ,alliptvlinks.com BR - CARTOON NETWORK HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69325
+#EXTINF:-1 ,alliptvlinks.com BR - DISNEY JR HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69327
+#EXTINF:-1 ,alliptvlinks.com BR - DISNEY XD HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69328
+#EXTINF:-1 ,alliptvlinks.com BR - NICK HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69329
+#EXTINF:-1 ,alliptvlinks.com BR - NICK JR HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69330
+#EXTINF:-1 ,alliptvlinks.com BR - NICKELODEON HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69331
+#EXTINF:-1 ,alliptvlinks.com BR - TOONCAST HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69332
+#EXTINF:-1 ,alliptvlinks.com BR - DISNEY CHANNEL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69326
+#EXTINF:-1 ,alliptvlinks.com BR - TV RA TIM BUM HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69333
+#EXTINF:-1 ,#
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69334
+#EXTINF:-1 ,alliptvlinks.com BR - FOX PREMIUM 1 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69335
+#EXTINF:-1 ,alliptvlinks.com BR - FOX PREMIUM 2 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69336
+#EXTINF:-1 ,alliptvlinks.com BR - HBO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69337
+#EXTINF:-1 ,alliptvlinks.com BR - HBO 2 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69338
+#EXTINF:-1 ,alliptvlinks.com BR - HBO FAMILY HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69339
+#EXTINF:-1 ,alliptvlinks.com BR - HBO PLUS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69340
+#EXTINF:-1 ,alliptvlinks.com BR - HBO SIGNATURE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69341
+#EXTINF:-1 ,alliptvlinks.com BR - ZOOMOO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69387
+#EXTINF:-1 ,alliptvlinks.com BR - UNIVERSAL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69386
+#EXTINF:-1 ,alliptvlinks.com BR - TLC HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69385
+#EXTINF:-1 ,alliptvlinks.com BR - TCM HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69384
+#EXTINF:-1 ,alliptvlinks.com BR - TBS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69383
+#EXTINF:-1 ,alliptvlinks.com BR - SYFY HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69382
+#EXTINF:-1 ,alliptvlinks.com BR - STUDIO UNIVERSAL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69381
+#EXTINF:-1 ,alliptvlinks.com BR - SPACE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69380
+#EXTINF:-1 ,alliptvlinks.com BR - SONY CHANNEL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69379
+#EXTINF:-1 ,alliptvlinks.com BR - PARAMOUNT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69378
+#EXTINF:-1 ,alliptvlinks.com BR - OFF HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69377
+#EXTINF:-1 ,alliptvlinks.com BR - MEGAPIX HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69374
+#EXTINF:-1 ,alliptvlinks.com BR - MAX UP HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69373
+#EXTINF:-1 ,alliptvlinks.com BR - FOX LIFE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69370
+#EXTINF:-1 ,alliptvlinks.com BR - FOX LIFE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69369
+#EXTINF:-1 ,alliptvlinks.com BR - FOX HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69368
+#EXTINF:-1 ,alliptvlinks.com BR - COMEDY CENTRAL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69367
+#EXTINF:-1 ,alliptvlinks.com BR - CINEMAX HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69366
+#EXTINF:-1 ,alliptvlinks.com BR - BAND SP HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69365
+#EXTINF:-1 ,alliptvlinks.com BR - BAND HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69364
+#EXTINF:-1 ,alliptvlinks.com BR - BAND CAMPINAS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69363
+#EXTINF:-1 ,alliptvlinks.com BR - AXN HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69362
+#EXTINF:-1 ,alliptvlinks.com BR - ARTE 1 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69361
+#EXTINF:-1 ,alliptvlinks.com BR - AMC HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69360
+#EXTINF:-1 ,alliptvlinks.com BR - WARNER CHANNEL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69359
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE TOUCH HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69358
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE PIPOCA HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69357
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE FUN HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69356
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE CULT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69355
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE ACTION HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69354
+#EXTINF:-1 ,alliptvlinks.com BR - TNT SERIES HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69353
+#EXTINF:-1 ,alliptvlinks.com BR - TNT HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69352
+#EXTINF:-1 ,alliptvlinks.com BR - TELECINE PREMIUM HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69351
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 7 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69349
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 6 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69348
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 5 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69347
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 4 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69346
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 3 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69345
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE 2 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69344
+#EXTINF:-1 ,alliptvlinks.com BR - PREMIERE CLUBES HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69343
+#EXTINF:-1 ,alliptvlinks.com BR - MAX PRIME HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69342
+#EXTINF:-1 ,alliptvlinks.com BR - ESPN HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69395
+#EXTINF:-1 ,alliptvlinks.com BR - ESPN 2 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69398
+#EXTINF:-1 ,alliptvlinks.com BR - ESPN BRASIL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69400
+#EXTINF:-1 ,alliptvlinks.com BR - COMBATE HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69401
+#EXTINF:-1 ,#
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69403
+#EXTINF:-1 ,alliptvlinks.com BR - BIS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69404
+#EXTINF:-1 ,alliptvlinks.com BR - MTV HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69405
+#EXTINF:-1 ,#
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69406
+#EXTINF:-1 ,alliptvlinks.com BR - ANIMAL PLANET HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69407
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY CHANNEL HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69408
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY CIVILIZATION HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69409
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY H&H HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69410
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY KIDS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69411
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY THEATER HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69413
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY TURBO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69414
+#EXTINF:-1 ,alliptvlinks.com BR - DISCOVERY WORLD HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69415
+#EXTINF:-1 ,alliptvlinks.com BR - HISTORY HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69416
+#EXTINF:-1 ,alliptvlinks.com BR - H2 HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69417
+#EXTINF:-1 ,alliptvlinks.com BR - ID DISCOVERY HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69418
+#EXTINF:-1 ,alliptvlinks.com BR - NATGEO HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69419
+#EXTINF:-1 ,alliptvlinks.com BR - NATGEO KIDS HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69420
+#EXTINF:-1 ,alliptvlinks.com BR - NATGEO WILD HD
+http://headertv.pro:80/l0A99W4pD7/hnOwdNR0hq/69421
