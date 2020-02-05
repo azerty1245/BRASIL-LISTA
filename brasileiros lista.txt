@@ -1,796 +1,1567 @@
-
 #EXTM3U
-#EXTINF:-1 ,BR: fabio lista
 
-#EXTINF:-1 ,BR: SBT
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12564
-#EXTINF:-1 ,BR: REDE TV
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12565
-#EXTINF:-1 ,BR: RECORD
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12566
-#EXTINF:-1 ,BR: BAND
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12567
-#EXTINF:-1 ,BR: GLOBO SP
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12568
-#EXTINF:-1 ,BR: GLOBO RJ
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12569
-#EXTINF:-1 ,BR: GLOBO PT
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12570
-#EXTINF:-1 ,BR: BIG BROTHER BRASIL
+#EXTINF:-1,BR: fabio br
+#EXTINF:-1,BR: BIG BROTHER BRASIL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12571
-#EXTINF:-1 ,BR: GLOBO INTERNACIONAL
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12572
-#EXTINF:-1 ,BR: GLOBO NEWS
-http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12573
-#EXTINF:-1 ,BR: RECORD NEWS
+#EXTINF:-1,BR: SBT
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12564
+#EXTINF:-1,SBT HD
+http://pdsrv.io:80/wendel/wendel/6889
+#EXTINF:-1,SBT HD*
+http://pdsrv.io:80/wendel/wendel/20554
+#EXTINF:-1,SBT JORNAL HD
+http://pdsrv.io:80/wendel/wendel/24956
+#EXTINF:-1,SBT PARANA HD
+http://pdsrv.io:80/wendel/wendel/24925
+#EXTINF:-1,SBT PARANA SD
+http://pdsrv.io:80/wendel/wendel/20502
+#EXTINF:-1,SBT PE HD
+http://pdsrv.io:80/wendel/wendel/20552
+#EXTINF:-1,SBT PI FHD
+http://pdsrv.io:80/wendel/wendel/13182
+#EXTINF:-1,SBT RJ HD
+http://pdsrv.io:80/wendel/wendel/25544
+#EXTINF:-1,SBT RS HD
+http://pdsrv.io:80/wendel/wendel/25303
+#EXTINF:-1,SBT SANTA CATARINA HD
+http://pdsrv.io:80/wendel/wendel/33293
+#EXTINF:-1,BR: REDE TV
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12565
+#EXTINF:-1,BR: RECORD
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12566
+#EXTINF:-1,BR: RECORD NEWS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12574
-#EXTINF:-1 ,BR: BAND NEWS
+#EXTINF:-1,BR: BAND
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12567
+#EXTINF:-1,BR: BAND NEWS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12575
-#EXTINF:-1 ,BR: GNT
+#EXTINF:-1,BR: GLOBO SP
+
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12568
+#EXTINF:-1,BR: GLOBO RJ
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12569
+#EXTINF:-1,BR: GLOBO PT
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12570
+
+#EXTINF:-1,BR: GLOBO INTERNACIONAL
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12572
+#EXTINF:-1,BR: GLOBO NEWS
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12573
+
+
+#EXTINF:-1,BR: GNT
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12576
-#EXTINF:-1 ,BR: MULTISHOW
+#EXTINF:-1,BR: MULTISHOW
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12577
-#EXTINF:-1 ,BR: COMEDY CENTRAL
+#EXTINF:-1,BR: COMEDY CENTRAL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12578
-#EXTINF:-1 ,BR: GLOBOSAT
+#EXTINF:-1,BR: GLOBOSAT
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12579
-#EXTINF:-1 ,BR: TC ACTION
+#EXTINF:-1,BR: TC ACTION
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12580
-#EXTINF:-1 ,BR: TC PREMIUM
+#EXTINF:-1,BR: TC PREMIUM
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12581
-#EXTINF:-1 ,BR: TC TOUCH
+#EXTINF:-1,BR: TC TOUCH
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12582
-#EXTINF:-1 ,BR: TC PIPOCA
+#EXTINF:-1,BR: TC PIPOCA
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12583
-#EXTINF:-1 ,BR: TC FUN
+#EXTINF:-1,BR: TC FUN
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12584
-#EXTINF:-1 ,BR: TC CULT
+#EXTINF:-1,BR: TC CULT
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12585
-#EXTINF:-1 ,BR: WARNER CHANNEL
+#EXTINF:-1,BR: WARNER CHANNEL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12586
-#EXTINF:-1 ,BR: UNIVERSAL CHANNEL
+#EXTINF:-1,BR: UNIVERSAL CHANNEL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12587
-#EXTINF:-1 ,BR: PARAMOUNT CHANNEL
+#EXTINF:-1,BR: PARAMOUNT CHANNEL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12588
-#EXTINF:-1 ,BR: STUDIO UNIVERSAL
+#EXTINF:-1,BR: STUDIO UNIVERSAL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12589
-#EXTINF:-1 ,BR: TNT
+#EXTINF:-1,BR: TNT
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12590
-#EXTINF:-1 ,BR: MEGAPIX
+#EXTINF:-1,BR: MEGAPIX
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12591
-#EXTINF:-1 ,BR: MAX
+#EXTINF:-1,BR: MAX
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12592
-#EXTINF:-1 ,BR: MAX  PRIME
+#EXTINF:-1,BR: MAX  PRIME
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12593
-#EXTINF:-1 ,BR: SONY
+#EXTINF:-1,BR: MAX UP
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12594
+#EXTINF:-1,BR: SONY
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12595
-#EXTINF:-1 ,BR: HBO
+#EXTINF:-1,BR: HBO
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12596
-#EXTINF:-1 ,BR: HBOPLUS
+#EXTINF:-1,BR: HBO 2
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12597
+#EXTINF:-1,BR: HBOPLUS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12598
-#EXTINF:-1 ,BR: HBO SIGNATURE
+#EXTINF:-1,BR: HBO SIGNATURE
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12599
-#EXTINF:-1 ,BR: HBO FAMILY
+#EXTINF:-1,BR: HBO FAMILY
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12600
-#EXTINF:-1 ,BR: TLC
+#EXTINF:-1,BR: TLC
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12602
-#EXTINF:-1 ,BR: AMC
+#EXTINF:-1,BR: SYFY
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12603
+#EXTINF:-1,BR: AMC
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12604
-#EXTINF:-1 ,BR: FX
+#EXTINF:-1,BR: FX
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12605
-#EXTINF:-1 ,BR: AXN
+#EXTINF:-1,BR: AXN
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12606
-#EXTINF:-1 ,BR: FOX
+#EXTINF:-1,BR: FOX
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12607
-#EXTINF:-1 ,BR: FOX PREMIUM 1
+#EXTINF:-1,BR: FOX LIFE
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12608
+#EXTINF:-1,BR: FOX PREMIUM 1
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12609
-#EXTINF:-1 ,BR: FOX PREMIUM 2
+#EXTINF:-1,BR: FOX PREMIUM 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12610
-#EXTINF:-1 ,BR: SPACE
+#EXTINF:-1,BR: TNT SERIES
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12611
+#EXTINF:-1,BR: SPACE
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12612
-#EXTINF:-1 ,BR: DISNEY CHANNEL
+#EXTINF:-1,BR: DISNEY CHANNEL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12613
-#EXTINF:-1 ,BR: DISNEY XD
+#EXTINF:-1,BR: DISNEY XD
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12614
-#EXTINF:-1 ,BR: TOONCAST
+#EXTINF:-1,BR: TOONCAST
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12615
-#EXTINF:-1 ,BR: DISNEY JUNIOR
+#EXTINF:-1,BR: DISNEY JUNIOR
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12616
-#EXTINF:-1 ,BR: NICKELODEON
+#EXTINF:-1,BR: NICKELODEON
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12618
-#EXTINF:-1 ,BR: NICK JUNIOR
+#EXTINF:-1,BR: NICK JUNIOR
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12619
-#EXTINF:-1 ,BR: BOOMERANG
+#EXTINF:-1,BR: BOOMERANG
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12620
-#EXTINF:-1 ,BR: GLOOB
+#EXTINF:-1,BR: GLOOB
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12621
-#EXTINF:-1 ,BR: BABY TV
+#EXTINF:-1,BR: BABY TV
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12622
-#EXTINF:-1 ,BR: NATIONAL GEOGRAPHIC
+#EXTINF:-1,BR: NATIONAL GEOGRAPHIC
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12623
-#EXTINF:-1 ,BR: NATGEO KIDS
+#EXTINF:-1,BR: NATGEO WILD
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12624
+#EXTINF:-1,BR: NATGEO KIDS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12625
-#EXTINF:-1 ,BR: DISCOVERY KIDS
+#EXTINF:-1,BR: DISCOVERY KIDS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12626
-#EXTINF:-1 ,BR: LIFETIME
+#EXTINF:-1,BR: LIFETIME
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12627
-#EXTINF:-1 ,BR: ID INVESTIGATION
+#EXTINF:-1,BR: ID INVESTIGATION
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12628
-#EXTINF:-1 ,BR: DISCOVERY WORLD
+#EXTINF:-1,BR: DISCOVERY WORLD
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12629
-#EXTINF:-1 ,BR: DISCOVERY
+#EXTINF:-1,BR: DISCOVERY
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12630
-#EXTINF:-1 ,BR: DISCOVERY TURBO
+#EXTINF:-1,BR: DISCOVERY TURBO
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12631
-#EXTINF:-1 ,BR: DISCOVERY THEATER
+#EXTINF:-1,BR: DISCOVERY THEATER
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12632
-#EXTINF:-1 ,BR: DISCOVERY HOME E HEALTH
+#EXTINF:-1,BR: DISCOVERY HOME E HEALTH
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12633
-#EXTINF:-1 ,BR: DISCOVERY CIVILIZATION
+#EXTINF:-1,BR: DISCOVERY CIVILIZATION
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12634
-#EXTINF:-1 ,BR: HISTORY CHANNEL
+#EXTINF:-1,BR: HISTORY CHANNEL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12636
-#EXTINF:-1 ,BR: HISTORY 2
+#EXTINF:-1,BR: HISTORY 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12637
-#EXTINF:-1 ,BR: FOOD NETWORK
+#EXTINF:-1,BR: FOOD NETWORK
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12638
-#EXTINF:-1 ,BR: FISH TV
+#EXTINF:-1,BR: FISH TV
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12639
-#EXTINF:-1 ,BR: BIS
+#EXTINF:-1,BR: BIS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12640
-#EXTINF:-1 ,BR: A e E
+#EXTINF:-1,BR: A e E
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12641
-#EXTINF:-1 ,BR: E
+#EXTINF:-1,BR: E
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12642
-#EXTINF:-1 ,BR: VIVA
+#EXTINF:-1,BR: MTV
+http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12644
+#EXTINF:-1,BR: VIVA
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12645
-#EXTINF:-1 ,BR: WOOHOO
+#EXTINF:-1,BR: WOOHOO
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12646
-#EXTINF:-1 ,BR: COMBATE
+#EXTINF:-1,BR: COMBATE
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12647
-#EXTINF:-1 ,BR: SPORTV
+#EXTINF:-1,BR: SPORTV
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12648
-#EXTINF:-1 ,BR: SPORTV 2
+#EXTINF:-1,BR: SPORTV 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12649
-#EXTINF:-1 ,BR: SPORTV 3
+#EXTINF:-1,BR: SPORTV 3
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12650
-#EXTINF:-1 ,BR: PREMIERE CLUBS
+#EXTINF:-1,BR: PREMIERE CLUBS
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12651
-#EXTINF:-1 ,BR: PREMIERE 2
+#EXTINF:-1,BR: PREMIERE 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12652
-#EXTINF:-1 ,BR: PREMIERE 3
+#EXTINF:-1,BR: PREMIERE 3
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12653
-#EXTINF:-1 ,BR: PREMIERE 4
+#EXTINF:-1,BR: PREMIERE 4
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12654
-#EXTINF:-1 ,BR: PREMIERE 5
+#EXTINF:-1,BR: PREMIERE 5
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12655
-#EXTINF:-1 ,BR: PREMIERE 6
+#EXTINF:-1,BR: PREMIERE 6
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12656
-#EXTINF:-1 ,BR: FOX SPORT
+#EXTINF:-1,BR: FOX SPORT
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12657
-#EXTINF:-1 ,BR: FOX SPORT 2
+#EXTINF:-1,BR: FOX SPORT 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12658
-#EXTINF:-1 ,BR: ESPN
+#EXTINF:-1,BR: ESPN
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12659
-#EXTINF:-1 ,BR: ESPN BRASIL
+#EXTINF:-1,BR: ESPN BRASIL
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12660
-#EXTINF:-1 ,BR: ESPN 2
+#EXTINF:-1,BR: ESPN 2
 http://sv1.cola.kim:8080/bILGmssW5y/bIf7AUcFpU/12661
-#EXTINF:-1 ,ALL SPORTS HD (DF)
-http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
-#EXTINF:-1 ,SBT (PE)
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1 ,SBT (MA)
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
-#EXTINF:-1 ,SBT (MG)
-http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
-#EXTINF:-1 ,SBT HD (PI)
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 ,REDETV! (SP)
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
-#EXTINF:-1 ,REDETV! (RJ)
-http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w20312726.m3u8
-#EXTINF:-1 ,TV CULTURA HD - TV CATVE (PR)
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
-#EXTINF:-1 ,TV CULTURA HD - MASTER TV (PR)
-http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1821412394.m3u8
-#EXTINF:-1 ,TV CULTURA (PR)
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 ,TV CULTURA HD (PA)
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 ,TV CULTURA (SC)
-http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
-#EXTINF:-1 ,TV CULTURA (GO)
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8
-#EXTINF:-1 ,CANAL FUTURA (RJ)
-http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
-#EXTINF:-1 ,TV BRASIL HD - TVE (RS)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 ,TV BRASIL HD (GO)
-http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
-#EXTINF:-1 ,TV BRASIL - REDE MINAS (MG) HD
-http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1 ,TV GUARAPARI
-http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
-#EXTINF:-1 ,REDE BRASIL DE COMUNICAÇÃO (PE)
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
-#EXTINF:-1 ,REDE BRASIL DE COMUNICAÇÃO (PE)
-http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
-#EXTINF:-1 ,PARAMOUNT CHANNEL
-http://paramount.live.flumotion.com/live/playlist.m3u8
-#EXTINF:-1 ,TV J.SID (BA)
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 ,TV DIGITAL BIRIGUI
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
-#EXTINF:-1 ,TV BOA ESPERANÇA
-http://stmv2.euroti.com.br:1935/16692/16692/live.m3u8
-#EXTINF:-1 ,TV DESTAK (SP)
-http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
-#EXTINF:-1 ,CLASSIQUE TV HD
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
-#EXTINF:-1 ,TV KID MAIS
-http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
-#EXTINF:-1 ,TV CAPITAL 777
-https://59f2354c05961.streamlock.net:1443/tvcapital/_definst_/tvcapital/playlist.m3u8
-#EXTINF:-1 ,GOSPEL MOVIE TELEVISION HD
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 ,GOSPEL CARTOON HD
-http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
-#EXTINF:-1 ,CANAL SAÚDE NO AR
-https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/chunklist_w282858352_DVR.m3u8
-#EXTINF:-1 ,TV FAAP HD
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
-#EXTINF:-1 ,TV BOA ESPERANÇA
-http://stmv2.srvstm.com/16692/16692/playlist.m3u8
-#EXTINF:-1 ,#EXTSIZE: Small
-http://media2.str.ak.abweb.com/abori/Zm69Qrk8.smil/chunklist_b2100000.m3u8
-#EXTINF:-1 ,HISTORY LAB (ITÁLIA)
-http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 ,DWTV HD (INGLÊS)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_2_av-p.m3u8
-#EXTINF:-1 ,TV FÁTIMA PARATIBE
-http://tv01.logicahost.com.br:1935/tvfatimaparatibe/tvfatimaparatibe/live.m3u8
-#EXTINF:-1 ,TV IMACULADA CONCEIÇÃO
-http://caikron.com.br:1935/ric_tvimaculada/ric.stream/live.m3u8
-#EXTINF:-1 ,TV PADRE CICERO
-https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/chunklist_w1139631619.m3u8
-#EXTINF:-1 ,SANTUÁRIO DE APARECIDA - SANTUÁRIO NACIONAL
-http://caikron.com.br:1935/santuario_aparecida/canal6.stream/chunklist_w660775731.m3u8
-#EXTINF:-1 ,SANTUÁRIO DE APARECIDA - IMAGEM DE NOSSA SENHORA
-http://caikron.com.br:1935/santuario_aparecida/canal1.stream/chunklist_w353915763.m3u8
-#EXTINF:-1 ,SANTUÁRIO DE APARECIDA - NICHO
-http://caikron.com.br:1935/santuario_aparecida/canal2.stream/chunklist_w1655036436.m3u8
-#EXTINF:-1 ,SANTUÁRIO DE APARECIDA - CAPELA DO SANTÍSSIMO
-http://caikron.com.br:1935/santuario_aparecida/canal3.stream/chunklist_w1826427043.m3u8
-#EXTINF:-1 ,SANTUÁRIO DE APARECIDA - CAPELA SÃO JOSÉ
-http://caikron.com.br:1935/santuario_aparecida/canal4.stream/chunklist_w772452767.m3u8
-#EXTINF:-1 ,TV IMACULADA CONCEIÇÃO (MS)
-http://69.46.0.170:1935/ric_tvimaculada/ric.stream/chunklist_w435044421.m3u8
-#EXTINF:-1 ,TV CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 ,TV APARECIDA HD - PUC TV (GO)
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 ,REDE VIDA HD
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-#EXTINF:-1 ,REDE SÉCULO 21
-http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 ,REDE MÃO AMIGA
-http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
-#EXTINF:-1 ,TV CI
-http://flash8.crossdigital.com.br:1935/2306/2306/live.m3u8
-#EXTINF:-1 ,WEB TV LEÃO DE JUDÁ
-http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
-#EXTINF:-1 ,NOVO TEMPO (RS)
-http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
-#EXTINF:-1 ,NOVO TEMPO (SP)
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
-#EXTINF:-1 ,NOVO TEMPO HD - TV CACHOEIRA (SP)
-http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/chunklist_w1495382916_b1128000_slpor.m3u8
-#EXTINF:-1 ,IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 ,REDE GOSPEL
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-#EXTINF:-1 ,TV TERCEIRO ANJO HD
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8
-#EXTINF:-1 ,GOSPEL MUSIC TELEVISION
-http://stmv2.srvstm.com:1935/16692/16692/playlist.m3u8
-#EXTINF:-1 ,TV MANA 1 - BOAS NOVAS HD (PT)
-http://csvl04.manasat.com:1935/tvmana/tvmana2/chunklist_w51468928.m3u8
-#EXTINF:-1 ,MANA SAT - IGREJA ONLINE LISBOA HD (PT)
-http://csvl04.manasat.com:1935/igronline/igronline2/chunklist_w1945580782.m3u8
-#EXTINF:-1 ,TV MANA MOCAMBIQUE HD (PT)
-http://csvl03.manasat.com:1935/tvmz/tvmz2/chunklist_w671479118.m3u8
-#EXTINF:-1 ,TV NBR HD (DF)
-http://ebctvnbr-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvnbr/chunklist_b544768.m3u8
-#EXTINF:-1 ,TV A CARA DA BAHIA HD (BA)
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w1639511118.m3u8
-#EXTINF:-1 ,MKK WEB TV(SP)
-http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1610730155.m3u8
-#EXTINF:-1 ,TV SANTA CECÍLIA (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 ,CANAL RICOS HD (SP)
-http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
-#EXTINF:-1 ,AGRO BRASIL
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
-#EXTINF:-1 ,ALL SPORTS TV
-http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 ,AR TV
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:-1 ,CANAL 24 HORAS
-http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
-#EXTINF:-1 ,CANAL VIDA
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
-#EXTINF:-1 ,CANÇÃO NOVA
-http://bitly.com:80/Cançãonova-hd
-#EXTINF:-1 ,CARIOCA TV
-http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
-#EXTINF:-1 ,CATVE
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 ,TV CINEC
-http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-#EXTINF:-1 ,CONECTV
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
-#EXTINF:-1 ,FONTE TV
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 ,FURG TV
-http://stream.furg.br:80/hls/furgtv.m3u8
-#EXTINF:-1 ,GOSPEL CARTOON
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
-#EXTINF:-1 ,GOSPEL MOVIES TELEVISION
-http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
-#EXTINF:-1 ,INFOR BAHIA WEB TV
-http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
-#EXTINF:-1 ,ITU TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 ,LEIRIA TV
-http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
-#EXTINF:-1 ,MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
-#EXTINF:-1 ,MKK WEB TV
-http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
-#EXTINF:-1 ,MULTI RIO
-http://187.111.97.45:1935/webtv/webtv/live.m3u8
-#EXTINF:-1 ,NOVA ERA TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1 ,REDE ATIVIDADE
-http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
-#EXTINF:-1 ,REDE SÉCULO 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/index_1200_av-p.m3u8
-#EXTINF:-1 ,REDE TV
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-#EXTINF:-1 ,REDE TV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
-#EXTINF:-1 ,SBT
-http://bitly.com:80/Sbt-hd
-#EXTINF:-1 ,SOBRENATURAL TV
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 ,SUMMER TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
-#EXTINF:-1 ,TCM 10
-http://live.tcm10.com.br/tcm10.m3u8
-#EXTINF:-1 ,TV A CARA DA BAHIA
-http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
-#EXTINF:-1 ,TV AMBIENTAL
-http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
-#EXTINF:-1 ,TV APARECIDA
-http://caikron.com.br:1935/tvap/tvap.stream/live.m3u8
-#EXTINF:-1 ,TV APARECIDA
-http://caikron.com.br:8081/tvap/tvap/playlist.m3u8
-#EXTINF:-1 ,TV ASSEMBLEIA RN
-http://tv02.logicahost.com.br:1935/fundacao/fundacao/live.m3u8
-#EXTINF:-1 ,TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 ,TV CACHOEIRA
-http://stream.novotempo.com:1935/tv/TvNovoTempoCom.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 ,TV CAPITAL 777
-http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
-#EXTINF:-1 ,TV CATOLIC
-http://stmv2.euroti.com.br:1935/tvcatolic/tvcatolic/live.m3u8
-#EXTINF:-1 ,TV CAXIAS
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
-#EXTINF:-1 ,TV CEAK
-http://stmv3.euroti.com.br:1935/ceak/ceak/live.m3u8
-#EXTINF:-1 ,TV CIDADE FARROUPILHA
-http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
-#EXTINF:-1 ,TV CIDADE VERDE
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
-#EXTINF:-1 ,TV CIDADE VIVA
-http://rtmp.ingest1.upx.net.br:1935/kwjqp/cidadeviva.smil/chunklist_b2130000.m3u8
-#EXTINF:-1 ,TV CLIMA
-http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 ,TV DAS ARTES
-http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8
-#EXTINF:-1 ,TV DESTAK
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 ,TV DIÁRIO DO SERTÃO
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
-#EXTINF:-1 ,TV DIFUSORA SUL
-http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
-#EXTINF:-1 ,TV É-PARANÁ
-http://200.189.113.201:80/hls/tve.m3u8
-#EXTINF:-1 ,TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-#EXTINF:-1 ,TV EVANGELIZAR
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-#EXTINF:-1 ,TV FUNTELPA
-http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 ,TVI
-http://video-auth8.iol.pt:80/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 ,TVI 24
-http://video-auth8.iol.pt:80/live_tvi24/live_tvi24/playlist.m3u8
-#EXTINF:-1 ,TV INTERLAGOS
-http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/live.m3u8
-#EXTINF:-1 ,TVI REALITY
-http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
-#EXTINF:-1 ,TV ITAPETININGA
-http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
-#EXTINF:-1 ,TV JORNAL RECIFE
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
-#EXTINF:-1 ,TV J.SID
-http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
-#EXTINF:-1 ,TV LITORAL PANORAMA
-http://streaming03.zas.media:1935/panorama/panorama/live.m3u8
-#EXTINF:-1 ,TV MACKENZIE
-http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/playlist.m3u8
-#EXTINF:-1 ,TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/live.m3u8
-#EXTINF:-1 ,TV MONTEIRO
-http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
-#EXTINF:-1 ,TV MUNDIAL
-http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
-#EXTINF:-1 ,TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/chunklist_b2128000_slpor.m3u8
-#EXTINF:-1 ,TV SENADO
-http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
-#EXTINF:-1 ,TV SERRAZUL
-http://stmv2.euroti.com.br:1935/tvserrazuladm/tvserrazuladm/live.m3u8
-#EXTINF:-1 ,TV TERCEIRO ANJO
-http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
-#EXTINF:-1 ,TV TRANSAMÉRICA
-http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
-#EXTINF:-1 ,TV UP HD
-http://caikron.com.br:1935/unipar/tvup/live.m3u8
-#EXTINF:-1 ,TV WEB MARI
-http://stmv1.euroti.com.br:1935/mixmariweb/mixmariweb/live.m3u8
-#EXTINF:-1 ,WEB TV FRONTEIRA
-http://stmv4.euroti.com.br:1935/aguiberto6360/aguiberto6360/live.m3u8
-#EXTINF:-1 ,WEB TV SANTANA
-http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
-#EXTINF:-1 ,TV MOCAMBIQUE INTERNACIONAL (PT)
-http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_w768465874_b714000_slpor.m3u8
-#EXTINF:-1 ,SOBRENATURAL TV (PT)
-http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1988868381.m3u8
-#EXTINF:-1 ,ARTV PARLAMENTO HD (PT)
-http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w639840889.m3u8
-#EXTINF:-1 ,ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 ,REAL MADRID TV HD (ESPANHOL)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1 ,REAL MADRID TV HD (INGLÊS)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 ,100AUTOMOTO TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 ,ALL KASS SPORTS 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 ,ALL KASS SPORTS 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 ,ALL KASS SPORTS 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 ,ALL KASS SPORTS 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 ,ALL KASS SPORTS 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 ,ARG: CANAL 26 HD
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1713125811_b2628000_sleng.m3u8
-#EXTINF:-1 ,CHI: TV SENADO HD
-http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
-#EXTINF:-1 ,COL: TELE ISLAS SD
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-#EXTINF:-1 ,MEX: TELEMAR
-http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
-#EXTINF:-1 ,MEX: MULTIMEDIOS MONTERREY 1
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,MEX: MULTIMEDIOS MONTERREY 2
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 ,PER: ANTARES TV SD
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:-1 ,PER:  TV PERU SD
-http://cdnh4.iblups.com/hls/irtp.m3u8
-#EXTINF:-1 ,PER: OVACION SD
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 ,VEN: TV TELESUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 ,VEN: PROMAR TV
-http://edge.wms28.lorini.net/promar/promar/chunklist_w590746241.m3u8
-#EXTINF:-1 ,7 MURCIA
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 ,LANCELOT TV
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 ,LEBRIJA TV
-http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 ,REAL MADRID TV*
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-#EXTINF:-1 ,RTVCE
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:-1 ,TELESAFOR
-http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 ,TELEVALENCIA
-http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
-#EXTINF:-1 ,CANALE 10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 ,CARINA TV
-http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 ,RADIO ITALIA TV
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 ,RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 ,Canale 7 [Italia]
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 ,Rai Premium [Italia]
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 ,MEX - Top Latino
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
-#EXTINF:-1 ,Canal 10 Chetumal | HD
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1 ,Milenio | SD
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1 ,Ultra TV Puebla | HD
-https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8
-#EXTINF:-1 ,Ultra TV Aguacalientes | HD
-https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8
-#EXTINF:-1 ,Canal 4 | SD
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1 ,Canal 20 Zacatecas | SD
-http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 ,Capital 21 | SD
-http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
-#EXTINF:-1 ,15TV Sabinas | SD
-http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8
-#EXTINF:-1 ,Litus | HD
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-#EXTINF:-1 ,El Garaje TV | SD
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
-#EXTINF:-1 ,China 8 [China]
-http://ec.sinovision.net/video/ts/lv.m3u8
-#EXTINF:-1 ,Al Hurra [Emirados Arabes]
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 ,Al Jazeera [Emirados Arabes]
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1 ,France 24 [Franca]
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1 ,La Chaine Normande [Franca]
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 ,Kontra TV [Grecia]
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 ,Abp News [India]
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1 ,DD News [India]
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 ,Hidabroot TV [Israel]
-https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist_b1248000.m3u8
-#EXTINF:-1 ,Knesset Channel [Israel]
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
-#EXTINF:-1 ,Sky News [Reino Unido]
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 ,Mir 24 [Russia]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 ,CNN Turk [Turquia]
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 ,Kanal D [Turquia]
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 ,Meclis TV [Turquia]
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 ,TV CLIMA HD (SP)
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-#EXTINF:-1 ,M2O TV (ITÁLIA)
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 ,RETRO MUSIC HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,ANOS 70
-http://192.99.150.31:8241/stream?
-#EXTINF:-1 ,ANOS 80
-http://192.99.150.31:8697/stream?
-#EXTINF:-1 ,ANOS 90
-http://192.99.150.31:8056/stream?
-#EXTINF:-1 ,ANOS 2000
-http://6d9a.webradio.upx.net.br:9940/stream?
-#EXTINF:-1 ,AXÉ
-http://192.99.150.31:8305/stream?
-#EXTINF:-1 ,BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream?
-#EXTINF:-1 ,ELETRÔNICA
-http://192.99.150.31:9095/stream?
-#EXTINF:-1 ,FESTA
-http://6d9a.webradio.upx.net.br:9070/stream?
-#EXTINF:-1 ,FORRÓ
-http://192.99.150.31:9019/stream?
-#EXTINF:-1 ,FUNK
-http://192.99.150.31:9089/stream?
-#EXTINF:-1 ,GOSPEL
-http://192.99.150.31:9101/stream?
-#EXTINF:-1 ,HIP HOP
-http://192.99.150.31:8721/stream?
-#EXTINF:-1 ,HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream?
-#EXTINF:-1 ,KIDS
-http://192.99.150.31:9431/stream?
-#EXTINF:-1 ,JAZZ
-http://192.99.150.31:8042/stream?
-#EXTINF:-1 ,LOUNGE
-http://6d9a.webradio.upx.net.br:9064/stream?
-#EXTINF:-1 ,METAL
-http://6d9a.webradio.upx.net.br:9898/stream?
-#EXTINF:-1 ,MPB
-http://192.99.150.31:8775/stream?
-#EXTINF:-1 ,MÚSICA CLÁSSICA
-http://6d9a.webradio.upx.net.br:9970/stream?
-#EXTINF:-1 ,NEW ROCK
-http://6d9a.webradio.upx.net.br:8028/stream?
-#EXTINF:-1 ,PAGODE
-http://6d9a.webradio.upx.net.br:9061/stream?
-#EXTINF:-1 ,POP RITS
-http://6d9a.webradio.upx.net.br:9046/stream?
-#EXTINF:-1 ,POP ROCK
-http://6d9a.webradio.upx.net.br:8016/stream?
-#EXTINF:-1 ,SERTANEJO UNIVERSITÁRIO
-http://192.99.150.31:9191/stream?
-#EXTINF:-1 ,TRILHAS SONORAS
-http://6d9a.webradio.upx.net.br:9896/stream?
-#EXTINF:-1 ,SERTANEJO RAIZES
-http://192.99.150.31:9155/stream
-#EXTINF:-1 ,BOSSA NOVA
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1 ,RAP NACIONAL
-http://192.99.150.31:8377/stream
-#EXTINF:-1 ,REGGAE
-http://192.99.150.31:8715/stream
-#EXTINF:-1 ,ROBERTO CARLOS
-http://192.99.150.31:9137/stream
-#EXTINF:-1 ,ROCK CLASSICO
-http://192.99.150.31:9125/stream
-#EXTINF:-1 ,RODEIO
-http://192.99.150.31:9473/stream
-#EXTINF:-1 ,SERTANEJO
-http://192.99.150.31:9485/stream
-#EXTINF:-1 ,SMOOTH JAZZ
-http://192.99.150.31:8042/stream
-#EXTINF:-1 ,TECHNO
-http://192.99.150.31:8301/stream
-#EXTINF:-1 ,TECNO BREGA
-http://192.99.150.31:8989/stream
-#EXTINF:-1 ,STUDIO DO AMOR
-http://192.99.150.31:8962/stream
-#EXTINF:-1 ,METROPOLETANA FM - SERTANEJO
-http://m.paineldj6.com.br:8504/stream
-#EXTINF:-1 ,METROPOLETANA FM - POP
-http://paineldj4.com.br:8510/stream
-#EXTINF:-1 ,METROPOLETANA FM - FUNK
-http://paineldj4.com.br:8306/stream
-#EXTINF:-1 ,METROPOLETANA FM - LIGHT
-http://paineldj4.com.br:8594/stream
-#EXTINF:-1 ,RÁDIO ATLÂNTIDA FM
-http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
-#EXTINF:-1 ,RÁDIO ELDORADO FM
-http://noasrv.caster.fm:10136/stream
-#EXTINF:-1 ,RÁDIO HISTORINHA INFANTIL
-http://192.99.150.31:8371/stream
-#EXTINF:-1 ,RÁDIO MIX FM
-http://mixaac.crossradio.com.br:1100/live
-#EXTINF:-1 ,RÁDIO PRINCESA FM
-http://noasrv.caster.fm:10124/stream
-#EXTINF:-1 ,BAND VALE FM
-http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
-#EXTINF:-1 ,BAND NATIVA FM
-http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
-#EXTINF:-1 ,BAND AM-FM SP*
-http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
-#EXTINF:-1 ,BAND FM SP*
-http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
-#EXTINF:-1 ,BAND NEWS SP*
-http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
-#EXTINF:-1 ,MIX 106.3 SP
-http://mixmp3.crossradio.com.br:1102/live
-#EXTINF:-1 ,GOSPEL FM 89
-http://209.126.127.123:8885/live?1522866827534
-#EXTINF:-1 ,NATIVA SP*
-http://cast.hoost.com.br:8554/stream
-#EXTINF:-1 ,RÁDIO CANÇÃO NOVA (GRAVATÁ)
-http://rdgravata-lh.akamaihd.net/i/rdgravata_1@191279/index_1_a-p.m3u8
-#EXTINF:-1 ,RÁDIO TV GOIANA (GO)
-http://srv9.zoeweb.tv:1935/zw981/smil:zw981.smil/chunklist_w232970363_b1000000.m3u8
-#EXTINF:-1 ,RÁDIO FM O DIA 100.5 - ESTÁDIO AO VIVO
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-#EXTINF:-1 ,RÁDIO BOAS NOVAS FM PE
-http://rbc.directradios.com:1935/rbcfm/rbcfm/chunklist_w113426192.m3u8
-#EXTINF:-1 ,RÁDIO VIBE FM
-http://servidor36.brlogic.com:8180/live
-#EXTINF:-1 ,RÁDIO FANÁTICA FM
-http://noasrv.caster.fm:10156/live
-#EXTINF:-1 ,RÁDIO BOAS NOVAS AM 580 (PE)
-http://rbc1.directradios.com:8296/stream
-#EXTINF:-1 ,RÁDIO EVANGELICA FM PE
-http://directradios.net:8343/stream2
-#EXTINF:-1 ,RÁDIO GOSPEL - LOUVOR E ADORAÇÃO
-http://216.245.204.229:8018/live
-#EXTINF:-1 ,RÁDIO TRAMANDAÍ FM
-http://noasrv.caster.fm:10133/stream
-#EXTINF:-1 ,RÁDIO VERDE MARES
-http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
-#EXTINF:-1 ,CBN - CAMPINA GRANDE
-http://audio.cabobranco.tv.br:8000/cbncg
-#EXTINF:-1 ,CORREIO 98 FM - CAMPINA GRANDE
-http://ice11.crossradio.com.br:8026/;*.mp3
-#EXTINF:-1 ,ARAPUAN - JOÂO PESSOA
-http://centova6.ciclanohost.com.br:9104/;stream.nsv
-#EXTINF:-1 ,CORREIO 98 FM - JOÃO PESSOA
-http://ice11.crossradio.com.br:8014/;*.mp3
-#EXTINF:-1 ,MIX FM - JOÃO PESSOA
-http://158.69.117.161:8016/live
-#EXTINF:-1 ,CABO BRANCO FM - JOÃO PESSOA
-http://audio.cabobranco.tv.br:8000/cbfm
-#EXTINF:-1 ,CPAD - JOÃO PESSOA
-http://server3.webradios.com.br:9404/;
-#EXTINF:-1 ,104 FM SOUSA
-http://stream.7br.com.br:10018/;
-#EXTINF:-1 ,LIDER 97 FM - SOUSA
-http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
-#EXTINF:-1 ,LIBERDADE FM - POMBAL
-http://centova14.ciclanohost.com.br:8180/;
-#EXTINF:-1 ,ESTAÇÃO JC - POMBAL
-http://streaming15.hstbr.net:8224/live
-#EXTINF:-1 ,WEB RÁDIO NO TOQUE DA BOLA - POMBAL
-http://server01.ouvir.radio.br:8060/stream
-#EXTINF:-1 ,ARAPUAN - CAJAZEIRAS
-http://centova6.ciclanohost.com.br:9346/stream/1/
-#EXTINF:-1 ,RADIO OESTE AM - CAJAZEIRAS
-http://streaming06.maxcast.com.br:8120/live
-#EXTINF:-1 ,ARAPUAN - CAMPINA GRANDE
-http://centova6.ciclanohost.com.br:9518/;stream.nsv
-#EXTINF:-1 ,ARAPUAN - PATOS
-http://centova6.ciclanohost.com.br:9312/;stream.nsv
-#EXTINF:-1 ,ESPINHARAS AM - PATOS
-http://stm45.srvstm.com:26924/stream/1/
-#EXTINF:-1 ,CAMERA PANDA AO VIVO 2
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
-#EXTINF:-1 ,CAMERA PANDA AO VIVO 3
-http://160.111.252.72:1935/live_edge_panda/smil:panda03_all.smil/playlist.m3u8
-#EXTINF:-1 ,Praia de Furadouro webcam
-http://video-auth1.iol.pt:1935/beachcam/furadouro/playlist.m3u8
-#EXTINF:-1 ,Praia da Torreira webcam
-http://video-auth1.iol.pt:1935/beachcam/torreira/playlist.m3u8
-#EXTINF:-1 ,Praia da barra webcam
-http://video-auth1.iol.pt:1935/beachcam/aveiro/playlist.m3u8
-#EXTINF:-1 ,Praia de Figueira da Foz - Buarcos webcam
-http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/playlist.m3u8
-#EXTINF:-1 ,Praia do Norte - Nazaré webcam
-http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/playlist.m3u8
-#EXTINF:-1 ,Praia de Peniche - Lagilde Baía webcam
-http://video-auth1.iol.pt:1935/beachcam/lagide/playlist.m3u8
-#EXTINF:-1 ,Praia da Ericeira webcam
-http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/playlist.m3u8
-#EXTINF:-1 ,Praia Grande webcam
-http://video-auth1.iol.pt:1935/beachcam/praiagrande/playlist.m3u8
-#EXTINF:-1 ,Praia do Guincho - Sul webcam
-http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/playlist.m3u8
-#EXTINF:-1 ,Praia de São Pedro do Estoril webcam
-http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
-#EXTINF:-1 ,Praia de Carcavelos webcam
-http://video-auth1.iol.pt:1935/beachcam/carcavelos/playlist.m3u8
-#EXTINF:-1 ,Praia da Costa da Caparica CDS webcam
-http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/playlist.m3u8
-#EXTINF:-1 ,Praia da Costa da Caparica - São João webcam
-http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/playlist.m3u8
-#EXTINF:-1 ,Praia da Fonte da Telha webcam
-http://video-auth1.iol.pt:1935/beachcam/fontedatelha/playlist.m3u8
-#EXTINF:-1 ,Praia de Meia Praia - Duna Beach webcam
-http://video-auth1.iol.pt:1935/beachcam/meiapraia/playlist.m3u8
-#EXTINF:-1 ,Praia do Alvor webcam
-http://video-auth1.iol.pt:1935/beachcam/alvor/playlist.m3u8
-#EXTINF:-1 ,Praia da Rocha webcam
-http://video-auth1.iol.pt:1935/beachcam/praiadarocha/playlist.m3u8
-#EXTINF:-1 ,Praia de Jardim do Mar webcam
-http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/playlist.m3u8
-#EXTINF:-1 ,Praia de Matosinhos webcam
-http://video-auth1.iol.pt:1935/beachcam/matosinhos/playlist.m3u8
+
+#EXTINF:-1,A&E HD
+http://pdsrv.io:80/wendel/wendel/8139
+#EXTINF:-1,A&E HD*
+http://pdsrv.io:80/wendel/wendel/20892
+#EXTINF:-1,A&E SD
+http://pdsrv.io:80/wendel/wendel/4404
+#EXTINF:-1,A&E SD*
+http://pdsrv.io:80/wendel/wendel/20893
+#EXTINF:-1,AGRO CANAL SD
+http://pdsrv.io:80/wendel/wendel/5983
+#EXTINF:-1,ALJAZEERA HD
+http://pdsrv.io:80/wendel/wendel/7550
+#EXTINF:-1,ALL SPORT SD
+http://pdsrv.io:80/wendel/wendel/6812
+#EXTINF:-1,ALL SPORTS HD
+http://pdsrv.io:80/wendel/wendel/20591
+#EXTINF:-1,AMC FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9343
+#EXTINF:-1,AMC HD
+http://pdsrv.io:80/wendel/wendel/7691
+#EXTINF:-1,AMC HD*
+http://pdsrv.io:80/wendel/wendel/20890
+#EXTINF:-1,AMC SD
+http://pdsrv.io:80/wendel/wendel/7448
+#EXTINF:-1,AMC SD*
+http://pdsrv.io:80/wendel/wendel/20891
+#EXTINF:-1,ANIMAL PLANET 4K
+http://pdsrv.io:80/wendel/wendel/33758
+#EXTINF:-1,ANIMAL PLANET FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13205
+#EXTINF:-1,ANIMAL PLANET HD
+http://pdsrv.io:80/wendel/wendel/6142
+#EXTINF:-1,ANIMAL PLANET HD*
+http://pdsrv.io:80/wendel/wendel/24628
+#EXTINF:-1,ANIMAL PLANET SD
+http://pdsrv.io:80/wendel/wendel/4403
+#EXTINF:-1,ANIMAL PLANET SD*
+http://pdsrv.io:80/wendel/wendel/20887
+#EXTINF:-1,ARIRANG TV SD
+http://pdsrv.io:80/wendel/wendel/4407
+#EXTINF:-1,ARTE 1 FHD
+http://pdsrv.io:80/wendel/wendel/11308
+#EXTINF:-1,ARTE 1 HD
+http://pdsrv.io:80/wendel/wendel/10235
+#EXTINF:-1,TruTV SD
+http://pdsrv.io:80/wendel/wendel/7904
+#EXTINF:-1,AXN FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13212
+#EXTINF:-1,AXN HD
+http://pdsrv.io:80/wendel/wendel/6140
+#EXTINF:-1,AXN HD*
+http://pdsrv.io:80/wendel/wendel/20882
+#EXTINF:-1,AXN SD
+http://pdsrv.io:80/wendel/wendel/4402
+#EXTINF:-1,AXN SD*
+http://pdsrv.io:80/wendel/wendel/20884
+#EXTINF:-1,BABY TV SD
+http://pdsrv.io:80/wendel/wendel/4401
+#EXTINF:-1,BABY TV SD*
+http://pdsrv.io:80/wendel/wendel/20871
+#EXTINF:-1,BAND 4K
+http://pdsrv.io:80/wendel/wendel/33747
+#EXTINF:-1,BAND ARACAJU HD (MANUTENÇÃO)
+http://pdsrv.io:80/wendel/wendel/24752
+#EXTINF:-1,BAND BAHIA SD
+http://pdsrv.io:80/wendel/wendel/30427
+#EXTINF:-1,BAND BRASILIA HD
+http://pdsrv.io:80/wendel/wendel/33274
+#EXTINF:-1,BAND CAMPINAS HD
+http://pdsrv.io:80/wendel/wendel/33280
+#EXTINF:-1,BAND FHD
+http://pdsrv.io:80/wendel/wendel/25008
+#EXTINF:-1,BAND GOIANIA HD
+http://pdsrv.io:80/wendel/wendel/25019
+#EXTINF:-1,BAND HD
+http://pdsrv.io:80/wendel/wendel/6882
+#EXTINF:-1,BAND HD*
+http://pdsrv.io:80/wendel/wendel/20874
+#EXTINF:-1,BAND NEWS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11536
+#EXTINF:-1,BAND NEWS HD
+http://pdsrv.io:80/wendel/wendel/10296
+#EXTINF:-1,BAND NEWS SD
+http://pdsrv.io:80/wendel/wendel/4399
+#EXTINF:-1,BAND PARANA SD
+http://pdsrv.io:80/wendel/wendel/24927
+#EXTINF:-1,BAND RJ HD
+http://pdsrv.io:80/wendel/wendel/25542
+#EXTINF:-1,BAND RS HD
+http://pdsrv.io:80/wendel/wendel/25018
+#EXTINF:-1,BAND SD
+http://pdsrv.io:80/wendel/wendel/4400
+#EXTINF:-1,BAND SD*
+http://pdsrv.io:80/wendel/wendel/20875
+#EXTINF:-1,BAND SPORTS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11535
+#EXTINF:-1,BAND SPORTS HD
+http://pdsrv.io:80/wendel/wendel/6138
+#EXTINF:-1,BAND SPORTS HD*
+http://pdsrv.io:80/wendel/wendel/20863
+#EXTINF:-1,BAND SPORTS SD
+http://pdsrv.io:80/wendel/wendel/4398
+#EXTINF:-1,BAND SPORTS SD*
+http://pdsrv.io:80/wendel/wendel/20864
+#EXTINF:-1,BAND TV TAROBA PARANA HD
+http://pdsrv.io:80/wendel/wendel/24924
+#EXTINF:-1,BIS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11547
+#EXTINF:-1,BIS HD
+http://pdsrv.io:80/wendel/wendel/6881
+#EXTINF:-1,BIS HD*
+http://pdsrv.io:80/wendel/wendel/20866
+#EXTINF:-1,BIS SD
+http://pdsrv.io:80/wendel/wendel/6964
+#EXTINF:-1,BIS SD*
+http://pdsrv.io:80/wendel/wendel/20868
+#EXTINF:-1,BLOOMBERG TV SD
+http://pdsrv.io:80/wendel/wendel/7424
+#EXTINF:-1,BOA VONTADE TV SD
+http://pdsrv.io:80/wendel/wendel/20869
+#EXTINF:-1,BOOMERANG FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11534
+#EXTINF:-1,BOOMERANG HD
+http://pdsrv.io:80/wendel/wendel/10294
+#EXTINF:-1,BOOMERANG SD
+http://pdsrv.io:80/wendel/wendel/4396
+#EXTINF:-1,BOOMERANG SD*
+http://pdsrv.io:80/wendel/wendel/20857
+#EXTINF:-1,CANAL 26 ARGENTINA HD
+http://pdsrv.io:80/wendel/wendel/11205
+#EXTINF:-1,CANAL BRASIL HD
+http://pdsrv.io:80/wendel/wendel/10293
+#EXTINF:-1,CANAL BRASIL SD
+http://pdsrv.io:80/wendel/wendel/6963
+#EXTINF:-1,CANAL BRASIL SD*
+http://pdsrv.io:80/wendel/wendel/20838
+#EXTINF:-1,CANAL DO BOI SD
+http://pdsrv.io:80/wendel/wendel/11287
+#EXTINF:-1,CANAL SONY FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13202
+#EXTINF:-1,CANAL SONY HD
+http://pdsrv.io:80/wendel/wendel/6961
+#EXTINF:-1,CANAL SONY HD*
+http://pdsrv.io:80/wendel/wendel/20527
+#EXTINF:-1,CANAL SONY SD
+http://pdsrv.io:80/wendel/wendel/4395
+#EXTINF:-1,CANAL SONY SD*
+http://pdsrv.io:80/wendel/wendel/20529
+#EXTINF:-1,CANCAO NOVA SD*
+http://pdsrv.io:80/wendel/wendel/30662
+#EXTINF:-1,CANCAO NOVA SD
+http://pdsrv.io:80/wendel/wendel/6173
+#EXTINF:-1,CARTOON NETWORK 4K
+http://pdsrv.io:80/wendel/wendel/33761
+#EXTINF:-1,CARTOON NETWORK FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13210
+#EXTINF:-1,CARTOON NETWORK HD
+http://pdsrv.io:80/wendel/wendel/7817
+#EXTINF:-1,CARTOON NETWORK HD*
+http://pdsrv.io:80/wendel/wendel/20844
+#EXTINF:-1,CARTOON NETWORK SD
+http://pdsrv.io:80/wendel/wendel/4394
+#EXTINF:-1,CARTOON NETWORK SD*
+http://pdsrv.io:80/wendel/wendel/20845
+#EXTINF:-1,CINEMAX FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/10993
+#EXTINF:-1,CINEMAX HD
+http://pdsrv.io:80/wendel/wendel/7802
+#EXTINF:-1,CINEMAX HD*
+http://pdsrv.io:80/wendel/wendel/20834
+#EXTINF:-1,CINEMAX SD
+http://pdsrv.io:80/wendel/wendel/4393
+#EXTINF:-1,CINEMAX SD*
+http://pdsrv.io:80/wendel/wendel/24630
+#EXTINF:-1,CNN INTERNACIONAL SD
+http://pdsrv.io:80/wendel/wendel/20506
+#EXTINF:-1,COMBATE 4K
+http://pdsrv.io:80/wendel/wendel/33748
+#EXTINF:-1,COMBATE FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8152
+#EXTINF:-1,COMBATE HD
+http://pdsrv.io:80/wendel/wendel/6172
+#EXTINF:-1,COMBATE HD*
+http://pdsrv.io:80/wendel/wendel/20831
+#EXTINF:-1,COMBATE SD
+http://pdsrv.io:80/wendel/wendel/4392
+#EXTINF:-1,COMBATE SD*
+http://pdsrv.io:80/wendel/wendel/20832
+#EXTINF:-1,COMEDY CENTRAL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/24920
+#EXTINF:-1,COMEDY CENTRAL HD
+http://pdsrv.io:80/wendel/wendel/10292
+#EXTINF:-1,COMEDY CENTRAL HD*
+http://pdsrv.io:80/wendel/wendel/20827
+#EXTINF:-1,COMEDY CENTRAL SD
+http://pdsrv.io:80/wendel/wendel/4391
+#EXTINF:-1,COMEDY CENTRAL SD*
+http://pdsrv.io:80/wendel/wendel/20828
+#EXTINF:-1,COPA LIBERTADORES
+http://pdsrv.io:80/wendel/wendel/32205
+#EXTINF:-1,CURTA SD*
+http://pdsrv.io:80/wendel/wendel/20826
+#EXTINF:-1,CURTA! SD
+http://pdsrv.io:80/wendel/wendel/10291
+#EXTINF:-1,DAZN HD
+http://pdsrv.io:80/wendel/wendel/30422
+#EXTINF:-1,DAZN HD 2
+http://pdsrv.io:80/wendel/wendel/33638
+#EXTINF:-1,DAZN HD 3
+http://pdsrv.io:80/wendel/wendel/33639
+#EXTINF:-1,DAZN HD 4
+http://pdsrv.io:80/wendel/wendel/33640
+#EXTINF:-1,DAZN HD*
+http://pdsrv.io:80/wendel/wendel/31005
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://pdsrv.io:80/wendel/wendel/33754
+#EXTINF:-1,DISCOVERY CHANNEL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11548
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://pdsrv.io:80/wendel/wendel/6132
+#EXTINF:-1,DISCOVERY CHANNEL HD*
+http://pdsrv.io:80/wendel/wendel/20824
+#EXTINF:-1,DISCOVERY CHANNEL SD
+http://pdsrv.io:80/wendel/wendel/4390
+#EXTINF:-1,DISCOVERY CHANNEL SD*
+http://pdsrv.io:80/wendel/wendel/20825
+#EXTINF:-1,HGTV FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13208
+#EXTINF:-1,HGTV HD
+http://pdsrv.io:80/wendel/wendel/7862
+#EXTINF:-1,HGTV HD*
+http://pdsrv.io:80/wendel/wendel/20820
+#EXTINF:-1,HGTV SD
+http://pdsrv.io:80/wendel/wendel/10236
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11533
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://pdsrv.io:80/wendel/wendel/6131
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
+http://pdsrv.io:80/wendel/wendel/20813
+#EXTINF:-1,DISCOVERY HOME & HEALTH SD
+http://pdsrv.io:80/wendel/wendel/4389
+#EXTINF:-1,DISCOVERY HOME & HELTH SD*
+http://pdsrv.io:80/wendel/wendel/20814
+#EXTINF:-1,DISCOVERY KIDS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11532
+#EXTINF:-1,DISCOVERY KIDS HD
+http://pdsrv.io:80/wendel/wendel/7538
+#EXTINF:-1,DISCOVERY KIDS HD*
+http://pdsrv.io:80/wendel/wendel/20816
+#EXTINF:-1,DISCOVERY KIDS SD
+http://pdsrv.io:80/wendel/wendel/4388
+#EXTINF:-1,DISCOVERY KIDS SD*
+http://pdsrv.io:80/wendel/wendel/20818
+#EXTINF:-1,DISCOVERY SCIENCE FHD (DUAL ADUIO)
+http://pdsrv.io:80/wendel/wendel/13206
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://pdsrv.io:80/wendel/wendel/7861
+#EXTINF:-1,DISCOVERY SCIENCE HD*
+http://pdsrv.io:80/wendel/wendel/20811
+#EXTINF:-1,DISCOVERY SCIENCE SD
+http://pdsrv.io:80/wendel/wendel/10237
+#EXTINF:-1,DISCOVERY THEATER FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11530
+#EXTINF:-1,DISCOVERY THEATER HD
+http://pdsrv.io:80/wendel/wendel/6130
+#EXTINF:-1,DISCOVERY THEATER HD*
+http://pdsrv.io:80/wendel/wendel/20806
+#EXTINF:-1,DISCOVERY THEATER SD
+http://pdsrv.io:80/wendel/wendel/10289
+#EXTINF:-1,DISCOVERY TURBO FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11531
+#EXTINF:-1,DISCOVERY TURBO HD
+http://pdsrv.io:80/wendel/wendel/6877
+#EXTINF:-1,DISCOVERY TURBO HD*
+http://pdsrv.io:80/wendel/wendel/20808
+#EXTINF:-1,DISCOVERY TURBO SD
+http://pdsrv.io:80/wendel/wendel/4386
+#EXTINF:-1,DISCOVERY TURBO SD*
+http://pdsrv.io:80/wendel/wendel/20809
+#EXTINF:-1,DISCOVERY WORLD HD
+http://pdsrv.io:80/wendel/wendel/6128
+#EXTINF:-1,DISCOVERY WORLD HD*
+http://pdsrv.io:80/wendel/wendel/20801
+#EXTINF:-1,DISCOVERY WORLD SD
+http://pdsrv.io:80/wendel/wendel/10288
+#EXTINF:-1,DISNEY CHANNEL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11546
+#EXTINF:-1,DISNEY CHANNEL HD
+http://pdsrv.io:80/wendel/wendel/7902
+#EXTINF:-1,DISNEY CHANNEL HD*
+http://pdsrv.io:80/wendel/wendel/20797
+#EXTINF:-1,DISNEY CHANNEL SD
+http://pdsrv.io:80/wendel/wendel/4385
+#EXTINF:-1,DISNEY CHANNEL SD*
+http://pdsrv.io:80/wendel/wendel/20799
+#EXTINF:-1,DISNEY JUNIOR FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13207
+#EXTINF:-1,DISNEY JUNIOR HD
+http://pdsrv.io:80/wendel/wendel/10286
+#EXTINF:-1,DISNEY JUNIOR HD*
+http://pdsrv.io:80/wendel/wendel/20794
+#EXTINF:-1,DISNEY JUNIOR SD
+http://pdsrv.io:80/wendel/wendel/4384
+#EXTINF:-1,DISNEY JUNIOR SD*
+http://pdsrv.io:80/wendel/wendel/20795
+#EXTINF:-1,DISNEY XD HD
+http://pdsrv.io:80/wendel/wendel/20791
+#EXTINF:-1,DISNEY XD SD
+http://pdsrv.io:80/wendel/wendel/4383
+#EXTINF:-1,DISNEY XD SD*
+http://pdsrv.io:80/wendel/wendel/20792
+#EXTINF:-1,DOG TV HD 
+http://pdsrv.io:80/wendel/wendel/11204
+#EXTINF:-1,DW ALEMANHA HD
+http://pdsrv.io:80/wendel/wendel/20790
+#EXTINF:-1,DW SD
+http://pdsrv.io:80/wendel/wendel/4425
+#EXTINF:-1,E! HD
+http://pdsrv.io:80/wendel/wendel/10285
+#EXTINF:-1,E! HD*
+http://pdsrv.io:80/wendel/wendel/20788
+#EXTINF:-1,E! SD
+http://pdsrv.io:80/wendel/wendel/4382
+#EXTINF:-1,E! SD*
+http://pdsrv.io:80/wendel/wendel/20789
+#EXTINF:-1,EI PLUS 1 HD
+http://pdsrv.io:80/wendel/wendel/32162
+#EXTINF:-1,EI PLUS 2 HD
+http://pdsrv.io:80/wendel/wendel/33613
+#EXTINF:-1,EI PLUS 3 HD
+http://pdsrv.io:80/wendel/wendel/32163
+#EXTINF:-1,EI PLUS 4 HD
+http://pdsrv.io:80/wendel/wendel/24835
+#EXTINF:-1,ELEVEN SPORT 1  HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30761
+#EXTINF:-1,ELEVEN SPORTS 1 (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30760
+#EXTINF:-1,ELEVEN SPORTS 1 FHD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30762
+#EXTINF:-1,ELEVEN SPORTS 2 FHD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30758
+#EXTINF:-1,ELEVEN SPORTS 2 HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30757
+#EXTINF:-1,ELEVEN SPORTS 3 HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30755
+#EXTINF:-1,ELEVEN SPORTS 4 HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30753
+#EXTINF:-1,ELEVEN SPORTS 5 HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30752
+#EXTINF:-1,ELEVEN SPORTS 6 HD (Liga dos Campeões)
+http://pdsrv.io:80/wendel/wendel/30751
+#EXTINF:-1,ESPN 2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11521
+#EXTINF:-1,ESPN 2 HD
+http://pdsrv.io:80/wendel/wendel/6143
+#EXTINF:-1,ESPN 2 SD
+http://pdsrv.io:80/wendel/wendel/7988
+#EXTINF:-1,ESPN 4K
+http://pdsrv.io:80/wendel/wendel/33766
+#EXTINF:-1,ESPN BRASIL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11557
+#EXTINF:-1,ESPN BRASIL HD
+http://pdsrv.io:80/wendel/wendel/6124
+#EXTINF:-1,ESPN BRASIL HD*
+http://pdsrv.io:80/wendel/wendel/20783
+#EXTINF:-1,ESPN BRASIL SD
+http://pdsrv.io:80/wendel/wendel/4380
+#EXTINF:-1,ESPN BRASIL SD*
+http://pdsrv.io:80/wendel/wendel/20784
+#EXTINF:-1,ESPN EXTRA HD
+http://pdsrv.io:80/wendel/wendel/24788
+#EXTINF:-1,ESPN FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11545
+#EXTINF:-1,ESPN HD
+http://pdsrv.io:80/wendel/wendel/6127
+#EXTINF:-1,ESPN HD*
+http://pdsrv.io:80/wendel/wendel/20779
+#EXTINF:-1,ESPN SD
+http://pdsrv.io:80/wendel/wendel/4381
+#EXTINF:-1,ESPN SD*
+http://pdsrv.io:80/wendel/wendel/20780
+#EXTINF:-1,ESPORTES 3 SD
+http://pdsrv.io:80/wendel/wendel/30244
+#EXTINF:-1,FILM&ARTS SD
+http://pdsrv.io:80/wendel/wendel/11180
+#EXTINF:-1,FISH TV HD
+http://pdsrv.io:80/wendel/wendel/20773
+#EXTINF:-1,FISH TV SD
+http://pdsrv.io:80/wendel/wendel/4377
+#EXTINF:-1,FOOD NETWORK FHD
+http://pdsrv.io:80/wendel/wendel/13196
+#EXTINF:-1,FOOD NETWORK HD
+http://pdsrv.io:80/wendel/wendel/7534
+#EXTINF:-1,FOOD NETWORK HD*
+http://pdsrv.io:80/wendel/wendel/20756
+#EXTINF:-1,FOOD NETWORK SD
+http://pdsrv.io:80/wendel/wendel/6959
+#EXTINF:-1,FOOD NETWORK SD*
+http://pdsrv.io:80/wendel/wendel/20757
+#EXTINF:-1,FOX FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9141
+#EXTINF:-1,FOX HD
+http://pdsrv.io:80/wendel/wendel/6122
+#EXTINF:-1,FOX HD*
+http://pdsrv.io:80/wendel/wendel/20759
+#EXTINF:-1,FOX LIFE FHD
+http://pdsrv.io:80/wendel/wendel/25009
+#EXTINF:-1,FOX LIFE HD
+http://pdsrv.io:80/wendel/wendel/6876
+#EXTINF:-1,FOX LIFE HD*
+http://pdsrv.io:80/wendel/wendel/20761
+#EXTINF:-1,FOX LIFE SD
+http://pdsrv.io:80/wendel/wendel/4374
+#EXTINF:-1,FOX LIFE SD*
+http://pdsrv.io:80/wendel/wendel/20762
+#EXTINF:-1,FOX NEWS SD
+http://pdsrv.io:80/wendel/wendel/6835
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://pdsrv.io:80/wendel/wendel/10279
+#EXTINF:-1,FOX PREMIUM 1 HD*
+http://pdsrv.io:80/wendel/wendel/20763
+#EXTINF:-1,FOX PREMIUM 2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11529
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://pdsrv.io:80/wendel/wendel/10278
+#EXTINF:-1,FOX PREMIUM 2 HD*
+http://pdsrv.io:80/wendel/wendel/20764
+#EXTINF:-1,FOX SD
+http://pdsrv.io:80/wendel/wendel/4375
+#EXTINF:-1,FOX SD*
+http://pdsrv.io:80/wendel/wendel/20760
+#EXTINF:-1,FOX SPORTS 2 4K
+http://pdsrv.io:80/wendel/wendel/33763
+#EXTINF:-1,FOX SPORTS 2 FHD (DUAL ALDIO)
+http://pdsrv.io:80/wendel/wendel/8151
+#EXTINF:-1,FOX SPORTS 2 HD
+http://pdsrv.io:80/wendel/wendel/6117
+#EXTINF:-1,FOX SPORTS 2 HD*
+http://pdsrv.io:80/wendel/wendel/20767
+#EXTINF:-1,FOX SPORTS 2 SD
+http://pdsrv.io:80/wendel/wendel/4372
+#EXTINF:-1,FOX SPORTS 2 SD*
+http://pdsrv.io:80/wendel/wendel/20768
+#EXTINF:-1,FOX SPORTS 4K
+http://pdsrv.io:80/wendel/wendel/33756
+#EXTINF:-1,FOX SPORTS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11556
+#EXTINF:-1,FOX SPORTS HD
+http://pdsrv.io:80/wendel/wendel/6118
+#EXTINF:-1,FOX SPORTS HD*
+http://pdsrv.io:80/wendel/wendel/20771
+#EXTINF:-1,FOX SPORTS SD
+http://pdsrv.io:80/wendel/wendel/4373
+#EXTINF:-1,FOX SPORTS SD*
+http://pdsrv.io:80/wendel/wendel/20772
+#EXTINF:-1,FUTURA SD
+http://pdsrv.io:80/wendel/wendel/10277
+#EXTINF:-1,FUTURA SD*
+http://pdsrv.io:80/wendel/wendel/20753
+#EXTINF:-1,FX FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13199
+#EXTINF:-1,FX HD
+http://pdsrv.io:80/wendel/wendel/6116
+#EXTINF:-1,FX HD*
+http://pdsrv.io:80/wendel/wendel/20775
+#EXTINF:-1,FX SD
+http://pdsrv.io:80/wendel/wendel/4371
+#EXTINF:-1,FX SD*
+http://pdsrv.io:80/wendel/wendel/20777
+#EXTINF:-1,GLOBO 4K
+http://pdsrv.io:80/wendel/wendel/33749
+#EXTINF:-1,GLOBO GOIAS FHD
+http://pdsrv.io:80/wendel/wendel/21985
+#EXTINF:-1,GLOBO BAHIA SD
+http://pdsrv.io:80/wendel/wendel/7539
+#EXTINF:-1,GLOBO BRASILIA HD
+http://pdsrv.io:80/wendel/wendel/10239
+#EXTINF:-1,GLOBO BRASILIA SD
+http://pdsrv.io:80/wendel/wendel/7530
+#EXTINF:-1,GLOBO BRASILIA SD*
+http://pdsrv.io:80/wendel/wendel/22769
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://pdsrv.io:80/wendel/wendel/10234
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD
+http://pdsrv.io:80/wendel/wendel/7932
+#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
+http://pdsrv.io:80/wendel/wendel/22767
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD
+http://pdsrv.io:80/wendel/wendel/9471
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD*
+http://pdsrv.io:80/wendel/wendel/22765
+#EXTINF:-1,GLOBO EPTV RIBERAO PRETO SD
+http://pdsrv.io:80/wendel/wendel/33271
+#EXTINF:-1,GLOBO EPTV SAO CARLOS SD
+http://pdsrv.io:80/wendel/wendel/22766
+#EXTINF:-1,GLOBO VERDES MARES FHD
+http://pdsrv.io:80/wendel/wendel/32807
+#EXTINF:-1,GLOBO GAZETA SUL ES HD
+http://pdsrv.io:80/wendel/wendel/33612
+#EXTINF:-1,GLOBO GAZETA SUL ES SD
+http://pdsrv.io:80/wendel/wendel/33611
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://pdsrv.io:80/wendel/wendel/33269
+#EXTINF:-1,GLOBO INTERNACIONAL
+http://pdsrv.io:80/wendel/wendel/24928
+#EXTINF:-1,GLOBO INTERTV CABUGI SD
+http://pdsrv.io:80/wendel/wendel/22763
+#EXTINF:-1,GLOBO MATO GROSSO HD
+http://pdsrv.io:80/wendel/wendel/20595
+#EXTINF:-1,GLOBO MINAS HD
+http://pdsrv.io:80/wendel/wendel/7528
+#EXTINF:-1,GLOBO MINAS HD*
+http://pdsrv.io:80/wendel/wendel/22760
+#EXTINF:-1,GLOBO MINAS SD
+http://pdsrv.io:80/wendel/wendel/10276
+#EXTINF:-1,GLOBO MINAS SD*
+http://pdsrv.io:80/wendel/wendel/22761
+#EXTINF:-1,GLOBO NEWS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/25010
+#EXTINF:-1,GLOBO NEWS HD
+http://pdsrv.io:80/wendel/wendel/7442
+#EXTINF:-1,GLOBO NEWS HD*
+http://pdsrv.io:80/wendel/wendel/11043
+#EXTINF:-1,GLOBO NEWS SD
+http://pdsrv.io:80/wendel/wendel/4432
+#EXTINF:-1,GLOBO NEWS SD*
+http://pdsrv.io:80/wendel/wendel/11243
+#EXTINF:-1,GLOBO NORDESTE SD
+http://pdsrv.io:80/wendel/wendel/7527
+#EXTINF:-1,GLOBO NORDESTE HD
+http://pdsrv.io:80/wendel/wendel/33266
+#EXTINF:-1,GLOBO MATO GROSSO FHD
+http://pdsrv.io:80/wendel/wendel/31116
+#EXTINF:-1,Globo NSC Florianopolis HD
+http://pdsrv.io:80/wendel/wendel/30227
+#EXTINF:-1,GLOBO RBS FHD
+http://pdsrv.io:80/wendel/wendel/31110
+#EXTINF:-1,GLOBO MINAS FHD
+http://pdsrv.io:80/wendel/wendel/31114
+#EXTINF:-1,GLOBO NSCTV SANTA CATARINA HD
+http://pdsrv.io:80/wendel/wendel/33294
+#EXTINF:-1,GLOBO TV MIRANTE MARANHAO FHD
+http://pdsrv.io:80/wendel/wendel/33282
+#EXTINF:-1,GLOBO RBS HD
+http://pdsrv.io:80/wendel/wendel/33287
+#EXTINF:-1,GLOBO RBS TV POA HD
+http://pdsrv.io:80/wendel/wendel/25007
+#EXTINF:-1,GLOBO NORDESTE FHD
+http://pdsrv.io:80/wendel/wendel/25011
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE SD
+http://pdsrv.io:80/wendel/wendel/33265
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD
+http://pdsrv.io:80/wendel/wendel/33264
+#EXTINF:-1,GLOBO FHD
+http://pdsrv.io:80/wendel/wendel/30230
+#EXTINF:-1,GLOBO RJ HD
+http://pdsrv.io:80/wendel/wendel/6113
+#EXTINF:-1,GLOBO RJ HD*
+http://pdsrv.io:80/wendel/wendel/22756
+#EXTINF:-1,GLOBO RJ SD
+http://pdsrv.io:80/wendel/wendel/7547
+#EXTINF:-1,GLOBO RJ SD*
+http://pdsrv.io:80/wendel/wendel/22753
+#EXTINF:-1,GLOBO RPC CURITIBA HD
+http://pdsrv.io:80/wendel/wendel/22750
+#EXTINF:-1,RPC HD
+http://pdsrv.io:80/wendel/wendel/11201
+#EXTINF:-1,GLOBO RPC TV CURITIBA SD
+http://pdsrv.io:80/wendel/wendel/33258
+#EXTINF:-1,GLOBO SOROCABA SD
+http://pdsrv.io:80/wendel/wendel/7684
+#EXTINF:-1,GLOBO SP HD
+http://pdsrv.io:80/wendel/wendel/7529
+#EXTINF:-1,GLOBO SP HD*
+http://pdsrv.io:80/wendel/wendel/22755
+#EXTINF:-1,GLOBO SP SD
+http://pdsrv.io:80/wendel/wendel/4431
+#EXTINF:-1,GLOBO SP SD*
+http://pdsrv.io:80/wendel/wendel/22757
+#EXTINF:-1,GLOBO TV ANHANGUERA FHD
+http://pdsrv.io:80/wendel/wendel/33286
+#EXTINF:-1,GLOBO TV ANHANGUERA HD
+http://pdsrv.io:80/wendel/wendel/22004
+#EXTINF:-1,GLOBO TV BAHIA SD
+http://pdsrv.io:80/wendel/wendel/33261
+#EXTINF:-1,GLOBO TV CAMBUGI SD
+http://pdsrv.io:80/wendel/wendel/20533
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD
+http://pdsrv.io:80/wendel/wendel/22017
+#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD
+http://pdsrv.io:80/wendel/wendel/32806
+#EXTINF:-1,GLOBO TV GAZETA ES HD
+http://pdsrv.io:80/wendel/wendel/24959
+#EXTINF:-1,GLOBO TV GAZETA ES SD
+http://pdsrv.io:80/wendel/wendel/24958
+#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD
+http://pdsrv.io:80/wendel/wendel/22744
+#EXTINF:-1,GLOBO TV Morena Ponta Pora HD
+http://pdsrv.io:80/wendel/wendel/22734
+#EXTINF:-1,GLOBO TV SANTA CRUZ SD
+http://pdsrv.io:80/wendel/wendel/10238
+#EXTINF:-1,GLOBO TV SERGIPE HD
+http://pdsrv.io:80/wendel/wendel/24750
+#EXTINF:-1,GLOBO TV TEM BAURU SD
+http://pdsrv.io:80/wendel/wendel/9465
+#EXTINF:-1,GLOBO TV TEM BAURU SD*
+http://pdsrv.io:80/wendel/wendel/22738
+#EXTINF:-1,GLOBO TV TEM SOROCABA SD*
+http://pdsrv.io:80/wendel/wendel/22737
+#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD
+http://pdsrv.io:80/wendel/wendel/22732
+#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD
+http://pdsrv.io:80/wendel/wendel/22735
+#EXTINF:-1,GLOBO TV VERDES MARES SD
+http://pdsrv.io:80/wendel/wendel/22733
+#EXTINF:-1,GLOBO VERDES MARES HD
+http://pdsrv.io:80/wendel/wendel/20623
+#EXTINF:-1,GLOOB HD
+http://pdsrv.io:80/wendel/wendel/7526
+#EXTINF:-1,GLOOB HD*
+http://pdsrv.io:80/wendel/wendel/20749
+#EXTINF:-1,GLOOB SD
+http://pdsrv.io:80/wendel/wendel/4369
+#EXTINF:-1,GLOOB SD*
+http://pdsrv.io:80/wendel/wendel/20750
+#EXTINF:-1,GLOOBINHO FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/25013
+#EXTINF:-1,GLOOBINHO SD
+http://pdsrv.io:80/wendel/wendel/10270
+#EXTINF:-1,GLOOBINHO SD*
+http://pdsrv.io:80/wendel/wendel/20701
+#EXTINF:-1,GNT FHD
+http://pdsrv.io:80/wendel/wendel/31123
+#EXTINF:-1,GNT HD
+http://pdsrv.io:80/wendel/wendel/6956
+#EXTINF:-1,GNT HD*
+http://pdsrv.io:80/wendel/wendel/20752
+#EXTINF:-1,GNT SD
+http://pdsrv.io:80/wendel/wendel/4368
+#EXTINF:-1,GNT SD*
+http://pdsrv.io:80/wendel/wendel/20751
+#EXTINF:-1,H2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13187
+#EXTINF:-1,H2 HD
+http://pdsrv.io:80/wendel/wendel/6111
+#EXTINF:-1,H2 HD*
+http://pdsrv.io:80/wendel/wendel/20698
+#EXTINF:-1,H2 SD
+http://pdsrv.io:80/wendel/wendel/4367
+#EXTINF:-1,H2 SD*
+http://pdsrv.io:80/wendel/wendel/20700
+#EXTINF:-1,HBO 2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11567
+#EXTINF:-1,HBO 2 HD
+http://pdsrv.io:80/wendel/wendel/6110
+#EXTINF:-1,HBO 2 HD*
+http://pdsrv.io:80/wendel/wendel/20690
+#EXTINF:-1,HBO 2 SD
+http://pdsrv.io:80/wendel/wendel/4365
+#EXTINF:-1,HBO 2 SD*
+http://pdsrv.io:80/wendel/wendel/20692
+#EXTINF:-1,HBO FAMILY FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11568
+#EXTINF:-1,HBO FAMILY HD
+http://pdsrv.io:80/wendel/wendel/6109
+#EXTINF:-1,HBO FAMILY HD*
+http://pdsrv.io:80/wendel/wendel/20687
+#EXTINF:-1,HBO FAMILY SD
+http://pdsrv.io:80/wendel/wendel/4364
+#EXTINF:-1,HBO FAMILY SD*
+http://pdsrv.io:80/wendel/wendel/20688
+#EXTINF:-1,HBO FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11566
+#EXTINF:-1,HBO HD
+http://pdsrv.io:80/wendel/wendel/6108
+#EXTINF:-1,HBO HD*
+http://pdsrv.io:80/wendel/wendel/20694
+#EXTINF:-1,HBO PLUS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13190
+#EXTINF:-1,HBO PLUS HD
+http://pdsrv.io:80/wendel/wendel/6106
+#EXTINF:-1,HBO PLUS HD*
+http://pdsrv.io:80/wendel/wendel/20920
+#EXTINF:-1,HBO PLUS SD
+http://pdsrv.io:80/wendel/wendel/4363
+#EXTINF:-1,HBO PLUS SD*
+http://pdsrv.io:80/wendel/wendel/20684
+#EXTINF:-1,HBO SD
+http://pdsrv.io:80/wendel/wendel/4366
+#EXTINF:-1,HBO SD*
+http://pdsrv.io:80/wendel/wendel/20696
+#EXTINF:-1,HBO SIGNATURE FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11570
+#EXTINF:-1,HBO SIGNATURE HD
+http://pdsrv.io:80/wendel/wendel/6105
+#EXTINF:-1,HBO SIGNATURE HD*
+http://pdsrv.io:80/wendel/wendel/20678
+#EXTINF:-1,HBO SIGNATURE SD
+http://pdsrv.io:80/wendel/wendel/4361
+#EXTINF:-1,HBO SIGNATURE SD*
+http://pdsrv.io:80/wendel/wendel/20679
+#EXTINF:-1,HISTORY CHANNEL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13211
+#EXTINF:-1,HISTORY CHANNEL HD
+http://pdsrv.io:80/wendel/wendel/6104
+#EXTINF:-1,HISTORY CHANNEL HD*
+http://pdsrv.io:80/wendel/wendel/20468
+#EXTINF:-1,HISTORY CHANNEL SD
+http://pdsrv.io:80/wendel/wendel/4314
+#EXTINF:-1,HISTORY CHANNEL SD*
+http://pdsrv.io:80/wendel/wendel/20469
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9143
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD
+http://pdsrv.io:80/wendel/wendel/6869
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD*
+http://pdsrv.io:80/wendel/wendel/20672
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD
+http://pdsrv.io:80/wendel/wendel/4360
+#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD*
+http://pdsrv.io:80/wendel/wendel/20673
+#EXTINF:-1,ID Investigation Discovery FHD
+http://pdsrv.io:80/wendel/wendel/30696
+#EXTINF:-1,IDEAL SD
+http://pdsrv.io:80/wendel/wendel/11179
+#EXTINF:-1,IDEAL TV SD
+http://pdsrv.io:80/wendel/wendel/20674
+#EXTINF:-1,IMPD TV SD
+http://pdsrv.io:80/wendel/wendel/25915
+#EXTINF:-1,LIFETIME FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11540
+#EXTINF:-1,LIFETIME HD
+http://pdsrv.io:80/wendel/wendel/7525
+#EXTINF:-1,LIFETIME HD*
+http://pdsrv.io:80/wendel/wendel/20668
+#EXTINF:-1,LIFETIME SD
+http://pdsrv.io:80/wendel/wendel/7876
+#EXTINF:-1,LIFETIME SD*
+http://pdsrv.io:80/wendel/wendel/20670
+#EXTINF:-1,MAIS GLOBOSAT HD
+http://pdsrv.io:80/wendel/wendel/9262
+#EXTINF:-1,MAIS GLOBOSAT HD*
+http://pdsrv.io:80/wendel/wendel/20665
+#EXTINF:-1,MAIS GLOBOSAT SD
+http://pdsrv.io:80/wendel/wendel/6953
+#EXTINF:-1,MAIS GLOBOSAT SD*
+http://pdsrv.io:80/wendel/wendel/20666
+#EXTINF:-1,MAX FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13189
+#EXTINF:-1,MAX HD
+http://pdsrv.io:80/wendel/wendel/10266
+#EXTINF:-1,MAX HD*
+http://pdsrv.io:80/wendel/wendel/20662
+#EXTINF:-1,MAX PRIME FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/25014
+#EXTINF:-1,MAX PRIME HD
+http://pdsrv.io:80/wendel/wendel/7850
+#EXTINF:-1,MAX PRIME HD*
+http://pdsrv.io:80/wendel/wendel/20657
+#EXTINF:-1,MAX PRIME SD
+http://pdsrv.io:80/wendel/wendel/4357
+#EXTINF:-1,MAX PRIME SD*
+http://pdsrv.io:80/wendel/wendel/20658
+#EXTINF:-1,MAX SD
+http://pdsrv.io:80/wendel/wendel/4358
+#EXTINF:-1,MAX SD*
+http://pdsrv.io:80/wendel/wendel/20664
+#EXTINF:-1,MAX UP FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/25015
+#EXTINF:-1,MAX UP HD
+http://pdsrv.io:80/wendel/wendel/10265
+#EXTINF:-1,MAX UP HD*
+http://pdsrv.io:80/wendel/wendel/20659
+#EXTINF:-1,MAX UP SD
+http://pdsrv.io:80/wendel/wendel/4355
+#EXTINF:-1,MAX UP SD*
+http://pdsrv.io:80/wendel/wendel/20660
+#EXTINF:-1,MEGAPIX 4K
+http://pdsrv.io:80/wendel/wendel/33762
+#EXTINF:-1,MEGAPIX FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8146
+#EXTINF:-1,MEGAPIX HD
+http://pdsrv.io:80/wendel/wendel/6101
+#EXTINF:-1,MEGAPIX HD*
+http://pdsrv.io:80/wendel/wendel/20653
+#EXTINF:-1,MEGAPIX SD
+http://pdsrv.io:80/wendel/wendel/4354
+#EXTINF:-1,MEGAPIX SD*
+http://pdsrv.io:80/wendel/wendel/20654
+#EXTINF:-1,MIAMI TV HD
+http://pdsrv.io:80/wendel/wendel/20594
+#EXTINF:-1,MLB HD
+http://pdsrv.io:80/wendel/wendel/20592
+#EXTINF:-1,MTV FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11573
+#EXTINF:-1,MTV HD
+http://pdsrv.io:80/wendel/wendel/7524
+#EXTINF:-1,MTV HD*
+http://pdsrv.io:80/wendel/wendel/20644
+#EXTINF:-1,MTV LIVE HD
+http://pdsrv.io:80/wendel/wendel/11202
+#EXTINF:-1,MTV SD
+http://pdsrv.io:80/wendel/wendel/4353
+#EXTINF:-1,MTV SD*
+http://pdsrv.io:80/wendel/wendel/20646
+#EXTINF:-1,MULTISHOW 4K
+http://pdsrv.io:80/wendel/wendel/33760
+#EXTINF:-1,MULTISHOW FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13201
+#EXTINF:-1,MULTISHOW HD
+http://pdsrv.io:80/wendel/wendel/6867
+#EXTINF:-1,MULTISHOW HD*
+http://pdsrv.io:80/wendel/wendel/20648
+#EXTINF:-1,MULTISHOW SD
+http://pdsrv.io:80/wendel/wendel/4352
+#EXTINF:-1,MULTISHOW SD*
+http://pdsrv.io:80/wendel/wendel/20650
+#EXTINF:-1,MUSIC BOX BRASIL SD
+http://pdsrv.io:80/wendel/wendel/7848
+#EXTINF:-1,MUSIC BOX BRASIL SD*
+http://pdsrv.io:80/wendel/wendel/20655
+#EXTINF:-1,NATGEO KIDS FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13198
+#EXTINF:-1,NATGEO KIDS HD
+http://pdsrv.io:80/wendel/wendel/10261
+#EXTINF:-1,NATGEO KIDS HD*
+http://pdsrv.io:80/wendel/wendel/20632
+#EXTINF:-1,NATGEO KIDS SD
+http://pdsrv.io:80/wendel/wendel/4350
+#EXTINF:-1,NATGEO KIDS SD*
+http://pdsrv.io:80/wendel/wendel/20642
+#EXTINF:-1,NATGEO WILD FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11528
+#EXTINF:-1,NATGEO WILD HD
+http://pdsrv.io:80/wendel/wendel/6099
+#EXTINF:-1,NATGEO WILD HD*
+http://pdsrv.io:80/wendel/wendel/20640
+#EXTINF:-1,NATGEO WILD SD
+http://pdsrv.io:80/wendel/wendel/4349
+#EXTINF:-1,NATGEO WILD SD*
+http://pdsrv.io:80/wendel/wendel/20641
+#EXTINF:-1,NATIONAL GEOGRAPHY 4K 
+http://pdsrv.io:80/wendel/wendel/33764
+#EXTINF:-1,NATIONAL GEOGRAPHY FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13188
+#EXTINF:-1,NATIONAL GEOGRAPHY HD
+http://pdsrv.io:80/wendel/wendel/6098
+#EXTINF:-1,NATIONAL GEOGRAPHY HD*
+http://pdsrv.io:80/wendel/wendel/20629
+#EXTINF:-1,NATIONAL GEOGRAPHY SD
+http://pdsrv.io:80/wendel/wendel/4348
+#EXTINF:-1,NATIONAL GEOGRAPHY SD*
+http://pdsrv.io:80/wendel/wendel/20630
+#EXTINF:-1,NHK HD
+http://pdsrv.io:80/wendel/wendel/4347
+#EXTINF:-1,NHK SD
+http://pdsrv.io:80/wendel/wendel/6949
+#EXTINF:-1,NICK JR FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11527
+#EXTINF:-1,NICK JR HD
+http://pdsrv.io:80/wendel/wendel/10260
+#EXTINF:-1,NICK JR HD*
+http://pdsrv.io:80/wendel/wendel/20631
+#EXTINF:-1,NICK JR SD
+http://pdsrv.io:80/wendel/wendel/4346
+#EXTINF:-1,NICK JR SD*
+http://pdsrv.io:80/wendel/wendel/20637
+#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11526
+#EXTINF:-1,NICKELODEON HD
+http://pdsrv.io:80/wendel/wendel/7537
+#EXTINF:-1,NICKELODEON HD*
+http://pdsrv.io:80/wendel/wendel/20635
+#EXTINF:-1,NICKELODEON SD
+http://pdsrv.io:80/wendel/wendel/4345
+#EXTINF:-1,NICKELODEON SD*
+http://pdsrv.io:80/wendel/wendel/20636
+#EXTINF:-1,NOVO TEMPO SD
+http://pdsrv.io:80/wendel/wendel/6948
+#EXTINF:-1,OFF FHD (DUAL AULDIO)
+http://pdsrv.io:80/wendel/wendel/9152
+#EXTINF:-1,OFF HD
+http://pdsrv.io:80/wendel/wendel/6947
+#EXTINF:-1,OFF HD*
+http://pdsrv.io:80/wendel/wendel/20622
+#EXTINF:-1,OFF SD
+http://pdsrv.io:80/wendel/wendel/4344
+#EXTINF:-1,PARAMOUNT FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13185
+#EXTINF:-1,PARAMOUNT HD
+http://pdsrv.io:80/wendel/wendel/6945
+#EXTINF:-1,PARAMOUNT HD*
+http://pdsrv.io:80/wendel/wendel/20619
+#EXTINF:-1,PARAMOUNT SD
+http://pdsrv.io:80/wendel/wendel/6946
+#EXTINF:-1,PARAMOUNT SD*
+http://pdsrv.io:80/wendel/wendel/20621
+#EXTINF:-1,PLAY KIDS HD
+http://pdsrv.io:80/wendel/wendel/32164
+#EXTINF:-1,PLAY TV SD
+http://pdsrv.io:80/wendel/wendel/20617
+#EXTINF:-1,POLISHOP TV SD
+http://pdsrv.io:80/wendel/wendel/4342
+#EXTINF:-1,PREMIERE CLUBES  4K
+http://pdsrv.io:80/wendel/wendel/33753
+#EXTINF:-1,PREMIERE CLUBES HD
+http://pdsrv.io:80/wendel/wendel/6089
+#EXTINF:-1,PREMIERE CLUBES HD*
+http://pdsrv.io:80/wendel/wendel/20599
+#EXTINF:-1,PREMIERE CLUBES SD
+http://pdsrv.io:80/wendel/wendel/4333
+#EXTINF:-1,PREMIERE CLUBES SD*
+http://pdsrv.io:80/wendel/wendel/20596
+#EXTINF:-1,PREMIERE CLUBES FHD  (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9144
+#EXTINF:-1,PREMIERE 2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8149
+#EXTINF:-1,PREMIERE 2 HD
+http://pdsrv.io:80/wendel/wendel/6093
+#EXTINF:-1,PREMIERE 2 HD*
+http://pdsrv.io:80/wendel/wendel/20615
+#EXTINF:-1,PREMIERE 2 SD
+http://pdsrv.io:80/wendel/wendel/4341
+#EXTINF:-1,PREMIERE 3 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9230
+#EXTINF:-1,PREMIERE 3 HD
+http://pdsrv.io:80/wendel/wendel/6092
+#EXTINF:-1,PREMIERE 3 HD*
+http://pdsrv.io:80/wendel/wendel/20612
+#EXTINF:-1,PREMIERE 3 SD
+http://pdsrv.io:80/wendel/wendel/4340
+#EXTINF:-1,PREMIERE 4 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11552
+#EXTINF:-1,PREMIERE 4 HD
+http://pdsrv.io:80/wendel/wendel/6091
+#EXTINF:-1,PREMIERE 4 HD*
+http://pdsrv.io:80/wendel/wendel/20609
+#EXTINF:-1,PREMIERE 4 SD
+http://pdsrv.io:80/wendel/wendel/4339
+#EXTINF:-1,PREMIERE 4 SD*
+http://pdsrv.io:80/wendel/wendel/20593
+#EXTINF:-1,PREMIERE 5 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/9231
+#EXTINF:-1,PREMIERE 5 HD
+http://pdsrv.io:80/wendel/wendel/6090
+#EXTINF:-1,PREMIERE 5 HD*
+http://pdsrv.io:80/wendel/wendel/20606
+#EXTINF:-1,PREMIERE 5 SD
+http://pdsrv.io:80/wendel/wendel/4338
+#EXTINF:-1,PREMIERE 6 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11550
+#EXTINF:-1,PREMIERE 6 HD
+http://pdsrv.io:80/wendel/wendel/10259
+#EXTINF:-1,PREMIERE 6 HD*
+http://pdsrv.io:80/wendel/wendel/20603
+#EXTINF:-1,PREMIERE 6 SD
+http://pdsrv.io:80/wendel/wendel/4337
+#EXTINF:-1,PREMIERE 7 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11549
+#EXTINF:-1,PREMIERE 7 HD
+http://pdsrv.io:80/wendel/wendel/10258
+#EXTINF:-1,PREMIERE 7 HD*
+http://pdsrv.io:80/wendel/wendel/20601
+#EXTINF:-1,PREMIERE 7 SD
+http://pdsrv.io:80/wendel/wendel/4336
+#EXTINF:-1,PREMIERE 7 SD*
+http://pdsrv.io:80/wendel/wendel/20590
+#EXTINF:-1,PREMIERE 8 SD
+http://pdsrv.io:80/wendel/wendel/20589
+#EXTINF:-1,PREMIERE 9 SD
+http://pdsrv.io:80/wendel/wendel/20588
+#EXTINF:-1,PRIME BOX BRASIL SD*
+http://pdsrv.io:80/wendel/wendel/20587
+#EXTINF:-1,PRIME BOX BRAZIL SD
+http://pdsrv.io:80/wendel/wendel/4332
+#EXTINF:-1,PT: FOX News
+http://pdsrv.io:80/wendel/wendel/30819
+#EXTINF:-1,RBS TV PORTO ALEGRE SD
+http://pdsrv.io:80/wendel/wendel/6942
+#EXTINF:-1,REAL MADRID TV SD
+http://pdsrv.io:80/wendel/wendel/6183
+#EXTINF:-1,RECORD TV GOIANIA HD
+http://pdsrv.io:80/wendel/wendel/30708
+#EXTINF:-1,RECORD 4K
+http://pdsrv.io:80/wendel/wendel/33750
+#EXTINF:-1,RECORD BRASILIA HD
+http://pdsrv.io:80/wendel/wendel/33275
+#EXTINF:-1,RECORD CAMPINAS HD
+http://pdsrv.io:80/wendel/wendel/33277
+#EXTINF:-1,RECORD ES SD
+http://pdsrv.io:80/wendel/wendel/6817
+#EXTINF:-1,RECORD FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13183
+#EXTINF:-1,RECORD GOIANIA FHD
+http://pdsrv.io:80/wendel/wendel/30437
+#EXTINF:-1,RECORD HD
+http://pdsrv.io:80/wendel/wendel/7836
+#EXTINF:-1,RECORD HD*
+http://pdsrv.io:80/wendel/wendel/20571
+#EXTINF:-1,RECORD NEWS ES FHD
+http://pdsrv.io:80/wendel/wendel/20557
+#EXTINF:-1,RECORD NEWS ES HD
+http://pdsrv.io:80/wendel/wendel/10255
+#EXTINF:-1,RECORD NEWS ES SD
+http://pdsrv.io:80/wendel/wendel/6941
+#EXTINF:-1,RECORD NEWS SD
+http://pdsrv.io:80/wendel/wendel/30707
+#EXTINF:-1,RECORD PARANA HD
+http://pdsrv.io:80/wendel/wendel/18148
+#EXTINF:-1,RECORD RIO HD
+http://pdsrv.io:80/wendel/wendel/25543
+#EXTINF:-1,RECORD RS HD
+http://pdsrv.io:80/wendel/wendel/25017
+#EXTINF:-1,RECORD SANTA CATARINA HD
+http://pdsrv.io:80/wendel/wendel/18153
+#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD
+http://pdsrv.io:80/wendel/wendel/30432
+#EXTINF:-1,RECORD SD
+http://pdsrv.io:80/wendel/wendel/4423
+#EXTINF:-1,RECORD SP HD
+http://pdsrv.io:80/wendel/wendel/18168
+#EXTINF:-1,RECORD TV ATALAIA HD
+http://pdsrv.io:80/wendel/wendel/24751
+#EXTINF:-1,RECORD TV BELEM HD
+http://pdsrv.io:80/wendel/wendel/30426
+#EXTINF:-1,RECORD TV GOIAS HD
+http://pdsrv.io:80/wendel/wendel/18151
+#EXTINF:-1,RECORD TV LITORAL SANTOS HD
+http://pdsrv.io:80/wendel/wendel/30423
+#EXTINF:-1,REDE BRASIL SD
+http://pdsrv.io:80/wendel/wendel/4421
+#EXTINF:-1,REDE FAMILIA HD
+http://pdsrv.io:80/wendel/wendel/32579
+#EXTINF:-1,REDE GOSPEL SD
+http://pdsrv.io:80/wendel/wendel/25975
+#EXTINF:-1,REDE RECORD MINAS HD
+http://pdsrv.io:80/wendel/wendel/30435
+#EXTINF:-1,REDE TV 4K
+http://pdsrv.io:80/wendel/wendel/33751
+#EXTINF:-1,REDE TV HD
+http://pdsrv.io:80/wendel/wendel/6940
+#EXTINF:-1,REDE TV HD*
+http://pdsrv.io:80/wendel/wendel/20574
+#EXTINF:-1,REDE TV SD
+http://pdsrv.io:80/wendel/wendel/4420
+#EXTINF:-1,REDE TV SD*
+http://pdsrv.io:80/wendel/wendel/20575
+#EXTINF:-1,REDE VIDA SD
+http://pdsrv.io:80/wendel/wendel/6939
+#EXTINF:-1,RIT SD
+http://pdsrv.io:80/wendel/wendel/20572
+#EXTINF:-1,SBT 4K
+http://pdsrv.io:80/wendel/wendel/33757
+#EXTINF:-1,SBT ARACAJU HD
+http://pdsrv.io:80/wendel/wendel/24753
+#EXTINF:-1,SBT BRASILIA HD
+http://pdsrv.io:80/wendel/wendel/33276
+#EXTINF:-1,BAND GOIANIA FHD
+http://pdsrv.io:80/wendel/wendel/30438
+
+#EXTINF:-1,RECORD NEWS Santa Catarina HD
+http://pdsrv.io:80/wendel/wendel/24923
+#EXTINF:-1,SBT SD
+http://pdsrv.io:80/wendel/wendel/4331
+#EXTINF:-1,SBT SD*
+http://pdsrv.io:80/wendel/wendel/20555
+#EXTINF:-1,SBT SERRA DOURADA FHD
+http://pdsrv.io:80/wendel/wendel/33284
+#EXTINF:-1,SBT Serra Dourada HD
+http://pdsrv.io:80/wendel/wendel/33768
+#EXTINF:-1,SHOP TIME HD
+http://pdsrv.io:80/wendel/wendel/20573
+#EXTINF:-1,SIC INTERNACIONAL SD
+http://pdsrv.io:80/wendel/wendel/20525
+#EXTINF:-1,SKY NEWS
+http://pdsrv.io:80/wendel/wendel/30822
+#EXTINF:-1,SPACE 4K
+http://pdsrv.io:80/wendel/wendel/33767
+#EXTINF:-1,SPACE FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13197
+#EXTINF:-1,SPACE HD
+http://pdsrv.io:80/wendel/wendel/6085
+#EXTINF:-1,SPACE HD*
+http://pdsrv.io:80/wendel/wendel/20532
+#EXTINF:-1,SPACE SD
+http://pdsrv.io:80/wendel/wendel/4328
+#EXTINF:-1,SPORTV 2 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11539
+#EXTINF:-1,SPORTV 2 HD
+http://pdsrv.io:80/wendel/wendel/6084
+#EXTINF:-1,SPORTV 2 HD*
+http://pdsrv.io:80/wendel/wendel/20540
+#EXTINF:-1,SPORTV 2 SD
+http://pdsrv.io:80/wendel/wendel/4326
+#EXTINF:-1,SPORTV 2 SD*
+http://pdsrv.io:80/wendel/wendel/20541
+#EXTINF:-1,SPORTV 3 FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11538
+#EXTINF:-1,SPORTV 3 HD
+http://pdsrv.io:80/wendel/wendel/6083
+#EXTINF:-1,SPORTV 3 HD*
+http://pdsrv.io:80/wendel/wendel/20536
+#EXTINF:-1,SPORTV 3 SD
+http://pdsrv.io:80/wendel/wendel/4325
+#EXTINF:-1,SPORTV 3 SD*
+http://pdsrv.io:80/wendel/wendel/20537
+#EXTINF:-1,SPORTV 4K
+http://pdsrv.io:80/wendel/wendel/33759
+#EXTINF:-1,SPORTV FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11563
+#EXTINF:-1,SPORTV HD*
+http://pdsrv.io:80/wendel/wendel/6082
+#EXTINF:-1,SPORTV HD
+http://pdsrv.io:80/wendel/wendel/20544
+#EXTINF:-1,SPORTV SD
+http://pdsrv.io:80/wendel/wendel/4327
+#EXTINF:-1,SPORTV SD*
+http://pdsrv.io:80/wendel/wendel/20545
+#EXTINF:-1,STUDIO UNIVERSAL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13194
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://pdsrv.io:80/wendel/wendel/7874
+#EXTINF:-1,STUDIO UNIVERSAL HD*
+http://pdsrv.io:80/wendel/wendel/20546
+#EXTINF:-1,STUDIO UNIVERSAL SD
+http://pdsrv.io:80/wendel/wendel/4324
+#EXTINF:-1,STUDIO UNIVERSAL SD*
+http://pdsrv.io:80/wendel/wendel/20547
+#EXTINF:-1,SYFY FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13195
+#EXTINF:-1,SYFY HD
+http://pdsrv.io:80/wendel/wendel/7795
+#EXTINF:-1,SYFY HD*
+http://pdsrv.io:80/wendel/wendel/20550
+#EXTINF:-1,SYFY SD
+http://pdsrv.io:80/wendel/wendel/4323
+#EXTINF:-1,SYFY SD*
+http://pdsrv.io:80/wendel/wendel/20551
+#EXTINF:-1,TBS HD
+http://pdsrv.io:80/wendel/wendel/7873
+#EXTINF:-1,TBS HD*
+http://pdsrv.io:80/wendel/wendel/20521
+#EXTINF:-1,TBS SD
+http://pdsrv.io:80/wendel/wendel/4322
+#EXTINF:-1,TBS SD*
+http://pdsrv.io:80/wendel/wendel/20522
+#EXTINF:-1,TCM SD
+http://pdsrv.io:80/wendel/wendel/4321
+#EXTINF:-1,TCM SD*
+http://pdsrv.io:80/wendel/wendel/20496
+#EXTINF:-1,TELECINE ACTION FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8141
+#EXTINF:-1,TELECINE ACTION HD
+http://pdsrv.io:80/wendel/wendel/6080
+#EXTINF:-1,TELECINE ACTION HD*
+http://pdsrv.io:80/wendel/wendel/20517
+#EXTINF:-1,TELECINE ACTION SD
+http://pdsrv.io:80/wendel/wendel/4320
+#EXTINF:-1,TELECINE ACTION SD*
+http://pdsrv.io:80/wendel/wendel/20518
+#EXTINF:-1,TELECINE CULT FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8143
+#EXTINF:-1,TELECINE CULT HD
+http://pdsrv.io:80/wendel/wendel/10247
+#EXTINF:-1,TELECINE CULT HD*
+http://pdsrv.io:80/wendel/wendel/20513
+#EXTINF:-1,TELECINE CULT SD
+http://pdsrv.io:80/wendel/wendel/4319
+#EXTINF:-1,TELECINE CULT SD*
+http://pdsrv.io:80/wendel/wendel/20514
+#EXTINF:-1,TELECINE FUN FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11561
+#EXTINF:-1,TELECINE FUN HD
+http://pdsrv.io:80/wendel/wendel/6079
+#EXTINF:-1,TELECINE FUN HD*
+http://pdsrv.io:80/wendel/wendel/20509
+#EXTINF:-1,TELECINE FUN SD
+http://pdsrv.io:80/wendel/wendel/4318
+#EXTINF:-1,TELECINE FUN SD*
+http://pdsrv.io:80/wendel/wendel/20510
+#EXTINF:-1,TELECINE PIPOCA FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8144
+#EXTINF:-1,TELECINE PIPOCA HD
+http://pdsrv.io:80/wendel/wendel/6078
+#EXTINF:-1,TELECINE PIPOCA HD*
+http://pdsrv.io:80/wendel/wendel/20505
+#EXTINF:-1,TELECINE PIPOCA SD
+http://pdsrv.io:80/wendel/wendel/4317
+#EXTINF:-1,TELECINE PREMIUM FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/8140
+#EXTINF:-1,TELECINE PREMIUM HD
+http://pdsrv.io:80/wendel/wendel/6077
+#EXTINF:-1,TELECINE PREMIUM HD*
+http://pdsrv.io:80/wendel/wendel/20501
+#EXTINF:-1,TELECINE PREMIUM SD
+http://pdsrv.io:80/wendel/wendel/4316
+#EXTINF:-1,TELECINE TOUCH FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/25016
+#EXTINF:-1,TELECINE TOUCH HD
+http://pdsrv.io:80/wendel/wendel/6076
+#EXTINF:-1,TELECINE TOUCH HD*
+http://pdsrv.io:80/wendel/wendel/20497
+#EXTINF:-1,TELECINE TOUCH SD
+http://pdsrv.io:80/wendel/wendel/4315
+#EXTINF:-1,TERRA VIVA SD
+http://pdsrv.io:80/wendel/wendel/6936
+#EXTINF:-1,TLC HD
+http://pdsrv.io:80/wendel/wendel/24786
+#EXTINF:-1,TLC SD
+http://pdsrv.io:80/wendel/wendel/4313
+#EXTINF:-1,TNT 4K
+http://pdsrv.io:80/wendel/wendel/33755
+#EXTINF:-1,TNT FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13181
+#EXTINF:-1,TNT HD
+http://pdsrv.io:80/wendel/wendel/6074
+#EXTINF:-1,TNT HD*
+http://pdsrv.io:80/wendel/wendel/20493
+#EXTINF:-1,TNT SD
+http://pdsrv.io:80/wendel/wendel/4312
+#EXTINF:-1,TNT SERIES 4K
+http://pdsrv.io:80/wendel/wendel/33765
+#EXTINF:-1,TNT SERIES FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13186
+#EXTINF:-1,TNT SERIES HD
+http://pdsrv.io:80/wendel/wendel/6073
+#EXTINF:-1,TNT SERIES HD*
+http://pdsrv.io:80/wendel/wendel/20489
+#EXTINF:-1,TNT SERIES SD
+http://pdsrv.io:80/wendel/wendel/4311
+#EXTINF:-1,TOONCAST HD
+http://pdsrv.io:80/wendel/wendel/20485
+#EXTINF:-1,TOONCAST SD
+http://pdsrv.io:80/wendel/wendel/4310
+#EXTINF:-1,TOONCAST SD*
+http://pdsrv.io:80/wendel/wendel/20486
+#EXTINF:-1,TRUTV SD
+http://pdsrv.io:80/wendel/wendel/6935
+#EXTINF:-1,TV ALTEROSA SBT DIVINOPOLIS MG SD
+http://pdsrv.io:80/wendel/wendel/30433
+#EXTINF:-1,TV ALTEROSA SBT MINAS HD
+http://pdsrv.io:80/wendel/wendel/30434
+#EXTINF:-1,TV ANHANGUERA GOIANIA HD
+http://pdsrv.io:80/wendel/wendel/30439
+#EXTINF:-1,TV ANHANGUERA SD
+http://pdsrv.io:80/wendel/wendel/33257
+#EXTINF:-1,TV APARECIDA SD
+http://pdsrv.io:80/wendel/wendel/4438
+#EXTINF:-1,TV ARATU SBT BAHIA HD
+http://pdsrv.io:80/wendel/wendel/30428
+#EXTINF:-1,TV BRASIL SD*
+http://pdsrv.io:80/wendel/wendel/20482
+#EXTINF:-1,TV CABRALIA RECORD BAHIA HD
+http://pdsrv.io:80/wendel/wendel/30429
+#EXTINF:-1,TV CAMARA SD
+http://pdsrv.io:80/wendel/wendel/10245
+#EXTINF:-1,RPC PR HD
+http://pdsrv.io:80/wendel/wendel/20483
+#EXTINF:-1,TV CIDADE OESTE SD
+http://pdsrv.io:80/wendel/wendel/20484
+#EXTINF:-1,TV CLIMATEMPO SD
+http://pdsrv.io:80/wendel/wendel/20478
+#EXTINF:-1,TV CULTURA HD
+http://pdsrv.io:80/wendel/wendel/20473
+#EXTINF:-1,TV CULTURA SD
+http://pdsrv.io:80/wendel/wendel/4412
+#EXTINF:-1,TV ESCOLA SD*
+http://pdsrv.io:80/wendel/wendel/20477
+#EXTINF:-1,TV EVANGELIZAR SD
+http://pdsrv.io:80/wendel/wendel/6206
+#EXTINF:-1,TV GAZETA SP HD
+http://pdsrv.io:80/wendel/wendel/30425
+#EXTINF:-1,TV GLOBO RPC CURITIBA SD*
+http://pdsrv.io:80/wendel/wendel/7866
+#EXTINF:-1,TV JUSTICA SD*
+http://pdsrv.io:80/wendel/wendel/20475
+#EXTINF:-1,TV LIBERAL BELEM SD
+http://pdsrv.io:80/wendel/wendel/33256
+#EXTINF:-1,TV PAMPA - REDE TV RS HD
+http://pdsrv.io:80/wendel/wendel/30436
+#EXTINF:-1,TV PARANAIBA RECORD UBERLANDIA MG HD
+http://pdsrv.io:80/wendel/wendel/30424
+#EXTINF:-1,TV RA TIM BUM HD
+http://pdsrv.io:80/wendel/wendel/24787
+#EXTINF:-1,TV RA TIM BUM SD
+http://pdsrv.io:80/wendel/wendel/6933
+#EXTINF:-1,GLOBO TV GAZETA ES FHD
+http://pdsrv.io:80/wendel/wendel/20476
+#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD
+http://pdsrv.io:80/wendel/wendel/30431
+#EXTINF:-1,TV SENADO SD
+http://pdsrv.io:80/wendel/wendel/10246
+#EXTINF:-1,TV SUBAE GLOBO BAHIA HD
+http://pdsrv.io:80/wendel/wendel/30430
+#EXTINF:-1,TV TEM BAURU SD
+http://pdsrv.io:80/wendel/wendel/33255
+#EXTINF:-1,TV TEM SOROCABA SD
+http://pdsrv.io:80/wendel/wendel/33254
+#EXTINF:-1,TV TRIBUNA ES FHD
+http://pdsrv.io:80/wendel/wendel/33610
+#EXTINF:-1,TV TRIBUNA ES HD
+http://pdsrv.io:80/wendel/wendel/33609
+#EXTINF:-1,TV TRIBUNA ES SD
+http://pdsrv.io:80/wendel/wendel/33608
+#EXTINF:-1,TV VITORIA ES FHD
+http://pdsrv.io:80/wendel/wendel/33604
+#EXTINF:-1,TV VITORIA ES HD
+http://pdsrv.io:80/wendel/wendel/33603
+#EXTINF:-1,TV VITORIA ES SD
+http://pdsrv.io:80/wendel/wendel/33602
+#EXTINF:-1,TVE HD
+http://pdsrv.io:80/wendel/wendel/4440
+#EXTINF:-1,UNIVERSAL CHANNEL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/13192
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://pdsrv.io:80/wendel/wendel/5987
+#EXTINF:-1,UNIVERSAL CHANNEL HD*
+http://pdsrv.io:80/wendel/wendel/20464
+#EXTINF:-1,TV TEM São José do Rio Preto SD
+http://pdsrv.io:80/wendel/wendel/4308
+#EXTINF:-1,UNIVERSAL CHANNEL SD
+http://pdsrv.io:80/wendel/wendel/20465
+#EXTINF:-1,VH1 MEGA HITS HD
+http://pdsrv.io:80/wendel/wendel/10361
+#EXTINF:-1,VH1 MEGA HITS SD
+http://pdsrv.io:80/wendel/wendel/10243
+#EXTINF:-1,VIVA HD
+http://pdsrv.io:80/wendel/wendel/6848
+#EXTINF:-1,VIVA HD*
+http://pdsrv.io:80/wendel/wendel/20460
+#EXTINF:-1,VIVA SD
+http://pdsrv.io:80/wendel/wendel/6928
+#EXTINF:-1,VIVA SD*
+http://pdsrv.io:80/wendel/wendel/20461
+#EXTINF:-1,WARNER CHANNEL FHD (DUAL AUDIO)
+http://pdsrv.io:80/wendel/wendel/11525
+#EXTINF:-1,WARNER CHANNEL HD
+http://pdsrv.io:80/wendel/wendel/6072
+#EXTINF:-1,WARNER CHANNEL HD*
+http://pdsrv.io:80/wendel/wendel/20456
+#EXTINF:-1,WARNER CHANNEL SD
+http://pdsrv.io:80/wendel/wendel/4307
+#EXTINF:-1,WARNER CHANNEL SD*
+http://pdsrv.io:80/wendel/wendel/20457
+#EXTINF:-1,WOOHOO SD
+http://pdsrv.io:80/wendel/wendel/20453
+#EXTINF:-1,ZOOMOO HD
+http://pdsrv.io:80/wendel/wendel/20576
+#EXTINF:-1,ZOOMOO SD
+http://pdsrv.io:80/wendel/wendel/20450
